@@ -1,0 +1,83 @@
+---
+title: "A dignity claim: "
+description: |
+  Ageing on the move
+output: 
+  distill::distill_article:
+    theme: theme.css
+    toc: true
+    toc_float: true
+---
+
+<script type="text/javascript" src="//platform.twitter.com/widgets.js"></script>
+
+<script src="//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
+<script type='text/javascript'>
+$(document).ready(function() {
+  $('.tweetable').each(function() {
+     var sentence = $(this);
+     var permalink = sentence.parents('.post-outer').find('.timestamp-link').attr('href') || $(location).attr('href');
+     var tweetable = sentence.text();
+     var result = encodeURIComponent(tweetable);
+     var link = encodeURIComponent(permalink);
+     
+sentence.wrap('<a class="tweet-link" href="https://twitter.com/intent/tweet?text=' + result + " " + link +'"></a>');
+    });
+});
+</script>
+
+
+<p class="tweetable">Share this microsite!</p>
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+
+# Learn more about creating websites with Distill at:
+# https://rstudio.github.io/distill/website.html
+
+# Learn more about publishing to GitHub Pages at:
+# https://rstudio.github.io/distill/publish_website.html#github-pages
+
+library(knitr)
+```
+
+## Part1 
+
+```{r, layout="l-body-outset", fig.width=6, fig.height=1.5}
+library(ggplot2)
+ggplot(diamonds, aes(carat, price)) + geom_smooth() +
+  facet_grid(~ cut)
+```
+
+
+
+```{r, layout="l-screen"}
+include_graphics("images/SPA_WIDE_MACRO 1.png")
+```
+
+
+## Part 2
+
+```{r, layout="l-body-outset"}
+library(rmarkdown)
+paged_table(mtcars)
+```
+
+
+```{r, layout="l-body-outset"}
+include_graphics("images/SPA_WIDE_MACRO 2.png")
+```
+
+
+## Part 3
+
+<aside>
+This content will appear in the gutter of the article.
+</aside>
+
+
+<aside>
+```{r fig.width=5}
+ggplot(mtcars, aes(hp, mpg)) + geom_point() + geom_smooth()
+```
+</aside>

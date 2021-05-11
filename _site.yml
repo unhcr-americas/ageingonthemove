@@ -1,0 +1,12 @@
+name: "ageingonthemove"
+title: "A dignity claim: Ageing on the move"
+description: |
+  A dignity claim: Ageing on the move
+output_dir: "docs"
+navbar:
+  right:
+    - text: "Home"
+      href: index.html
+    - text: "About"
+      href: about.html
+output: distill::distill_article
