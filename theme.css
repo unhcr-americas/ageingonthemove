@@ -15,6 +15,9 @@
 @import url('https://fonts.googleapis.com/css2?family=DM+Mono');
 @import url('https://fonts.googleapis.com/css2?family=Lato');
 
+/* alternative to proxima nova                 */
+@import url('https://fonts.googleapis.com/css2?family=Montserrat');
+
 
 html {
   /*-- Main font sizes --*/
@@ -23,6 +26,7 @@ html {
   --code-size:       14px;
   --aside-size:      12px;
   --fig-cap-size:    13px;
+  /*-- Main font colors --*/
   /*-- Main font colors --*/
   --title-color:     #000000;
   --header-color:    rgba(0, 0, 0, 0.8);
@@ -39,6 +43,9 @@ html {
   --body-font:       "Lato", Arial, sans-serif;
   --navbar-font:     "Lato", Arial, sans-serif;
 }
+
+
+
 
 /*-- ARTICLE METADATA --*/
 d-byline {
@@ -67,10 +74,12 @@ d-appendix {
 
 .distill-site-header {
   --title-size:       18px;
-  --text-color:       rgba(255, 255, 255, 0.8);
+/*  --text-color:       rgba(255, 255, 255, 0.8);
+  --bkgd-color:       #0072bc;*/
+  --text-color:       black;
+  --bkgd-color:       white;
   --text-size:        15px;
   --hover-color:      white;
-  --bkgd-color:       #0072bc;
 }
 
 .distill-site-footer {
@@ -105,3 +114,55 @@ a.tweet-link {
 
 /*-- Additional custom styles --*/
 /* Add any additional CSS rules below                      */
+
+
+
+.distill-site-header .logo img {
+    display: inline-block;
+    width: 384px;
+    height: 100px;
+    max-height: 100px;
+}
+
+.distill-site-header {
+    height: 100px;
+}
+
+
+.distill-site-header .title {
+position: relative;
+transform: translateY(-70%);
+}
+
+.distill-site-header .nav-right {
+    top: 25%;
+    position: relative;
+}
+
+
+/*-- headers --*/
+d-title {
+  background: url(images/header.jpg);
+  background-position: center top;
+  background-size: 100% auto;
+  padding-bottom: 4rem;
+  padding-top: 30rem;
+}
+
+
+d-title h1 {
+  /*-- font-weight: 700; --*/
+  font-size: 4.6rem;
+  color: #ffffff !important;
+  line-height: 0.9em;
+  text-shadow: 2px 2px 4px #000000;
+}
+
+d-title p {
+  /*-- font-weight: 700; --*/
+  
+  font-size: 1.5rem;
+  color: #faeb00 !important;
+  line-height: 1.1em;
+  text-shadow: 2px 2px 4px #000000;
+}

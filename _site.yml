@@ -4,11 +4,14 @@ description: |
   A dignity claim: Ageing on the move
 output_dir: "docs"
 navbar:
+  logo:
+    image: images/logo.png
+    href: https://www.rstudio.com
   right:
     - text: "Specific care"
       href: "index.html#a-need-for-specific-care"
     - text: "Profiles and condition"
-      href: "index.html#what-are-the-profiles-and-condition-of-ageing-people-forced-to-move""
+      href: index.html#what-are-the-profiles-and-condition-of-ageing-people-forced-to-move"
     - text: "Protection risk"
       href: "index.html#what-are-the-specific-protection-risk-they-are-exposed-to"
     - text: "Challenges"

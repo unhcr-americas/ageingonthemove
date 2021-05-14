@@ -2,7 +2,13 @@
 title: "About this site"
 description: |
   Some additional details about the website
+output: 
+  distill::distill_article:
+    theme: theme.css
+    toc: true
+    toc_float: true
 ---
+
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE)
