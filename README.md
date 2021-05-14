@@ -7,6 +7,8 @@ This repository can be used as a template to generate microsite -
 
 It uses a customized version of the [distill package](https://rstudio.github.io/distill/website.html). 
 
+The advantage of this approach is to generate quickly a well-themed microsite without cding any html/css/javascript as the content will be only a [mark-down document]  
+
 The aim is to reproduce the look and feel from other UNHCR microsite like - 
 
  * [Desperate journeys](https://www.unhcr.org/desperatejourneys/)
@@ -22,7 +24,7 @@ It can typically be built to highlight content from joint study and research pro
 ### URL and Search Engine Optimisation (SEO)
 
 SEO-related factors to consider are:  
- * meta tags (aka a list of key words), 
+ * meta tags (aka a list of key words - see  here: https://rstudio.github.io/distill/metadata.html and https://themockup.blog/posts/2021-03-21-including-and-meta-tagging-extra-content-in-a-distill-blog/), 
  * inbound and outbound links (links  to other content), 
  * domain name & URL structure (URL has to be carefully selected), 
  * mobile friendliness & responsiveness (the site needs to be read-able on smartphone and large screen), 

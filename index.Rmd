@@ -1,7 +1,12 @@
 ---
 title: "A dignity claim: Ageing on the move"
 description: |
-  Making ageing persons visible to enhance comprehensive actions in humanitarian responses 
+  Making ageing persons visible to enhance comprehensive actions in humanitarian responses
+preview: images/SPA_WIDE_MACRO%201.png
+twitter:
+  site: "@unhcr"
+  creator: "@unhcr"
+repository_url: https://github.com/unhcr-americas/ageingonthemove  
 output: 
   distill::distill_article:
     theme: theme.css
@@ -37,6 +42,24 @@ knitr::opts_chunk$set(echo = FALSE)
 # https://rstudio.github.io/distill/publish_website.html#github-pages
 
 library(knitr)
+
+library(metathis)
+
+meta() %>%
+  meta_social(
+    title = "A dignity claim: Ageing on the move",
+    description = "Making ageing persons visible to enhance comprehensive actions in humanitarian responses",
+    url = "https://ageingonthemove.org",
+    image = "https://raw.githubusercontent.com/unhcr-americas/ageingonthemove/main/images/SPA_WIDE_MACRO%201.png",
+    image_alt = "A dignity claim: Ageing on the move",
+    og_type = "website",
+    og_author = "UNHCR",
+    twitter_card_type = "summary",
+    twitter_creator = "@unhcr"
+  )
+
+
+
 ```
 
 
