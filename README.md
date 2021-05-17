@@ -65,3 +65,4 @@ Prepare Key message s (less than 144 character) ready to be tweeted and add a "s
 
 `_site.yml` is the file where site navigation bar is being configured, while `_footer.html` is used for the footer.
 
+See also customization advice from https://rstudio4edu.github.io/rstudio4edu-book/rmd-dress.html 

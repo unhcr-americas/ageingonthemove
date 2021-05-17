@@ -24,12 +24,10 @@ navbar:
         href: "index.html#covid-19-has-impacted-their-livelihoods-metal-health-and-physical-conditions"
       - text: "Conclusions"
         href: "index.html#conclusions"
-    - text: "Language" 
+    - text: "English" 
       menu:
       - text: "Spanish"
         href: "esp/index.html"
-      - text: "English"
-        href: "index.html"
     - text: "Download"  
       menu:
       - text: "Executive Summary"
