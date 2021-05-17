@@ -2197,10 +2197,12 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
   }
   
   .distill-site-footer {
-    --text-color:       rgba(255, 255, 255, 0.8);
+  /*  --text-color:       rgba(255, 255, 255, 0.8);
+    --bkgd-color:       #0072bc;*/
+    --text-color:       white;
     --text-size:        15px;
     --hover-color:      white;
-    --bkgd-color:       #0072bc;
+    --bkgd-color:       black;
   }
   
   .tweetable {
@@ -2256,7 +2258,8 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
   
   /*-- headers --*/
   d-title {
-    background: url(images/header.jpg);
+    background-image: url(images/header.jpg);
+    background-repeat: no-repeat;
     background-position: center top;
     background-size: 100% auto;
     padding-bottom: 4rem;
@@ -2478,17 +2481,53 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
 <header class="header header--fixed" role="banner">
 <nav class="distill-site-nav distill-site-header">
 <div class="nav-left">
-<a class="logo" href="https://www.rstudio.com">
+<a class="logo" href="https://ageingonthemove.org">
 <img src="images/logo.png" alt="Logo"/>
 </a>
 <a href="index.html" class="title">A dignity claim: Ageing on the move</a>
 </div>
 <div class="nav-right">
-<a href="index.html#a-need-for-specific-care">Specific care</a>
-<a href="index.html#what-are-the-profiles-and-condition-of-ageing-people-forced-to-move&quot;">Profiles and condition</a>
-<a href="index.html#what-are-the-specific-protection-risk-they-are-exposed-to">Protection risk</a>
-<a href="index.html#what-challenges-are-being-faced">Challenges</a>
-<a href="about.html">About</a>
+<div class="nav-dropdown">
+<button class="nav-dropbtn">
+Content
+ 
+<span class="down-arrow">&#x25BE;</span>
+</button>
+<div class="nav-dropdown-content">
+<a href="index.html#introduction">Introduction and context</a>
+<a href="index.html#recommendations">Recommendations</a>
+<a href="index.html#what-are-the-profiles-and-condition-of-older-people-on-the-move-in-the-americas">Profiles &amp; Conditions</a>
+<a href="index.html#what-challenges-are-being-faced-by-older-persons-on-the-move-in-the-americas">Challenges</a>
+<a href="index.html#what-are-the-specific-protection-risks-they-are-exposed-to">protection risk</a>
+<a href="index.html#covid-19-has-impacted-their-livelihoods-metal-health-and-physical-conditions">COVID-19 impact</a>
+<a href="index.html#conclusions">Conclusions</a>
+</div>
+</div>
+<div class="nav-dropdown">
+<button class="nav-dropbtn">
+Language
+ 
+<span class="down-arrow">&#x25BE;</span>
+</button>
+<div class="nav-dropdown-content">
+<a href="esp/index.html">Spanish</a>
+<a href="index.html">English</a>
+</div>
+</div>
+<div class="nav-dropdown">
+<button class="nav-dropbtn">
+Download
+ 
+<span class="down-arrow">&#x25BE;</span>
+</button>
+<div class="nav-dropdown-content">
+<a href="index.html">Executive Summary</a>
+<a href="index.html">Report</a>
+<a href="index.html">Annexes</a>
+<a href="http://microdata.unhcr.org">Data</a>
+<a href="index.html">Media</a>
+</div>
+</div>
 <a href="javascript:void(0);" class="nav-toggle">&#9776;</a>
 </div>
 </nav>
@@ -2554,12 +2593,17 @@ A total of 725 older persons were consulted via telephone, as well as caretakers
 <h2 id="recommendations">Recommendations</h2>
 <p>The International Humanitarian System, Agencies and Donors are called upon to include older persons in situations of human mobility as a priority and vulnerable group in all their agendas, adapting and financing the institutional structure that responds to their needs. This should be translated into humanitarian responses and programmes that include older persons in human mobility as direct beneficiaries, guaranteeing their dignity, autonomy, independence and participation, avoiding interventions that expose them to situations of dependency, abuse and discrimination. Humanitarian aid should include physical and mental health care, and housing or shelter support, given the general impacts and risks those evictions can generate. Support for work or entrepreneurship should also be considered.</p>
 <p>Globally, States are called upon to push forward the project to draft and adopt a United Nations International Convention on the Protection of Older Persons, led by the <a href="https://social.un.org/ageing-working-group/">Open-Ended Working Group on Ageing</a>.</p>
-<p>Regionally, it is important for States to adhere to and implement the <a href="http://www.oas.org/en/sla/dil/inter_american_treaties_a-70_human_rights_older_persons.asp">Inter-American Convention on Protecting the Human Rights of Older Persons</a>, as the legal framework in force for all American States, adapting their domestic laws in the light of this instrument and other relevant International and Regional Human Rights Law protection frameworks. To this end, ten States must complete their accession to the IACPHROP to activate the monitoring mechanism foreseen to promote effective compliance.</p>
+<p>Regionally, it is important for States to adhere to and implement the <a href="http://www.oas.org/en/sla/dil/inter_american_treaties_a-70_human_rights_older_persons.asp">Inter-American Convention on Protecting the Human Rights of Older Persons</a>, as the legal framework in force for all American States, adapting their domestic laws in the light of this instrument and other relevant International and Regional Human Rights Law protection frameworks.</p>
+<aside>
+To this end, ten States must complete their accession to the IACPHROP to activate the monitoring mechanism foreseen to promote effective compliance.
+</aside>
 <h2 id="what-are-the-profiles-and-condition-of-older-people-on-the-move-in-the-americas">What are the profiles and condition of older people on the move in the Americas?</h2>
 <p>Among the countries included in the assessment, in Honduras and El Salvador, human mobility is mainly characterised by internal displacement flows resulting from gang or mara violence, people deported mainly from the United States and Mexico, and the socio-economic difficulties caused by COVID-19. In the Andean region, mixed movements (refugees and migrants) are mainly observed as a result of the humanitarian crisis in Venezuela, which has led to the exodus of millions of people. Their needs are closely tied to access to basic needs such as food and health services.</p>
 <p>The three main causes of human mobility identified in the countries of Honduras and El Salvador are access to work or income opportunities (47% overall), with a significant gender difference of 53% for men and 39% for women, the causes of which affect principally deportees (70%). The need for protection from threats, violence or persecution (28% overall), and is the main cause of mobility for 36% of IDPs. Supporting the family (25% overall), is the main third main cause reported by 47% of deportees. These three main causes affected, 81% of older person in human mobility and their family members.</p>
 <p>In the countries of the Andean region, the main cause of human mobility is access to food (76%), reaching 84% in the refugee and migrant population and with a gender difference of almost 10 points: 71% men vs 80% women. The second main cause is a lack of access to health (73%), with a 12 -point difference among persons with disabilities, whereby 80% lack access compared to 68% of those without disabilities. Here too, there is a marked difference between men (66%) and women (79%). The third cause is access to work or income opportunities (58%), with a difference of almost ten points between men (63%) and women (54%), and with a difference between persons with disabilities (52%) and those without (62%).</p>
-<p>In 89% of the cases, these reasons for human mobility affected not only the older person but also his or her family group, making family reunification a fourth cause.</p>
+<aside>
+In 89% of the cases, these reasons for human mobility affected not only the older person but also his or her family group, making family reunification a fourth cause.
+</aside>
 <h2 id="what-challenges-are-being-faced-by-older-persons-on-the-move-in-the-americas">What challenges are being faced by older persons on the move in the Americas?</h2>
 <p>Include GIF with main findings to open section.</p>
 <h3 id="facing-job-losses-and-lack-of-income">Facing job losses and lack of income</h3>
@@ -2626,15 +2670,16 @@ Quote from report in page 83</p>
 Overall, limitation in accessing health services to treat symptoms or illnesses other than those associated with the virus is increasing, reaching 43% in Honduras and El Salvador and 44% in the Andean region. The limitation is even greater for persons with disabilities, involving half of the sample (50%).</p>
 <h2 id="conclusions">Conclusions</h2>
 <ul>
-<li><pre><code>Irregularity or lack of access to asylum facilities can lead to a series of risks and difficulties in the enjoyment of rights by older persons in human mobility. This was mainstreamed in the results that were analysed in terms of access to health, housing, work and security, among other rights.</code></pre></li>
-<li><pre><code>The main difficulties for obtaining documentation are, on the one hand, the high degree of misinformation on administrative procedures required to remain in the countries legally and, on the other, the absence of a priority approach to provide documentation by the respective authorities.  </code></pre></li>
-<li><pre><code>Older persons have a number of health problems that tend to receive little attention. Mental health is the second most prevalent condition after hypertension and is linked to human mobility in all countries. This is a condition that requires urgent attention.</code></pre></li>
-<li><pre><code>The vast majority of the older people in human mobility surveyed live in a situation of great economic vulnerability, since very few or no pensions are received, and access to work is limited by the conditions of the labour markets, by the lack of documentation and by discrimination mainly due to age and mobility. All this leads to informality in situations of precariousness and labour exploitation, with long working hours and low incomes, as well as degrading and dangerous situations. Precarious conditions are exacerbated in rural areas, especially for groups of people who may face forced displacement. </code></pre></li>
-<li><pre><code>There is a sector of the older population that is not being adequately nourished, with more than a fifth not eating three meals a day, compounded by a decrease in meal consumption as a result of the pandemic. Older people&#39;s diets are not nutritionally balanced, and this needs to be addressed in order to provide guidance and resources to people to improve their diets, control overweight, and prevent tan increase of chronic diseases. </code></pre></li>
-<li><pre><code>The older population in situation of human mobility is subject to poor security in terms of the right to housing. There are cases of overcrowding in Honduras, Colombia, and Peru. Eviction is another serious risk for older people and is a form of mistreatment of this population group as well as their families. </code></pre></li>
-<li><pre><code>Psychological abuse is a problem that should be prioritised, as it is linked to insecurity and violence. In this sense, older people in human mobility are more vulnerable than the rest of the population. Women suffer higher percentages of psychological abuse in several cases, and it is necessary to consider gender differences in terms of the forms of mistreatment. People in transit may be at high risk due to the extreme vulnerability that crossing irregular border crossings sometimes entails. </code></pre></li>
+<li><p>Irregularity or lack of access to asylum facilities can lead to a series of risks and difficulties in the enjoyment of rights by older persons in human mobility. This was mainstreamed in the results that were analysed in terms of access to health, housing, work and security, among other rights.</p></li>
+<li><p>The main difficulties for obtaining documentation are, on the one hand, the high degree of misinformation on administrative procedures required to remain in the countries legally and, on the other, the absence of a priority approach to provide documentation by the respective authorities.</p></li>
+<li><p>Older persons have a number of health problems that tend to receive little attention. Mental health is the second most prevalent condition after hypertension and is linked to human mobility in all countries. This is a condition that requires urgent attention.</p></li>
+<li><p>The vast majority of the older people in human mobility surveyed live in a situation of great economic vulnerability, since very few or no pensions are received, and access to work is limited by the conditions of the labour markets, by the lack of documentation and by discrimination mainly due to age and mobility. All this leads to informality in situations of precariousness and labour exploitation, with long working hours and low incomes, as well as degrading and dangerous situations. Precarious conditions are exacerbated in rural areas, especially for groups of people who may face forced displacement.</p></li>
+<li><p>There is a sector of the older population that is not being adequately nourished, with more than a fifth not eating three meals a day, compounded by a decrease in meal consumption as a result of the pandemic. Older people’s diets are not nutritionally balanced, and this needs to be addressed in order to provide guidance and resources to people to improve their diets, control overweight, and prevent tan increase of chronic diseases.</p></li>
+<li><p>he older population in situation of human mobility is subject to poor security in terms of the right to housing. There are cases of overcrowding in Honduras, Colombia, and Peru. Eviction is another serious risk for older people and is a form of mistreatment of this population group as well as their families.</p></li>
+<li><p>Psychological abuse is a problem that should be prioritised, as it is linked to insecurity and violence. In this sense, older people in human mobility are more vulnerable than the rest of the population. Women suffer higher percentages of psychological abuse in several cases, and it is necessary to consider gender differences in terms of the forms of mistreatment. People in transit may be at high risk due to the extreme vulnerability that crossing irregular border crossings sometimes entails.<br />
+</p></li>
 </ul>
-<div class="sourceCode" id="cb8"><pre class="sourceCode r distill-force-highlighting-css"><code class="sourceCode r"></code></pre></div>
+<div class="sourceCode" id="cb1"><pre class="sourceCode r distill-force-highlighting-css"><code class="sourceCode r"></code></pre></div>
 <!--radix_placeholder_article_footer-->
 <!--/radix_placeholder_article_footer-->
 </div>
@@ -2653,12 +2698,7 @@ Overall, limitation in accessing health services to treat symptoms or illnesses 
 <!--/radix_placeholder_appendices-->
 <!--radix_placeholder_navigation_after_body-->
 <div class="distill-site-nav distill-site-footer">
-<p>© Copyright 2021 <a href="https://www.unhcr.org">UNHCR</a></p>
-<p>  <!-- adds a tab --></p>
-<p><a href="https://aa%20ml">Department page</a></p>
-<p>  <!-- adds a tab -->  </p>
-<p><a href="https://www.g">Global page</a>   </p>
-<p><a href="https://fl">page</a></p>
+<p>© 2021 <a href="https://www.unhcr.org/about-us.html">UNHCR</a> / <a href="https://www.helpage.org">HelpAge</a> | <a href="https://www.unhcr.org/contact-us.html">Contact</a> | <a href="https://www.unhcr.org/terms-and-conditions.html">Terms and conditions of use</a> | <a href="https://www.unhcr.org/privacy-policy.html">Privacy policy</a> | <a href="about.html">About this study</a></p>
 </div>
 <!--/radix_placeholder_navigation_after_body-->
 

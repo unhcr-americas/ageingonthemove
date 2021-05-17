@@ -83,10 +83,12 @@ d-appendix {
 }
 
 .distill-site-footer {
-  --text-color:       rgba(255, 255, 255, 0.8);
+/*  --text-color:       rgba(255, 255, 255, 0.8);
+  --bkgd-color:       #0072bc;*/
+  --text-color:       white;
   --text-size:        15px;
   --hover-color:      white;
-  --bkgd-color:       #0072bc;
+  --bkgd-color:       black;
 }
 
 .tweetable {
@@ -142,7 +144,8 @@ transform: translateY(-70%);
 
 /*-- headers --*/
 d-title {
-  background: url(images/header.jpg);
+  background-image: url(images/header.jpg);
+  background-repeat: no-repeat;
   background-position: center top;
   background-size: 100% auto;
   padding-bottom: 4rem;

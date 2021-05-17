@@ -6,16 +6,42 @@ output_dir: "docs"
 navbar:
   logo:
     image: images/logo.png
-    href: https://www.rstudio.com
+    href: https://ageingonthemove.org
   right:
-    - text: "Specific care"
-      href: "index.html#a-need-for-specific-care"
-    - text: "Profiles and condition"
-      href: index.html#what-are-the-profiles-and-condition-of-ageing-people-forced-to-move"
-    - text: "Protection risk"
-      href: "index.html#what-are-the-specific-protection-risk-they-are-exposed-to"
-    - text: "Challenges"
-      href: "index.html#what-challenges-are-being-faced"
-    - text: "About"
-      href: "about.html"
+    - text: "Content"  
+      menu:
+      - text: "Introduction and context"
+        href: "index.html#introduction"
+      - text: "Recommendations"
+        href: "index.html#recommendations"
+      - text: "Profiles & Conditions"
+        href: "index.html#what-are-the-profiles-and-condition-of-older-people-on-the-move-in-the-americas"
+      - text: "Challenges"
+        href: "index.html#what-challenges-are-being-faced-by-older-persons-on-the-move-in-the-americas"
+      - text: "protection risk"
+        href: "index.html#what-are-the-specific-protection-risks-they-are-exposed-to"
+      - text: "COVID-19 impact"
+        href: "index.html#covid-19-has-impacted-their-livelihoods-metal-health-and-physical-conditions"
+      - text: "Conclusions"
+        href: "index.html#conclusions"
+    - text: "Language" 
+      menu:
+      - text: "Spanish"
+        href: "esp/index.html"
+      - text: "English"
+        href: "index.html"
+    - text: "Download"  
+      menu:
+      - text: "Executive Summary"
+        href: "index.html"
+      - text: "Report"
+        href: "index.html"
+      - text: "Annexes"
+        href: "index.html"
+      - text: "Data"
+        href: "http://microdata.unhcr.org"
+      - text: "Media"
+        href: "index.html"
 output: distill::distill_article
+
+
