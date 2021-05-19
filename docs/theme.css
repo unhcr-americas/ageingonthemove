@@ -121,6 +121,7 @@ a.tweet-link {
 
 .distill-site-header .logo img {
     display: inline-block;
+/* Add any additional CSS rules below     */                 
     width: 384px;
     height: 100px;
     max-height: 100px;
@@ -168,4 +169,16 @@ d-title p {
   color: #faeb00 !important;
   line-height: 1.1em;
   text-shadow: 2px 2px 4px #000000;
+}
+
+d-article aside {
+   background: rgb(204, 227, 242);
+   padding: 1em;
+}
+
+d-article blockquote {
+    border-left: 2px solid rgba(0, 0, 0, 0.2);
+    padding-left: 2em;
+    font-style: italic;
+    color: rgba(0, 0, 0, 0.6);
 }
