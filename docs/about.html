@@ -2131,6 +2131,12 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
   @import url('https://fonts.googleapis.com/css2?family=Montserrat');
   
   
+  
+  /*               
+  Rojo: #ed1651
+  naranja: #f15a22
+  */
+  
   html {
     /*-- Main font sizes --*/
     --title-size:      50px;
@@ -2162,7 +2168,8 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
   /*-- ARTICLE METADATA --*/
   d-byline {
     --heading-size:    0.6rem;
-    --heading-color:   rgba(0, 0, 0, 0.5);
+    --heading-color:   #f15a22;
+   /* --heading-color:   rgba(0, 0, 0, 0.5);*/
     --body-size:       0.8rem;
     --body-color:      rgba(0, 0, 0, 0.8);
   }
@@ -2208,28 +2215,27 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
   /* Add any additional CSS rules below                      */
   
   
-  p tweetable {
-    background: url(images/Twitter_logo_white_1.png) 1% 10% no-repeat #0072bc;
+  .tweetable {
+    background: url(images/Twitter_logo_white_1.png) 1% 10% no-repeat rgb(0, 114, 188); 
     padding: 2em 1em;
     max-width: 800px;
-    margin: 20px auto;
+    margin: 15px auto;
     font-family: sans-serif;
     font-weight: lighter;
-    font-size: 1.3em;
+    font-size: 1.1em;
   }
   
-  p tweetable:before {
+  .tweetable:before {
     display: inline-block;
     text-decoration: none;
-    content: 'Tweet it! \21e8';
-    padding-left: 30px;
-    padding-right: 20px;
+    content: '  \21e8';
+    padding-left: 18px;
+    padding-right: 10px;
   }
   
-  p a.tweet-link { 
+  a.tweet-link { 
     color: white;
   }
-  
   
   
   

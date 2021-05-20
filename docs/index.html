@@ -2133,6 +2133,12 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
   @import url('https://fonts.googleapis.com/css2?family=Montserrat');
   
   
+  
+  /*               
+  Rojo: #ed1651
+  naranja: #f15a22
+  */
+  
   html {
     /*-- Main font sizes --*/
     --title-size:      50px;
@@ -2164,7 +2170,8 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
   /*-- ARTICLE METADATA --*/
   d-byline {
     --heading-size:    0.6rem;
-    --heading-color:   rgba(0, 0, 0, 0.5);
+    --heading-color:   #f15a22;
+   /* --heading-color:   rgba(0, 0, 0, 0.5);*/
     --body-size:       0.8rem;
     --body-color:      rgba(0, 0, 0, 0.8);
   }
@@ -2210,28 +2217,27 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
   /* Add any additional CSS rules below                      */
   
   
-  p tweetable {
-    background: url(images/Twitter_logo_white_1.png) 1% 10% no-repeat #0072bc;
+  .tweetable {
+    background: url(images/Twitter_logo_white_1.png) 1% 10% no-repeat rgb(0, 114, 188); 
     padding: 2em 1em;
     max-width: 800px;
-    margin: 20px auto;
+    margin: 15px auto;
     font-family: sans-serif;
     font-weight: lighter;
-    font-size: 1.3em;
+    font-size: 1.1em;
   }
   
-  p tweetable:before {
+  .tweetable:before {
     display: inline-block;
     text-decoration: none;
-    content: 'Tweet it! \21e8';
-    padding-left: 30px;
-    padding-right: 20px;
+    content: '  \21e8';
+    padding-left: 18px;
+    padding-right: 10px;
   }
   
-  p a.tweet-link { 
+  a.tweet-link { 
     color: white;
   }
-  
   
   
   
@@ -2606,18 +2612,18 @@ The lack of information regarding the regularization procedures is another chall
 <p>“We requested an appointment for our asylum claim and we got scheduled for 2022”. – Woman (67) in Peru, 2020</p>
 </blockquote>
 <h3 id="many-have-limited-access-to-health-care">Many have limited access to health care</h3>
-<p class="“tweetable”">
-Almost 27% of the people interviewed reported not having access to any health service, and 98% reported having at least one health condition or disability.
-</p>
 <p>42% of respondents are not receiving treatment for different health conditions either due to missed medical appointments, lack of documentation, lack of money to pay for medicine or fear of approaching health centres due to the risk of contagion. Difficulties in getting around or distance from health centres are only rarely given as reasons.</p>
 <aside>
 On average, around 30% of older people consulted did not use health services even when they were needing them before the pandemic.
 </aside>
 <p>More than a fifth of those who used health services have had to pay, which, given the severe financial condition that most older persons on the move are subject to, severely limits their ability to access the services they need.</p>
 <p>Most of the older persons consulted reported limited access to health care during the pandemic. Forty-two per cent were not receiving treatment for prior health conditions and 6% of those infected with COVID-19 reported not receiving adequate medical care.</p>
+<p class="tweetable">
+Almost 27% of the people interviewed reported not having access to any health service, and 98% reported having at least one health condition or disability.
+</p>
 <h3 id="facing-job-losses-and-lack-of-income">Facing job losses and lack of income</h3>
 <p>Older refugees have been deprived of their financial autonomy as many have lost their jobs and source of income and been left dependent on the often inexistant humanitarian aid.</p>
-<p class="“tweetable”">
+<p class="tweetable">
 Some 64% of older persons consulted had no monthly income before the pandemic, and of those who did have an income, 62% felt it had not been enough to meet their basic needs.
 </p>
 <p>Despite their increased vulnerability, <strong>older persons on the move have often become the main bread-winners for the household</strong> as they continue to have family members under their care, including children and adolescents (60%), adults (38%), people over 60 years old (20%) and persons with disabilities (5%)</p>
@@ -2626,7 +2632,7 @@ Some 64% of older persons consulted had no monthly income before the pandemic, a
 </div>
 <h3 id="a-quarter-of-older-persons-consulted-are-not-eating-3-meals-a-day.">A quarter of older persons consulted are not eating 3 meals a day.</h3>
 <p>Access to food for older persons on the move has worsened in all countries assessed. Already prior to the pandemic, one in four were having to skip meals. With the advent of COVID-19, 41% had to further reduce their food intake. Even for those who eat sufficient number of meals per day, it does not imply that they enjoy an adequate nutritional balance, as in many cases food consumption is mainly composed of carbohydrates, especially in rural areas of Honduras and El Salvador, with little protein or no ingredients suitable for older people’s diets.</p>
-<p class="“tweetable”">
+<p class="tweetable">
 Access to food is provided mainly through the support of family members and their own income, or to a greater extent through the support of neighbours or friends.
 </p>
 <p>WEBSTORY + VIDEO (see Reference below)</p>
@@ -2659,7 +2665,7 @@ In Honduras and El Salvador, the percentage of elder abuse is 63%, with a signif
 </div>
 <h3 id="active-participation-in-their-communities">Active participation in their communities</h3>
 <p>The empowerment of the older persons is related to factors such as participation, physical accessibility, the ability to move from one place to another as well as the communication channels at their disposal that generate autonomy and independence.</p>
-<p class="“tweetable”">
+<p class="tweetable">
 More than two third had no activities to share or to socialize with others. Women presented a higher percentage of non-participation than men.
 </p>
 <p>This participation is even lower when it comes to older persons with disabilities. In addition, around 84% of older persons have not attended talks or taken part in training and awareness-raising activities concerning their rights.<br />
@@ -2668,7 +2674,7 @@ Although before COVID-19 the older persons did not actively participate, during 
 <p>Equipment and Internet access are essential supports in the information process, but also as mechanisms for participation in virtual activities or as intermediaries to facilitate the development of community actions. More than 85% of older persons have access to mobile phones, 70% to a television and only 35% to a radio. Though only 10% have access to landline phones, laptops, entertainment devices, tablets and desktop computers. Access to mobile phones does not necessarily imply Internet connectivity, since on average access slightly exceeds one third of the population, except for Colombia and Ecuador. In addition, most of their mobile phones are not smartphones. One of their main uses is to connect with family members via WhatsApp.</p>
 <p><a href="https://www.unhcr.org/news/stories/2019/6/5cffc16c4/older-colombians-venezuelans-care-other-under-roof.html">WEBSTORY + VIDEO</a> <a href="https://www.youtube.com/watch?v=Ehf67tMy-0c" class="uri">https://www.youtube.com/watch?v=Ehf67tMy-0c</a></p>
 <h2 id="covid-19-has-affected-the-livelihoods-mental-health-and-physical-conditions-of-older-persons-across-latin-america.">COVID-19 has affected the livelihoods, mental health and physical conditions of older persons across Latin America.</h2>
-<p class="“tweetable”">
+<p class="tweetable">
 The COVID-19 pandemic has gravely worsened the wellbeing of older persons on the move across Latin America, by further limiting their access to rights and services.
 </p>
 <p>The pandemic has exacerbated pre-existing threats to the physical and mental health, nutrition, financial autonomy and legal status of older refugees and others on the move.</p>
@@ -2676,7 +2682,7 @@ The COVID-19 pandemic has gravely worsened the wellbeing of older persons on the
 <p>This limitation is even greater in persons with disabilities. In addition, 6% of those infected with COVID-19 reported not receiving adequate medical care.</p>
 <p>Access to food for older persons on the move had also worsened in all countries assessed. Already prior to the pandemic, one in four were having to skip meals. With the advent of COVID-19, 41% had to further reduce their food intake. Some 64% of older persons consulted had no monthly income before the pandemic. From those who did have income, 62% felt it was not enough to meet their basic needs. But COVID-19 further compounded their economic situation, leaving many more without employment. In Honduras and El Salvador, a third of those interviewed reported that they had lost their jobs. In Andean region countries, nearly half had lost jobs. Meanwhile, housing conditions also worsened for one fifth of those interviewed, as they were unable to afford rent. Five per cent of the respondents had been evicted during the pandemic.</p>
 <p>The psychological effects of the pandemic are one the biggest identified problems, relating to depression, anxiety, and the constant fear of contagion or death. The illness or emotional disorders have intensified, especially in older persons who are victims of internal displacement and deportations.</p>
-<p class="“tweetable”">
+<p class="tweetable">
 Emotional illnesses and disorders have been intensified by the pandemic.
 </p>
 <p><strong>Isolation is one of the most important effects of COVID-19</strong>, as people cannot meet with friends and family as they normally would, and their recreation is also reduced. The pandemic has led to a decrease in the daily contact of older persons on the move with their families, from 39% to 26%, which has an impact on feelings of isolation and loneliness. Isolation aggravates physical and mental health conditions.</p>

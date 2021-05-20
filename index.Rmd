@@ -33,6 +33,8 @@ sentence.wrap('<a class="tweet-link" href="https://twitter.com/intent/tweet?text
 </script>
 
 
+
+
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE)
 
@@ -125,9 +127,6 @@ Older persons on the move in the Andean region are the most affected by lack of 
 ### Many have limited access to health care 
 
 
-<p class=“tweetable”>Almost 27% of the people interviewed reported not having
-access to any health service, and 98% reported having at least one health condition or disability.</p>
-
  42% of respondents are not receiving treatment for different health conditions either due to missed medical appointments, lack of documentation, lack of money to pay for medicine or fear of approaching health centres due to the risk of contagion. Difficulties in getting around or distance from health centres are only rarely given as reasons.
 
 <aside>On average, around 30% of older people consulted did not use health services even when they were needing them before the pandemic.</aside>
@@ -136,11 +135,14 @@ More than a fifth of those who used health services have had to pay, which, give
 
 Most of the older persons consulted reported limited access to health care during the pandemic. Forty-two per cent were not receiving treatment for prior health conditions and 6% of those infected with COVID-19 reported not receiving adequate medical care. 
 
+<p class="tweetable">Almost 27% of the people interviewed reported not having
+access to any health service, and 98% reported having at least one health condition or disability.</p>
+
 ### Facing job losses and lack of income 
 
 Older refugees have been deprived of their financial autonomy as many have lost their jobs and source of income and been left dependent on the often inexistant humanitarian aid. 
 
-<p class=“tweetable”>Some 64% of older persons consulted had no monthly income before the pandemic, and of those who did have an income, 62% felt it had not been enough to meet their basic needs.</p>
+<p class="tweetable">Some 64% of older persons consulted had no monthly income before the pandemic, and of those who did have an income, 62% felt it had not been enough to meet their basic needs.</p>
 
 Despite their increased vulnerability, __older persons on the move have often become the main bread-winners for the household__ as they continue to have family members under their care, including children and adolescents (60%), adults (38%), people over 60 years old (20%) and persons with disabilities (5%)
  
@@ -154,7 +156,7 @@ include_graphics("images/SPA_WIDE_MACRO 4.png")
 Access to food for older persons on the move has worsened in all countries assessed. Already prior to the pandemic, one in four were having to skip meals. With the advent of COVID-19, 41% had to further reduce their food intake. 
 Even for those who eat sufficient number of meals per day, it does not imply that they enjoy an adequate nutritional balance, as in many cases food consumption is mainly composed of carbohydrates, especially in rural areas of Honduras and El Salvador, with little protein or no ingredients suitable for older people's diets.  
 
-<p class=“tweetable”>Access to food is provided mainly through the support of family members and their own income, or to a greater extent through the support of neighbours or friends.</p>
+<p class="tweetable">Access to food is provided mainly through the support of family members and their own income, or to a greater extent through the support of neighbours or friends.</p>
 
 WEBSTORY + VIDEO (see Reference below)
  
@@ -211,7 +213,7 @@ include_graphics("images/SPA_WIDE_MACRO 2.png")
 
 The empowerment of the older persons is related to factors such as participation, physical accessibility, the ability to move from one place to another as well as the communication channels at their disposal that generate autonomy and independence. 
 
-<p class=“tweetable”>More than two third had no activities to share or to socialize with others. Women presented a higher percentage of non-participation than men. </p>
+<p class="tweetable">More than two third had no activities to share or to socialize with others. Women presented a higher percentage of non-participation than men. </p>
  
 This participation is even lower when it comes to older persons with disabilities. In addition, around 84% of older persons have not attended talks or taken part in training and awareness-raising activities concerning their rights.  
 Although before COVID-19 the older persons did not actively participate, during the pandemic, their participation has drastically decreased due to the confinement measures, which has caused physical and mental health problems.
@@ -229,7 +231,7 @@ https://www.youtube.com/watch?v=Ehf67tMy-0c
 
 ## COVID-19 has affected the livelihoods, mental health and physical conditions of older persons across Latin America.
 
-<p class=“tweetable”>The COVID-19 pandemic has gravely worsened the wellbeing of older persons on the move across Latin America, by further limiting their access to rights and services.</p>
+<p class="tweetable">The COVID-19 pandemic has gravely worsened the wellbeing of older persons on the move across Latin America, by further limiting their access to rights and services.</p>
 
  The pandemic has exacerbated pre-existing threats to the physical and mental health, nutrition, financial autonomy and legal status of older refugees and others on the move. 
 
@@ -243,7 +245,7 @@ Meanwhile, housing conditions also worsened for one fifth of those interviewed, 
 
 The psychological effects of the pandemic are one the biggest identified problems, relating to depression, anxiety, and the constant fear of contagion or death. The illness or emotional disorders have intensified, especially in older persons who are victims of internal displacement and deportations.  
 
-<p class=“tweetable”>Emotional illnesses and disorders have been intensified by the pandemic.</p>
+<p class="tweetable">Emotional illnesses and disorders have been intensified by the pandemic.</p>
 
 
 __Isolation is one of the most important effects of COVID-19__, as people cannot meet with friends and family as they normally would, and their recreation is also reduced. The pandemic has led to a decrease in the daily contact of older persons on the move with their families, from 39% to 26%, which has an impact on feelings of isolation and loneliness. Isolation aggravates physical and mental health conditions.  
@@ -270,4 +272,6 @@ The study unveils a series of specific vulnerabilities for older persons on the 
 * The older population on the move is subject to poor security in terms of the right to housing. There are cases of overcrowding in Honduras, Colombia, and Peru. __Eviction is another serious risk for older persons__ and is a form of mistreatment of this population group as well as their families. 
 
 * __Psychological abuse__ is linked to insecurity and violence: Older persons on the move are more vulnerable than the rest of the population. Women suffer higher percentages of psychological abuse in several cases, and it is necessary to consider gender differences in terms of the forms of mistreatment. People in transit are at higher risk of abuse due to the added vulnerability that crossing irregular border crossings sometimes entails. 
+
+
 
