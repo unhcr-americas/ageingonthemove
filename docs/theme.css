@@ -172,36 +172,43 @@ d-title p {
 
 d-article aside {
    background: rgb(204, 227, 242);
+   border-radius: 15px;
    padding: 1em;
 }
 
 d-article blockquote {
-    border-left: 2px solid rgba(0, 0, 0, 0.2);
-    padding-left: 2em;
+    border-left: 3px solid #0072bc;
+    padding-left: 0.8em;
+    margin-left: 2em;
     font-style: italic;
 }
 
 
 .tweetable {
-  background: url(images/Twitter_logo_white_1.png) 1% 10% no-repeat rgb(0, 114, 188); 
-  padding: 2em 1em;
+  background: url(images/Twitter_logo_blue.png) 1% 10% no-repeat ; 
+  padding: 1em 1em;
   max-width: 800px;
-  margin: 15px auto;
+   margin: 5px auto; /**/
   font-family: sans-serif;
   font-weight: lighter;
   font-size: 1.1em;
 }
 
 .tweetable:before {
-  display: inline-block;
   text-decoration: none;
-  content: '  \21e8';
+  display: inline-block;
+  /* 
+  below is the small arrow...
+  content: '  \21e8'; */
+  
+  content: '  '; 
   padding-left: 18px;
   padding-right: 10px;
 }
 
 a.tweet-link { 
-  color: white;
+  /*color: white; */
+  color:#0072bc;
 }
 
 
@@ -214,6 +221,8 @@ a.tweet-link {
 .parallax1{background:url(images/parallax1.jpg)}
 .parallax2{background:url(images/parallax2.jpg)}
 .parallax3{background:url(images/parallax3.jpg)}
+
+.parallaxstory{background-color: #f4f4f4!important;}
 
 /*-- list of background image for chapter transition 
 .parallax4{background:url(images/parallax4.jpg)}
@@ -254,6 +263,16 @@ Improve the readability of the text contents by adding an extra colored backgrou
 	width: 100%;
 	z-index: 1;
 	top: 30%;
-	left: 2%;
+	left: 7%;
 }
 
+.parallax p{
+	position: absolute;
+  font-size: 0.6rem;
+  color: #666; !important;
+  text-shadow: 1px 1px 1px #000000;
+	width: 100%;
+	z-index: 1;
+	top: 10%;
+	left: 10%;
+}

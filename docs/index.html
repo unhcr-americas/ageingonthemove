@@ -2286,36 +2286,43 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
   
   d-article aside {
      background: rgb(204, 227, 242);
+     border-radius: 15px;
      padding: 1em;
   }
   
   d-article blockquote {
-      border-left: 2px solid rgba(0, 0, 0, 0.2);
-      padding-left: 2em;
+      border-left: 3px solid #0072bc;
+      padding-left: 0.8em;
+      margin-left: 2em;
       font-style: italic;
   }
   
   
   .tweetable {
-    background: url(images/Twitter_logo_white_1.png) 1% 10% no-repeat rgb(0, 114, 188); 
-    padding: 2em 1em;
+    background: url(images/Twitter_logo_blue.png) 1% 10% no-repeat ; 
+    padding: 1em 1em;
     max-width: 800px;
-    margin: 15px auto;
+     margin: 5px auto; /**/
     font-family: sans-serif;
     font-weight: lighter;
     font-size: 1.1em;
   }
   
   .tweetable:before {
-    display: inline-block;
     text-decoration: none;
-    content: '  \21e8';
+    display: inline-block;
+    /* 
+    below is the small arrow...
+    content: '  \21e8'; */
+    
+    content: '  '; 
     padding-left: 18px;
     padding-right: 10px;
   }
   
   a.tweet-link { 
-    color: white;
+    /*color: white; */
+    color:#0072bc;
   }
   
   
@@ -2328,6 +2335,8 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
   .parallax1{background:url(images/parallax1.jpg)}
   .parallax2{background:url(images/parallax2.jpg)}
   .parallax3{background:url(images/parallax3.jpg)}
+  
+  .parallaxstory{background-color: #f4f4f4!important;}
   
   /*-- list of background image for chapter transition 
   .parallax4{background:url(images/parallax4.jpg)}
@@ -2368,9 +2377,19 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
   	width: 100%;
   	z-index: 1;
   	top: 30%;
-  	left: 2%;
+  	left: 7%;
   }
-  </style>
+  
+  .parallax p{
+  	position: absolute;
+    font-size: 0.6rem;
+    color: #666; !important;
+    text-shadow: 1px 1px 1px #000000;
+  	width: 100%;
+  	z-index: 1;
+  	top: 10%;
+  	left: 10%;
+  }</style>
   <style type="text/css">
   /* base style */
   
@@ -2686,24 +2705,17 @@ On average, around 30% of older people consulted did not use health services eve
 </aside>
 <p>More than a fifth of those who used health services have had to pay, which, given the severe financial condition that most older persons on the move are subject to, severely limits their ability to access the services they need.</p>
 <p>Most of the older persons consulted reported limited access to health care during the pandemic. Forty-two per cent were not receiving treatment for prior health conditions and 6% of those infected with COVID-19 reported not receiving adequate medical care.</p>
-<p class="tweetable">
-Almost 27% of the people interviewed reported not having access to any health service, and 98% reported having at least one health condition or disability.
-</p>
+<p>Almost 27% of the people interviewed reported not having access to any health service, and 98% reported having at least one health condition or disability.</p>
 <h3 id="facing-job-losses-and-lack-of-income">Facing job losses and lack of income</h3>
 <p>Older refugees have been deprived of their financial autonomy as many have lost their jobs and source of income and been left dependent on the often inexistant humanitarian aid.</p>
-<p class="tweetable">
-Some 64% of older persons consulted had no monthly income before the pandemic, and of those who did have an income, 62% felt it had not been enough to meet their basic needs.
-</p>
-<p>Despite their increased vulnerability, <strong>older persons on the move have often become the main bread-winners for the household</strong> as they continue to have family members under their care, including children and adolescents (60%), adults (38%), people over 60 years old (20%) and persons with disabilities (5%)</p>
+<p>Some 64% of older persons consulted had no monthly income before the pandemic, and of those who did have an income, 62% felt it had not been enough to meet their basic needs.</p>
+<p>Despite their increased vulnerability, older persons on the move have often become the main bread-winners for the household as they continue to have family members under their care, including children and adolescents (60%), adults (38%), people over 60 years old (20%) and persons with disabilities (5%)</p>
 <div class="layout-chunk" data-layout="l-page">
 <p><img src="images/SPA_WIDE_MACRO%204.png" width="1067" /></p>
 </div>
 <h3 id="a-quarter-of-older-persons-consulted-are-not-eating-3-meals-a-day.">A quarter of older persons consulted are not eating 3 meals a day.</h3>
 <p>Access to food for older persons on the move has worsened in all countries assessed. Already prior to the pandemic, one in four were having to skip meals. With the advent of COVID-19, 41% had to further reduce their food intake. Even for those who eat sufficient number of meals per day, it does not imply that they enjoy an adequate nutritional balance, as in many cases food consumption is mainly composed of carbohydrates, especially in rural areas of Honduras and El Salvador, with little protein or no ingredients suitable for older people’s diets.</p>
-<p class="tweetable">
-Access to food is provided mainly through the support of family members and their own income, or to a greater extent through the support of neighbours or friends.
-</p>
-<p>WEBSTORY + VIDEO (see Reference below)</p>
+<p>Access to food is provided mainly through the support of family members and their own income, or to a greater extent through the support of neighbours or friends.</p>
 <blockquote>
 <p>“Sometimes we don’t eat breakfast, we only have one meal a day” – Agapito</p>
 </blockquote>
@@ -2712,12 +2724,12 @@ Access to food is provided mainly through the support of family members and thei
 <aside>
 During the pandemic, one fifth of those interviewed were unable to afford rent and five per cent had been evicted.
 </aside>
-<p><strong>In Honduras and El Salvador, 44% of people live in a flat or house of their own, a marked contrast to the countries in the Andean region, where only 9% of people live in a flat or house of their own</strong>. In Honduras and El Salvador, the average number of people living in rented accommodation (32%) is much lower than in the Andean countries (79%).</p>
+<p>In Honduras and El Salvador, 44% of people live in a flat or house of their own, a marked contrast to the countries in the Andean region, where only 9% of people live in a flat or house of their own. In Honduras and El Salvador, the average number of people living in rented accommodation (32%) is much lower than in the Andean countries (79%).</p>
 <p>A third of the surveyed population lives in a single room and half of the population shares a room with one or two other people. Overcrowding is a matter of concern for the internally displaced population in Honduras, which reaches a third of the population, and for refugees and asylum-seekers in Colombia, which exceeds half of the population. These figures are similar to those relating to refugees or asylum-seekers in Peru.</p>
 <h3 id="older-persons-on-the-move-have-limited-access-to-humanitarian-aid">Older persons on the move have limited access to humanitarian aid</h3>
 <p>Less than half of the older persons consulted reported receiving humanitarian aid (36% in northern Central America and 49% in the Andean region).</p>
 <p>In all countries, aid mainly involves food and toiletries, with 48% in Honduras and El Salvador and 52% in the Andean countries. In second place, subsidies, economic support or cash transfers stand out, with 35% in Honduras and El Salvador and 45% in the Andean region.</p>
-<p>__While in the Andean region, half of respondents reported receiving humanitarian aid, in Honduras and El Salvador, this was the case of only a third of respondents.</p>
+<p>While in the Andean region, half of respondents reported receiving humanitarian aid, in Honduras and El Salvador, this was the case of only a third of respondents.</p>
 <div class="parallax parallax3">
 <div class="parallax-content">
 <h2 id="older-persons-want-independence-and-autonomy">Older persons want independence and autonomy</h2>
@@ -2726,8 +2738,9 @@ During the pandemic, one fifth of those interviewed were unable to afford rent a
 <h3 id="discriminated-by-their-age">Discriminated by their age</h3>
 <p>Half of the older persons on the move consulted described having experienced discrimination while a worrying number described incidents of abuse. More than a third of the respondents reported being abused in the countries where they reside and before the pandemic with a marked difference between those with disabilities (48%) and those without (29%).</p>
 <aside>
-In Honduras and El Salvador, the percentage of elder abuse is 63%, with a significant difference between persons with disabilities (87%) compared to those without disabilities (40%) and 65% for men compared to 57% for women. In the Andean region, mistreatment is lower, affecting a quarter of the population (26%), and there is a gender difference of 34% for women compared to 20% for men.
+In Honduras and El Salvador, 63% of respondent reported being victims of abuse, a proportion increased to 87% for persons with disabilities.
 </aside>
+<p>In the Andean region, mistreatment is lower, affecting a quarter of the population (26%), and there is a gender difference of 34% for women compared to 20% for men.</p>
 <p>The most commonly occurring type of abuse against older persons with disabilities in the countries of the Andean region is eviction (8%), affecting more women than men in this situation, by three percentage points.</p>
 <p>Among the perpetrators of abuse, 11% were family members; 7% were government officials, including the security forces; 7% were friends or neighbours; and 74% were other people, for example, armed actors, gangs, people on the street, on public transport, or the owners of the homes which they rented or where they lived.</p>
 <div class="layout-chunk" data-layout="l-page">
@@ -2736,13 +2749,36 @@ In Honduras and El Salvador, the percentage of elder abuse is 63%, with a signif
 <h3 id="active-participation-in-their-communities">Active participation in their communities</h3>
 <p>The empowerment of the older persons is related to factors such as participation, physical accessibility, the ability to move from one place to another as well as the communication channels at their disposal that generate autonomy and independence.</p>
 <p class="tweetable">
-More than two third had no activities to share or to socialize with others. Women presented a higher percentage of non-participation than men.
+More than two third of ageing person on the move had no activities to share or to socialize with others.
 </p>
-<p>This participation is even lower when it comes to older persons with disabilities. In addition, around 84% of older persons have not attended talks or taken part in training and awareness-raising activities concerning their rights.<br />
+<p>Women presented a higher percentage of non-participation than men. This participation is even lower when it comes to older persons with disabilities. In addition, around 84% of older persons have not attended talks or taken part in training and awareness-raising activities concerning their rights.<br />
 Although before COVID-19 the older persons did not actively participate, during the pandemic, their participation has drastically decreased due to the confinement measures, which has caused physical and mental health problems.</p>
 <h3 id="using-the-right-communication-channel">Using the right communication channel</h3>
 <p>Equipment and Internet access are essential supports in the information process, but also as mechanisms for participation in virtual activities or as intermediaries to facilitate the development of community actions. More than 85% of older persons have access to mobile phones, 70% to a television and only 35% to a radio. Though only 10% have access to landline phones, laptops, entertainment devices, tablets and desktop computers. Access to mobile phones does not necessarily imply Internet connectivity, since on average access slightly exceeds one third of the population, except for Colombia and Ecuador. In addition, most of their mobile phones are not smartphones. One of their main uses is to connect with family members via WhatsApp.</p>
-<p><a href="https://www.unhcr.org/news/stories/2019/6/5cffc16c4/older-colombians-venezuelans-care-other-under-roof.html">WEBSTORY + VIDEO</a> <a href="https://www.youtube.com/watch?v=Ehf67tMy-0c" class="uri">https://www.youtube.com/watch?v=Ehf67tMy-0c</a></p>
+<div class="parallax parallaxstory">
+<div class="parallax-content">
+<p>
+STORY: Older Colombians and Venezuelans take care of each other under the same roof
+</p>
+<p>
+Born on 3 October 1989, in Riohacha, La Guajira, northern Colombia, this was the life project of a social worker and her family, with the idea of supporting and helping older persons in this area of the country. They have been at the service of those in need of their assistance for 33 years -people who have been abandoned by family members and who are sheltered there. This is a community-based effort.
+</p>
+<p>
+Initially, Fundación Casa del Abuelo was seen as a place for recreation and entertainment for older persons passing through. But over time and given the extreme needs in the territory, it was transformed to provide 24/7 assistance.
+</p>
+<p>
+Grandpa’s House hosts Colombian seniors who were left alone. Now it has increased its capacity to also shelter Venezuelans on the move.
+</p>
+<p>
+“We were witnessing this sudden and massive influx of Venezuelan people: families with children living on the streets and begging for a roof, a soup or for a few pesos,” explains Maria Peña De Melo, the director of the centre. “We decided we had to do something for them as well.”
+</p>
+<p>
+“Many things changed since we started to host the families and their kids”, Maria adds. “The seniors see them as members of their families. They feel more ‘protected,’ as they perform some activities together every day. This strengthened the confidence of the abuelitos [grandparents] a lot.” <a href="https://www.unhcr.org/news/stories/2019/6/5cffc16c4/older-colombians-venezuelans-care-other-under-roof.html">read the full story here</a>.
+</p>
+</div>
+</div>
+<iframe width="1266" height="545" src="http://www.youtube.com/embed/Ehf67tMy-0c?rel=0" frameborder="0" allowfullscreen>
+</iframe>
 <div class="parallax parallax2">
 <div class="parallax-content">
 <h2 id="covid-19-has-affected-the-livelihoods-mental-health-and-physical-conditions-of-older-persons-across-latin-america.">COVID-19 has affected the livelihoods, mental health and physical conditions of older persons across Latin America.</h2>
@@ -2756,10 +2792,10 @@ The COVID-19 pandemic has gravely worsened the wellbeing of older persons on the
 <p>This limitation is even greater in persons with disabilities. In addition, 6% of those infected with COVID-19 reported not receiving adequate medical care.</p>
 <p>Access to food for older persons on the move had also worsened in all countries assessed. Already prior to the pandemic, one in four were having to skip meals. With the advent of COVID-19, 41% had to further reduce their food intake. Some 64% of older persons consulted had no monthly income before the pandemic. From those who did have income, 62% felt it was not enough to meet their basic needs. But COVID-19 further compounded their economic situation, leaving many more without employment. In Honduras and El Salvador, a third of those interviewed reported that they had lost their jobs. In Andean region countries, nearly half had lost jobs. Meanwhile, housing conditions also worsened for one fifth of those interviewed, as they were unable to afford rent. Five per cent of the respondents had been evicted during the pandemic.</p>
 <p>The psychological effects of the pandemic are one the biggest identified problems, relating to depression, anxiety, and the constant fear of contagion or death. The illness or emotional disorders have intensified, especially in older persons who are victims of internal displacement and deportations.</p>
-<p class="tweetable">
+<aside>
 Emotional illnesses and disorders have been intensified by the pandemic.
-</p>
-<p><strong>Isolation is one of the most important effects of COVID-19</strong>, as people cannot meet with friends and family as they normally would, and their recreation is also reduced. The pandemic has led to a decrease in the daily contact of older persons on the move with their families, from 39% to 26%, which has an impact on feelings of isolation and loneliness. Isolation aggravates physical and mental health conditions.</p>
+</aside>
+<p>Isolation is one of the most important effects of COVID-19, as people cannot meet with friends and family as they normally would, and their recreation is also reduced. The pandemic has led to a decrease in the daily contact of older persons on the move with their families, from 39% to 26%, which has an impact on feelings of isolation and loneliness. Isolation aggravates physical and mental health conditions.</p>
 <div class="layout-chunk" data-layout="l-page">
 <p><img src="images/SPA_WIDE_MACRO%201.png" width="1067" /></p>
 </div>

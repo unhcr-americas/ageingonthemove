@@ -124,16 +124,17 @@ More than a fifth of those who used health services have had to pay, which, give
 
 Most of the older persons consulted reported limited access to health care during the pandemic. Forty-two per cent were not receiving treatment for prior health conditions and 6% of those infected with COVID-19 reported not receiving adequate medical care. 
 
-<p class="tweetable">Almost 27% of the people interviewed reported not having
-access to any health service, and 98% reported having at least one health condition or disability.</p>
+
+
+Almost 27% of the people interviewed reported not having access to any health service, and 98% reported having at least one health condition or disability.
 
 ### Facing job losses and lack of income 
 
 Older refugees have been deprived of their financial autonomy as many have lost their jobs and source of income and been left dependent on the often inexistant humanitarian aid. 
 
-<p class="tweetable">Some 64% of older persons consulted had no monthly income before the pandemic, and of those who did have an income, 62% felt it had not been enough to meet their basic needs.</p>
+Some 64% of older persons consulted had no monthly income before the pandemic, and of those who did have an income, 62% felt it had not been enough to meet their basic needs.
 
-Despite their increased vulnerability, __older persons on the move have often become the main bread-winners for the household__ as they continue to have family members under their care, including children and adolescents (60%), adults (38%), people over 60 years old (20%) and persons with disabilities (5%)
+Despite their increased vulnerability, older persons on the move have often become the main bread-winners for the household as they continue to have family members under their care, including children and adolescents (60%), adults (38%), people over 60 years old (20%) and persons with disabilities (5%)
  
 ```{r, layout="l-page"}
 include_graphics("images/SPA_WIDE_MACRO 4.png")
@@ -145,10 +146,9 @@ include_graphics("images/SPA_WIDE_MACRO 4.png")
 Access to food for older persons on the move has worsened in all countries assessed. Already prior to the pandemic, one in four were having to skip meals. With the advent of COVID-19, 41% had to further reduce their food intake. 
 Even for those who eat sufficient number of meals per day, it does not imply that they enjoy an adequate nutritional balance, as in many cases food consumption is mainly composed of carbohydrates, especially in rural areas of Honduras and El Salvador, with little protein or no ingredients suitable for older people's diets.  
 
-<p class="tweetable">Access to food is provided mainly through the support of family members and their own income, or to a greater extent through the support of neighbours or friends.</p>
+Access to food is provided mainly through the support of family members and their own income, or to a greater extent through the support of neighbours or friends.
 
-WEBSTORY + VIDEO (see Reference below)
- 
+
 
 > “Sometimes we don’t eat breakfast, we only have one meal a day”
 > – Agapito 
@@ -162,9 +162,7 @@ On average, 61% of the older persons consulted live in rented accommodation and 
 
 <aside>During the pandemic, one fifth of those interviewed were unable to afford rent and five per cent had been evicted.</aside>
 
-
-
-__In Honduras and El Salvador, 44% of people live in a flat or house of their own, a marked contrast to the countries in the Andean region, where only 9% of people live in a flat or house of their own__. In Honduras and El Salvador, the average number of people living in rented accommodation (32%) is much lower than in the Andean countries (79%).  
+In Honduras and El Salvador, 44% of people live in a flat or house of their own, a marked contrast to the countries in the Andean region, where only 9% of people live in a flat or house of their own. In Honduras and El Salvador, the average number of people living in rented accommodation (32%) is much lower than in the Andean countries (79%).  
 
 A third of the surveyed population lives in a single room and half of the population shares a room with one or two other people. Overcrowding is a matter of concern for the internally displaced population in Honduras, which reaches a third of the population, and for refugees and asylum-seekers in Colombia, which exceeds half of the population. These figures are similar to those relating to refugees or asylum-seekers in Peru.
 
@@ -178,7 +176,7 @@ Less than half of the older persons consulted reported receiving humanitarian ai
 
 In all countries, aid mainly involves food and toiletries, with 48% in Honduras and El Salvador and 52% in the Andean countries. In second place, subsidies, economic support or cash transfers stand out, with 35% in Honduras and El Salvador and 45% in the Andean region.
 
-__While in the Andean region, half of respondents reported receiving humanitarian aid, in Honduras and El Salvador, this was the case of only a third of respondents. 
+While in the Andean region, half of respondents reported receiving humanitarian aid, in Honduras and El Salvador, this was the case of only a third of respondents. 
 
 
 
@@ -193,7 +191,9 @@ __While in the Andean region, half of respondents reported receiving humanitaria
 Half of the older persons on the move consulted described having experienced discrimination while a worrying number described incidents of abuse. 
 More than a third of the respondents reported being abused in the countries where they reside and before the pandemic with a marked difference between those with disabilities (48%) and those without (29%).  
 
-<aside>In Honduras and El Salvador, the percentage of elder abuse is 63%, with a significant difference between persons with disabilities (87%) compared to those without disabilities (40%) and 65% for men compared to 57% for women. In the Andean region, mistreatment is lower, affecting a quarter of the population (26%), and there is a gender difference of 34% for women compared to 20% for men.</aside>
+<aside>In Honduras and El Salvador, 63% of respondent reported being victims of abuse, a proportion increased to 87% for persons with disabilities.</aside> 
+
+In the Andean region, mistreatment is lower, affecting a quarter of the population (26%), and there is a gender difference of 34% for women compared to 20% for men.
 
 The most commonly occurring type of abuse against older persons with disabilities in the countries of the Andean region is eviction (8%), affecting more women than men in this situation, by three percentage points.  
 
@@ -208,9 +208,9 @@ include_graphics("images/SPA_WIDE_MACRO 2.png")
 
 The empowerment of the older persons is related to factors such as participation, physical accessibility, the ability to move from one place to another as well as the communication channels at their disposal that generate autonomy and independence. 
 
-<p class="tweetable">More than two third had no activities to share or to socialize with others. Women presented a higher percentage of non-participation than men. </p>
+<p class="tweetable">More than two third of ageing person on the move had no activities to share or to socialize with others. </p>
  
-This participation is even lower when it comes to older persons with disabilities. In addition, around 84% of older persons have not attended talks or taken part in training and awareness-raising activities concerning their rights.  
+Women presented a higher percentage of non-participation than men. This participation is even lower when it comes to older persons with disabilities. In addition, around 84% of older persons have not attended talks or taken part in training and awareness-raising activities concerning their rights.  
 Although before COVID-19 the older persons did not actively participate, during the pandemic, their participation has drastically decreased due to the confinement measures, which has caused physical and mental health problems.
 
 ### Using the right communication channel  
@@ -220,8 +220,27 @@ More than 85% of older persons have access to mobile phones, 70% to a television
 Access to mobile phones does not necessarily imply Internet connectivity, since on average access slightly exceeds one third of the population, except for Colombia and Ecuador. In addition, most of their mobile phones are not smartphones. One of their main uses is to connect with family members via WhatsApp.    
 
 
-[WEBSTORY + VIDEO](https://www.unhcr.org/news/stories/2019/6/5cffc16c4/older-colombians-venezuelans-care-other-under-roof.html)
-https://www.youtube.com/watch?v=Ehf67tMy-0c 
+
+<div class="parallax parallaxstory"><div class="parallax-content">
+
+<p>STORY: Older Colombians and Venezuelans take care of each other under the same roof 
+</p><p>
+Born on 3 October 1989, in Riohacha, La Guajira, northern Colombia, this was the life project of a social worker and her family, with the idea of supporting and helping older persons in this area of the country. They have been at the service of those in need of their assistance for 33 years -people who have been abandoned by family members and who are sheltered there. This is a community-based effort.  
+</p><p>
+Initially, Fundación Casa del Abuelo was seen as a place for recreation and entertainment for older persons passing through. But over time and given the extreme needs in the territory, it was transformed to provide 24/7 assistance. 
+</p><p>
+Grandpa’s House hosts Colombian seniors who were left alone. Now it has increased its capacity to also shelter Venezuelans on the move. 
+</p><p>
+“We were witnessing this sudden and massive influx of Venezuelan people: families with children living on the streets and begging for a roof, a soup or for a few pesos,” explains Maria Peña De Melo, the director of the centre. “We decided we had to do something for them as well.” 
+</p><p>
+“Many things changed since we started to host the families and their kids”, Maria adds. “The seniors see them as members of their families. They feel more ‘protected,’ as they perform some activities together every day. This strengthened the confidence of the abuelitos [grandparents] a lot.” 
+[read the full story here](https://www.unhcr.org/news/stories/2019/6/5cffc16c4/older-colombians-venezuelans-care-other-under-roof.html).
+</p>
+</div></div>
+
+
+<iframe width="1266" height="545" src="http://www.youtube.com/embed/Ehf67tMy-0c?rel=0" frameborder="0" allowfullscreen></iframe>
+
   
 
 <div class="parallax parallax2"><div class="parallax-content">
@@ -233,6 +252,8 @@ The pandemic has exacerbated pre-existing threats to the physical and mental hea
 
 <p class="tweetable">The COVID-19 pandemic has gravely worsened the wellbeing of older persons on the move across Latin America, by further limiting their access to rights and services.</p>
 
+
+
 There was evidence of an increase in the limitations of access to health services to treat symptoms or illness different to those associated with the virus during the pandemic.
  
  This limitation is even greater in persons with disabilities. In addition, 6% of those infected with COVID-19 reported not receiving adequate medical care. 
@@ -243,10 +264,10 @@ Meanwhile, housing conditions also worsened for one fifth of those interviewed, 
 
 The psychological effects of the pandemic are one the biggest identified problems, relating to depression, anxiety, and the constant fear of contagion or death. The illness or emotional disorders have intensified, especially in older persons who are victims of internal displacement and deportations.  
 
-<p class="tweetable">Emotional illnesses and disorders have been intensified by the pandemic.</p>
+<aside>Emotional illnesses and disorders have been intensified by the pandemic.</aside>
 
 
-__Isolation is one of the most important effects of COVID-19__, as people cannot meet with friends and family as they normally would, and their recreation is also reduced. The pandemic has led to a decrease in the daily contact of older persons on the move with their families, from 39% to 26%, which has an impact on feelings of isolation and loneliness. Isolation aggravates physical and mental health conditions.  
+Isolation is one of the most important effects of COVID-19, as people cannot meet with friends and family as they normally would, and their recreation is also reduced. The pandemic has led to a decrease in the daily contact of older persons on the move with their families, from 39% to 26%, which has an impact on feelings of isolation and loneliness. Isolation aggravates physical and mental health conditions.  
 
 
  
