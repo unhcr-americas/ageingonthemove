@@ -223,28 +223,16 @@ Access to mobile phones does not necessarily imply Internet connectivity, since 
 
 <div class="parallax parallaxstory"><div class="parallax-content">
 
-<p>STORY: Older Colombians and Venezuelans take care of each other under the same roof 
-</p><p>
-Born on 3 October 1989, in Riohacha, La Guajira, northern Colombia, this was the life project of a social worker and her family, with the idea of supporting and helping older persons in this area of the country. They have been at the service of those in need of their assistance for 33 years -people who have been abandoned by family members and who are sheltered there. This is a community-based effort.  
-</p><p>
-Initially, Fundación Casa del Abuelo was seen as a place for recreation and entertainment for older persons passing through. But over time and given the extreme needs in the territory, it was transformed to provide 24/7 assistance. 
-</p><p>
-Grandpa’s House hosts Colombian seniors who were left alone. Now it has increased its capacity to also shelter Venezuelans on the move. 
-</p><p>
-“We were witnessing this sudden and massive influx of Venezuelan people: families with children living on the streets and begging for a roof, a soup or for a few pesos,” explains Maria Peña De Melo, the director of the centre. “We decided we had to do something for them as well.” 
-</p><p>
-“Many things changed since we started to host the families and their kids”, Maria adds. “The seniors see them as members of their families. They feel more ‘protected,’ as they perform some activities together every day. This strengthened the confidence of the abuelitos [grandparents] a lot.” 
-[read the full story here](https://www.unhcr.org/news/stories/2019/6/5cffc16c4/older-colombians-venezuelans-care-other-under-roof.html).
-</p>
+<p>STORY: Older Colombians and Venezuelans take care of each other under the same roof</p>
+<iframe width="1266" height="745" src="http://www.youtube.com/embed/Ehf67tMy-0c?rel=0" frameborder="0" allowfullscreen></iframe>
 </div></div>
 
 
-<iframe width="1266" height="545" src="http://www.youtube.com/embed/Ehf67tMy-0c?rel=0" frameborder="0" allowfullscreen></iframe>
 
   
 
 <div class="parallax parallax2"><div class="parallax-content">
-## COVID-19 has affected the livelihoods, mental health and physical conditions of older persons across Latin America.
+## COVID-19 has affected the livelihoods, mental health and physical conditions of older persons.
 </div></div>
 
 

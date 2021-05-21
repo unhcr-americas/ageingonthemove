@@ -53,11 +53,11 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
  
  * start with the main __recommendations__ to ensure the readers does not need to wait 10 minutes of reading to find out what the report message is... if not, drop out risk are high.... 
  
- * __ Be minimalistic__: The [ideal length of an article](https://torquemag.io/2018/04/optimal-content-length/) should be between 1500 and 2500 characters, taking an average 7 minutes to read. 
+ * __Be minimalistic__: The [ideal length of an article](https://torquemag.io/2018/04/optimal-content-length/) should be between 1500 and 2500 characters, taking an average 7 minutes to read. 
 
- * have a 2 or 3 main __top level chapters__ max - avoid presenting content in too many chapter to minimimze the cognitive cost for reader to absorb the content.  
+ * Have a 2 or 3 main __top level chapters__ max - avoid presenting content in too many chapter to minimimze the cognitive cost for reader to absorb the content.  
 
- * avoid putting [too many numbers](https://www.unhcr.org/innovation/wp-content/uploads/2018/02/InnovationYearInReview2017_web.pdf#page=21) to avoid psychic numbing
+ * Avoid putting [too many numbers](https://www.unhcr.org/innovation/wp-content/uploads/2018/02/InnovationYearInReview2017_web.pdf#page=21) to avoid psychic numbing
  
  * implement [story telling techniques](https://www.unhcr.org/innovation/wp-content/uploads/2019/04/Innovation18-19-WebApril2019.pdf#pag=23) - A good data story is a way to communicate valuable insights and assign meaning and context to data that otherwise lives as numbers in an Excel spreadsheet. The narrative shall have a hook, momentum, or a captivating purpose. Finding such narrative structure is therefore a prerequisite. Such stories can be categorized according to the four main narrative frames below, each of them being linked to programs design or implementation. The presented data shall reflect the operation context to reinforce what readers knows or to reveal what they don’t:
     1.	shed light on a previously unexplored topic (it teaches people something new or they have not heard before), 
@@ -71,28 +71,29 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 
 "Active reading" techniques consist in , __before reading the article content__, looking at any titles, subheadings, charts, graphs, and captions to get the key messages. - This allow to get the main content of the report simply by reading the table of content... it is used in most medias nowadays
 
-To do that content needs to be hierarchized:
+#### Paragraph Titles as statement
 
-  *  Title should be turned into meaningful statement/ summary - rather than referencing the topic explained in the chapter text 
-  
-  * On the top of article text, add side note to highlight some key elements
-  
-  * include infographics / visual summary elements
-
-
+Title should be turned into meaningful statement/ summary - rather than referencing the topic explained in the chapter text 
 
 #### Bold key words
 
+Use bold with parcimony - only for key words
+
+`__quoted word`
 
 #### Outline key quotes
+
+`> quoted text`
 
 #### Insert content to be tweeted
 
 __Make the site ready for social media sharing__: Prepare Key messages (less than 144 character) ready to be tweeted and add a "share" button close to the specific quote .  
 
-#### Add small boxes
+`<p class="tweetable"> text for tweet </p>`
 
-`<aside></aside>` 
+#### Add small boxes
+On the top of article text, add side note to highlight some key elements
+`<aside> text for box </aside>` 
 
 
 
