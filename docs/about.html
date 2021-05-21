@@ -2251,7 +2251,7 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
   
   /*-- subheaders --*/
   d-title {
-    background-image: url(images/header.jpg);
+    background-image: url(images/para/header.jpg);
     background-repeat: no-repeat;
     background-size:cover;
     background-position:center;
@@ -2330,9 +2330,37 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
   
   /*-- list of background image for chapter transition --*/
   
-  .parallax1{background:url(images/parallax1.jpg)}
-  .parallax2{background:url(images/parallax2.jpg)}
-  .parallax3{background:url(images/parallax3.jpg)}
+  
+  
+  /*-- For mobile:
+    .parallax1{background:url(images/para/parallax1_m.jpg)}
+    .parallax2{background:url(images/para/parallax2_m.jpg)}
+    .parallax3{background:url(images/para/parallax3_m.jpg)}--*/
+  
+  @media (max-width: 480px) {
+    .parallax1{background:url(images/para/parallax1.jpg)}
+    .parallax2{background:url(images/para/parallax2.jpg)}
+    .parallax3{background:url(images/para/parallax3.jpg)}
+  }
+  
+  /*-- For tablets:
+    .parallax1{background:url(images/para/parallax1_t.jpg)}
+    .parallax2{background:url(images/para/parallax2_t.jpg)}
+    .parallax3{background:url(images/para/parallax3_t.jpg)}--*/
+  
+  @media (min-width: 481px) and (max-width: 1024px) {
+    .parallax1{background:url(images/para/parallax1.jpg)}
+    .parallax2{background:url(images/para/parallax2.jpg)}
+    .parallax3{background:url(images/para/parallax3.jpg)}
+  }
+  
+  /*-- For desktop devices:--*/
+  
+  @media (min-width: 1025px) {
+    .parallax1{background:url(images/para/parallax1.jpg)}
+    .parallax2{background:url(images/para/parallax2.jpg)}
+    .parallax3{background:url(images/para/parallax3.jpg)}
+  }
   
   .parallaxstory{background-color: #f4f4f4!important;}
   

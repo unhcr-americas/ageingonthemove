@@ -110,7 +110,7 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
   <!--radix_placeholder_rmarkdown_metadata-->
   
   <script type="text/json" id="radix-rmarkdown-metadata">
-  {"type":"list","attributes":{"names":{"type":"character","attributes":{},"value":["title","description","preview","twitter","repository_url","output"]}},"value":[{"type":"character","attributes":{},"value":["A dignity claim: Ageing on the move"]},{"type":"character","attributes":{},"value":["Making ageing persons visible to enhance comprehensive actions in humanitarian responses\n"]},{"type":"character","attributes":{},"value":["images/SPA_WIDE_MACRO%201.png"]},{"type":"list","attributes":{"names":{"type":"character","attributes":{},"value":["site","creator"]}},"value":[{"type":"character","attributes":{},"value":["@unhcr"]},{"type":"character","attributes":{},"value":["@unhcr"]}]},{"type":"character","attributes":{},"value":["https://github.com/unhcr-americas/ageingonthemove"]},{"type":"list","attributes":{"names":{"type":"character","attributes":{},"value":["distill::distill_article"]}},"value":[{"type":"list","attributes":{"names":{"type":"character","attributes":{},"value":["theme","toc","toc_float"]}},"value":[{"type":"character","attributes":{},"value":["theme.css"]},{"type":"logical","attributes":{},"value":[false]},{"type":"logical","attributes":{},"value":[false]}]}]}]}
+  {"type":"list","attributes":{"names":{"type":"character","attributes":{},"value":["title","description","preview","twitter","repository_url","output"]}},"value":[{"type":"character","attributes":{},"value":["A dignity claim: Ageing on the move"]},{"type":"character","attributes":{},"value":["Making ageing persons visible to enhance comprehensive actions in humanitarian responses\n"]},{"type":"character","attributes":{},"value":["images/ENG_MACRO%201.png"]},{"type":"list","attributes":{"names":{"type":"character","attributes":{},"value":["site","creator"]}},"value":[{"type":"character","attributes":{},"value":["@unhcr"]},{"type":"character","attributes":{},"value":["@unhcr"]}]},{"type":"character","attributes":{},"value":["https://github.com/unhcr-americas/ageingonthemove"]},{"type":"list","attributes":{"names":{"type":"character","attributes":{},"value":["distill::distill_article"]}},"value":[{"type":"list","attributes":{"names":{"type":"character","attributes":{},"value":["theme","toc","toc_float"]}},"value":[{"type":"character","attributes":{},"value":["theme.css"]},{"type":"logical","attributes":{},"value":[false]},{"type":"logical","attributes":{},"value":[false]}]}]}]}
   </script>
   <!--/radix_placeholder_rmarkdown_metadata-->
   <!--radix_placeholder_navigation_in_header-->
@@ -2253,7 +2253,7 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
   
   /*-- subheaders --*/
   d-title {
-    background-image: url(images/header.jpg);
+    background-image: url(images/para/header.jpg);
     background-repeat: no-repeat;
     background-size:cover;
     background-position:center;
@@ -2332,9 +2332,37 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
   
   /*-- list of background image for chapter transition --*/
   
-  .parallax1{background:url(images/parallax1.jpg)}
-  .parallax2{background:url(images/parallax2.jpg)}
-  .parallax3{background:url(images/parallax3.jpg)}
+  
+  
+  /*-- For mobile:
+    .parallax1{background:url(images/para/parallax1_m.jpg)}
+    .parallax2{background:url(images/para/parallax2_m.jpg)}
+    .parallax3{background:url(images/para/parallax3_m.jpg)}--*/
+  
+  @media (max-width: 480px) {
+    .parallax1{background:url(images/para/parallax1.jpg)}
+    .parallax2{background:url(images/para/parallax2.jpg)}
+    .parallax3{background:url(images/para/parallax3.jpg)}
+  }
+  
+  /*-- For tablets:
+    .parallax1{background:url(images/para/parallax1_t.jpg)}
+    .parallax2{background:url(images/para/parallax2_t.jpg)}
+    .parallax3{background:url(images/para/parallax3_t.jpg)}--*/
+  
+  @media (min-width: 481px) and (max-width: 1024px) {
+    .parallax1{background:url(images/para/parallax1.jpg)}
+    .parallax2{background:url(images/para/parallax2.jpg)}
+    .parallax3{background:url(images/para/parallax3.jpg)}
+  }
+  
+  /*-- For desktop devices:--*/
+  
+  @media (min-width: 1025px) {
+    .parallax1{background:url(images/para/parallax1.jpg)}
+    .parallax2{background:url(images/para/parallax2.jpg)}
+    .parallax3{background:url(images/para/parallax3.jpg)}
+  }
   
   .parallaxstory{background-color: #f4f4f4!important;}
   
@@ -2548,7 +2576,7 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
   <meta name="twitter:title" content="A dignity claim: Ageing on the move"/>
   <meta name="twitter:description" content="Making ageing persons visible to enhance comprehensive actions in humanitarian responses"/>
   <meta name="twitter:url" content="https://ageingonthemove.org"/>
-  <meta name="twitter:image:src" content="https://raw.githubusercontent.com/unhcr-americas/ageingonthemove/main/images/SPA_WIDE_MACRO%201.png"/>
+  <meta name="twitter:image:src" content="https://raw.githubusercontent.com/unhcr-americas/ageingonthemove/main/images/ENG_MACRO%201.png"/>
   <meta name="twitter:image:alt" content="A dignity claim: Ageing on the move"/>
   <meta name="twitter:card" content="summary"/>
   <meta name="twitter:creator" content="@unhcr"/>
@@ -2556,7 +2584,7 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
   <meta property="og:title" content="A dignity claim: Ageing on the move"/>
   <meta property="og:description" content="Making ageing persons visible to enhance comprehensive actions in humanitarian responses"/>
   <meta property="og:url" content="https://ageingonthemove.org"/>
-  <meta property="og:image" content="https://raw.githubusercontent.com/unhcr-americas/ageingonthemove/main/images/SPA_WIDE_MACRO%201.png"/>
+  <meta property="og:image" content="https://raw.githubusercontent.com/unhcr-americas/ageingonthemove/main/images/ENG_MACRO%201.png"/>
   <meta property="og:image:alt" content="A dignity claim: Ageing on the move"/>
   <meta property="og:type" content="website"/>
   <meta property="og:locale" content="en_US"/>
@@ -2711,7 +2739,7 @@ On average, around 30% of older people consulted did not use health services eve
 <p>Some 64% of older persons consulted had no monthly income before the pandemic, and of those who did have an income, 62% felt it had not been enough to meet their basic needs.</p>
 <p>Despite their increased vulnerability, older persons on the move have often become the main bread-winners for the household as they continue to have family members under their care, including children and adolescents (60%), adults (38%), people over 60 years old (20%) and persons with disabilities (5%)</p>
 <div class="layout-chunk" data-layout="l-page">
-<p><img src="images/SPA_WIDE_MACRO%204.png" width="1067" /></p>
+<p><img src="images/macro/ENG_MACRO_4.png" width="400" /></p>
 </div>
 <h3 id="a-quarter-of-older-persons-consulted-are-not-eating-3-meals-a-day.">A quarter of older persons consulted are not eating 3 meals a day.</h3>
 <p>Access to food for older persons on the move has worsened in all countries assessed. Already prior to the pandemic, one in four were having to skip meals. With the advent of COVID-19, 41% had to further reduce their food intake. Even for those who eat sufficient number of meals per day, it does not imply that they enjoy an adequate nutritional balance, as in many cases food consumption is mainly composed of carbohydrates, especially in rural areas of Honduras and El Salvador, with little protein or no ingredients suitable for older people’s diets.</p>
@@ -2730,7 +2758,7 @@ During the pandemic, one fifth of those interviewed were unable to afford rent a
 <p>Less than half of the older persons consulted reported receiving humanitarian aid (36% in northern Central America and 49% in the Andean region).</p>
 <p>In all countries, aid mainly involves food and toiletries, with 48% in Honduras and El Salvador and 52% in the Andean countries. In second place, subsidies, economic support or cash transfers stand out, with 35% in Honduras and El Salvador and 45% in the Andean region.</p>
 <p>While in the Andean region, half of respondents reported receiving humanitarian aid, in Honduras and El Salvador, this was the case of only a third of respondents.</p>
-<div class="parallax parallax3">
+<div class="parallax parallax2">
 <div class="parallax-content">
 <h2 id="older-persons-want-independence-and-autonomy">Older persons want independence and autonomy</h2>
 </div>
@@ -2744,7 +2772,7 @@ In Honduras and El Salvador, 63% of respondent reported being victims of abuse, 
 <p>The most commonly occurring type of abuse against older persons with disabilities in the countries of the Andean region is eviction (8%), affecting more women than men in this situation, by three percentage points.</p>
 <p>Among the perpetrators of abuse, 11% were family members; 7% were government officials, including the security forces; 7% were friends or neighbours; and 74% were other people, for example, armed actors, gangs, people on the street, on public transport, or the owners of the homes which they rented or where they lived.</p>
 <div class="layout-chunk" data-layout="l-page">
-<p><img src="images/SPA_WIDE_MACRO%202.png" width="1067" /></p>
+<p><img src="images/macro/ENG_MACRO_2.png" width="400" /></p>
 </div>
 <h3 id="active-participation-in-their-communities">Active participation in their communities</h3>
 <p>The empowerment of the older persons is related to factors such as participation, physical accessibility, the ability to move from one place to another as well as the communication channels at their disposal that generate autonomy and independence.</p>
@@ -2760,11 +2788,26 @@ Although before COVID-19 the older persons did not actively participate, during 
 <p>
 STORY: Older Colombians and Venezuelans take care of each other under the same roof
 </p>
+<p>
+Born on 3 October 1989, in Riohacha, La Guajira, northern Colombia, this was the life project of a social worker and her family, with the idea of supporting and helping older persons in this area of the country. They have been at the service of those in need of their assistance for 33 years -people who have been abandoned by family members and who are sheltered there. This is a community-based effort.
+</p>
+<p>
+Initially, Fundación Casa del Abuelo was seen as a place for recreation and entertainment for older persons passing through. But over time and given the extreme needs in the territory, it was transformed to provide 24/7 assistance.
+</p>
+<p>
+Grandpa’s House hosts Colombian seniors who were left alone. Now it has increased its capacity to also shelter Venezuelans on the move.
+</p>
+<p>
+“We were witnessing this sudden and massive influx of Venezuelan people: families with children living on the streets and begging for a roof, a soup or for a few pesos,” explains Maria Peña De Melo, the director of the centre. “We decided we had to do something for them as well.”
+</p>
+<p>
+“Many things changed since we started to host the families and their kids”, Maria adds. “The seniors see them as members of their families. They feel more ‘protected,’ as they perform some activities together every day. This strengthened the confidence of the abuelitos [grandparents] a lot.” <a href="https://www.unhcr.org/news/stories/2019/6/5cffc16c4/older-colombians-venezuelans-care-other-under-roof.html">read the full story here</a>.
+</p>
 <iframe width="1266" height="745" src="http://www.youtube.com/embed/Ehf67tMy-0c?rel=0" frameborder="0" allowfullscreen>
 </iframe>
 </div>
 </div>
-<div class="parallax parallax2">
+<div class="parallax parallax3">
 <div class="parallax-content">
 <h2 id="covid-19-has-affected-the-livelihoods-mental-health-and-physical-conditions-of-older-persons.">COVID-19 has affected the livelihoods, mental health and physical conditions of older persons.</h2>
 </div>
@@ -2782,7 +2825,7 @@ Emotional illnesses and disorders have been intensified by the pandemic.
 </aside>
 <p>Isolation is one of the most important effects of COVID-19, as people cannot meet with friends and family as they normally would, and their recreation is also reduced. The pandemic has led to a decrease in the daily contact of older persons on the move with their families, from 39% to 26%, which has an impact on feelings of isolation and loneliness. Isolation aggravates physical and mental health conditions.</p>
 <div class="layout-chunk" data-layout="l-page">
-<p><img src="images/SPA_WIDE_MACRO%201.png" width="1067" /></p>
+<p><img src="images/macro/ENG_MACRO_1.png" width="400" /></p>
 </div>
 <h2 id="conclusions">Conclusions</h2>
 <p>The study unveils a series of specific vulnerabilities for older persons on the move that need to be accounted for in the design of the humanitarian response:</p>

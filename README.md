@@ -99,6 +99,26 @@ On the top of article text, add side note to highlight some key elements
 
 ## Insert images
 
+#### First resize them
+
+Saving your images with appropriate dimensions and optimizing images for the web can help with a few things:
+
+ * Speed – if a web page loads in more than 5 seconds, the probability that a mobile user will leave that page increases by 90%. By resizing and reducing image sizes, you make your website pages faster.
+ 
+ * User experience – good quality, impactful images helps visitors have a more engaging experience while they browse your website. By keeping those images optimized and loading fast – you’re ensuring a seamless and smooth experience for your visitors, which motivates them to spend more time on your site and explore your content.
+ 
+ * SEO ranking – site speed is a ranking factor. The faster is your site, the better you can potentially rank. Web pages with optimized images will load much quicker on both desktop and mobile devices.
+ 
+
+To ensure that your full width images look good across any device big or small the recommended size is max 2000px width. If inside the page, then a width of 1500px is recommended. Large images or full-screen background images should be no more than 1 MB.
+
+According to this [tutorial](https://www.smashingmagazine.com/2015/06/efficient-image-resizing-with-imagemagick), the following command line will effectively resive all the image from the folder within it is being run into optimal 800 pixel width images
+
+
+
+`mogrify -filter Triangle -define filter:support=2 -unsharp 0.25x0.25+8+0.065 -dither None -posterize 136 -quality 82 -define jpeg:fancy-upsampling=off -define png:compression-filter=5 -define png:compression-level=9 -define png:compression-strategy=1 -define png:exclude-chunk=all -interlace none -colorspace sRGB -strip -units PixelsPerInch -density 92  -resize 800  *.png`
+
+
 ### bacground mage
 
 For responsive design, the image needs to be crop-able in both portait (for smartphone) and landscape (for desktop)
