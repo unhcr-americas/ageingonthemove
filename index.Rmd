@@ -70,9 +70,9 @@ There is little information on the situation of older persons on the move in the
 
 The assessment focuses in __five countries in the region: El Salvador, Honduras, Colombia, Ecuador and Peru__. Different data is provided on Central America and the Andean regions, highlighting the situations faced by older persons on the move in these two different contexts. 
 
-<aside>A total of 725 older persons were consulted via telephone, as well as caretakers, service providers and key actors with in-depth and semi-structured interviews and online surveys. </aside>
-
 El Salvador and Honduras are mainly characterised by internal displacement flows resulting from gang or mara violence, returnees and the socio-economic difficulties caused by the pandemic. While Colombia, Ecuador and Peru are mainly characterized by mixed movements (refugees and migrants) as a result of the ongoing political, human rights and socio-economic crisis in Venezuela, which has led to the exodus of millions of people. 
+
+<aside>A total of 725 older persons were consulted via telephone, as well as caretakers, service providers and key actors with in-depth and semi-structured interviews and online surveys. </aside>
 
 Although both context present different challenges, older persons on the move face similar limitations in accessing their rights and services. 
 
@@ -82,14 +82,15 @@ With this report, UNHCR and HelpAge aim to cast light on the challenges and risk
 
 ## Call to Action
 
- *  The international community is called upon to include older persons on the move as a priority group in all their agendas, adapting and financing the institutional structure that responds to their needs. This should be translated into humanitarian responses and programmes that include older persons on the move as direct beneficiaries, guaranteeing their dignity, autonomy, independence and participation, avoiding interventions that expose them to situations of dependency, abuse and discrimination. 
+The international community is called upon to include older persons on the move as a priority group in all their agendas, adapting and financing the institutional structure that responds to their needs. This should be translated into humanitarian responses and programmes that include older persons on the move as direct beneficiaries, guaranteeing their dignity, autonomy, independence and participation, avoiding interventions that expose them to situations of dependency, abuse and discrimination. 
 
-*  Older persons in forced displacement have long encountered insufficient protection and neglect. Their __full inclusion__ in national responses to the pandemic is key in order to safeguard their dignity and rights. 
-*  Besides increased humanitarian support, older displaced persons need greater livelihoods opportunities, to become financially independent.
-*  It is necessary to implement mechanisms for participation, consultation and feedback in the design, planning and implementation of humanitarian responses, so that the voices of older persons on the move are heard, and their life experience and resilience are recognised as added values in such responses.
-*  Globally, States are called upon to push forward the project to draft and adopt a United Nations International Convention on the Protection of Older Persons, led by the [Open-Ended Working Group on Ageing](https://social.un.org/ageing-working-group/).  
+ 1.  Older persons in forced displacement have long encountered insufficient protection and neglect. Their full __inclusion in national responses__ to the pandemic is key in order to safeguard their dignity and rights. 
 
-*  Regionally, it is important that States in the Americas  adhere to and implement the  [Inter-American Convention on Protecting the Human Rights of Older Persons](http://www.oas.org/en/sla/dil/inter_american_treaties_a-70_human_rights_older_persons.asp), as the legal framework in force for all American States, adapting their domestic laws in the light of this instrument and other relevant International and Regional Human Rights Law protection frameworks. 
+ 2.  Besides increased humanitarian support, older displaced persons need greater __livelihoods opportunities__, to become financially independent.
+
+ 3.  It is necessary to implement mechanisms for participation, consultation and feedback in the design, planning and implementation of humanitarian responses, so that the __voices of older persons on the move are heard__, and their life experience and resilience are recognised as added values in such responses.
+
+ 4.  Globally, States are called upon to push forward the project to draft and adopt a United Nations International Convention on the Protection of Older Persons, led by the [Open-Ended Working Group on Ageing](https://social.un.org/ageing-working-group/).  Regionally, it is important that States in the Americas  adhere to and implement the  [Inter-American Convention on Protecting the Human Rights of Older Persons](http://www.oas.org/en/sla/dil/inter_american_treaties_a-70_human_rights_older_persons.asp), as the __legal framework__ in force for all American States, adapting their domestic laws in the light of this instrument and other relevant International and Regional Human Rights Law protection frameworks. 
 
 
 <div class="parallax parallax1"><div class="parallax-content">
@@ -102,9 +103,12 @@ With this report, UNHCR and HelpAge aim to cast light on the challenges and risk
 
 Older persons consulted mentioned to be unable to complete their regularization procedures and get their documents, either because they are alone (11% of all people live alone) or because of distance or lack of accessibility (67% of the older population say that they have difficulties in accessing and travelling on public transport).
 
-<aside>The lack of information regarding the regularization procedures is another challenge reported in the Andean region. In contrast, most of the older persons interviewed from Honduras and El Salvador hold identity documents from their own country, which enables them to access different rights and services.</aside>
+<aside>The lack of information regarding the regularization procedures is a specific challenge reported in the Andean region.</aside> 
 
-Older persons on the move in the Andean region are the most affected by lack of documentation: 24% of all interviewed did not have any documentation. This figure worsens among persons with disabilities, which increases their vulnerability. Here also a gender difference is found: 27% of women having no documentation at all, compared to 19% of men. In this region, even though the percentage of those in need of international protection is high, the percentage of those with refugee status is low, reaching only 9% among respondent. Many Venezuelans, for several reasons, opt for other types of regularization in host countries.
+
+Older persons on the move in the Andean region are the most affected by lack of documentation: 24% of all interviewed did not have any documentation. 
+
+This figure worsens among persons with disabilities, which increases their vulnerability. Here also a gender difference is found: 27% of women having no documentation at all, compared to 19% of men. In this region, even though the percentage of those in need of international protection is high, the percentage of those with refugee status is low, reaching only 9% among respondent. Many Venezuelans, for several reasons, opt for other types of regularization in host countries.
 
 >  “We requested an appointment for our asylum claim and we got scheduled for 2022”.
 >  -- Woman (67) in Peru, 2020  
@@ -156,7 +160,9 @@ WEBSTORY + VIDEO (see Reference below)
 
 On average, 61% of the older persons consulted live in rented accommodation and only 20% have their own flat or house. Women seem to have less housing security than men. Some 66% of women live in rented accommodation, almost 10 points higher than men, and only 17% live in their own home compared to 24% of men. 
 
-<aside>During the pandemic, housing conditions worsened for one fifth of those interviewed, as they were unable to afford rent. Five per cent of the survey’s respondents had been evicted during the pandemic.</aside>
+<aside>During the pandemic, one fifth of those interviewed were unable to afford rent and five per cent had been evicted.</aside>
+
+
 
 __In Honduras and El Salvador, 44% of people live in a flat or house of their own, a marked contrast to the countries in the Andean region, where only 9% of people live in a flat or house of their own__. In Honduras and El Salvador, the average number of people living in rented accommodation (32%) is much lower than in the Andean countries (79%).  
 
@@ -172,7 +178,7 @@ Less than half of the older persons consulted reported receiving humanitarian ai
 
 In all countries, aid mainly involves food and toiletries, with 48% in Honduras and El Salvador and 52% in the Andean countries. In second place, subsidies, economic support or cash transfers stand out, with 35% in Honduras and El Salvador and 45% in the Andean region.
 
-<aside>While in the Andean region, half of respondents reported receiving humanitarian aid, in Honduras and El Salvador, this was the case of only a third of respondents.</aside> 
+__While in the Andean region, half of respondents reported receiving humanitarian aid, in Honduras and El Salvador, this was the case of only a third of respondents. 
 
 
 
