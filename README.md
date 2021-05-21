@@ -99,29 +99,33 @@ On the top of article text, add side note to highlight some key elements
 
 ## Insert images
 
-### Above the fold
+### bacground mage
+
+For responsive design, the image needs to be crop-able in both portait (for smartphone) and landscape (for desktop)
+
+#### Above the fold
 
 “Above the fold” refers to web content that is visible above the border when a page first loads.
 
 The background image is called in `theme.css`, with  the correct path to image (or just overwrite the corresponding image in : `images/header.jpg`)
 
-> d-title {
->   background-image: url(images/header.jpg);
+`>` d-title {`
+`>`   background-image: url(images/header.jpg);`
   
 
-### Parallax effect to separate the chapter
+#### Parallax effect to separate the chapter
 
-> <div class="parallax parallax1"><div class="parallax-content">
-> ## This my chapter delimiter
-> </div></div>
+` <div class="parallax parallax1"><div class="parallax-content">`
+` ## This my chapter delimiter`
+` </div></div>`
 
 in `theme.css`, define the property `parallax1` by adding the correct path to image (or just overwrite the corresponding image in : `images/parallax1.jpg`)
 
 ### Inside microsite body
  
-```{r, layout="l-screen-inset"}
-include_graphics("images/infographic1.png")
-```
+`{r, layout="l-screen-inset"}`
+`include_graphics("images/infographic1.png")`
+
  
 layout can take the following value:
  * `l-body`  will cause content to span the width of the main article body:
