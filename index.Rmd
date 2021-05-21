@@ -182,7 +182,7 @@ While in the Andean region, half of respondents reported receiving humanitarian 
 
 
 <div class="parallax parallax2"><div class="parallax-content">
-## Older persons want independence and autonomy
+## Older persons want independence & autonomy
 </div></div>
 
 
@@ -221,7 +221,7 @@ Access to mobile phones does not necessarily imply Internet connectivity, since 
 
 
 
-<div class="parallax parallaxstory"><div class="parallax-content">
+<div class="parallaxstory">
 
 <p>STORY: Older Colombians and Venezuelans take care of each other under the same roof</p>
 <p>
@@ -238,7 +238,7 @@ Access to mobile phones does not necessarily imply Internet connectivity, since 
 </p>
 
 <iframe width="1266" height="745" src="http://www.youtube.com/embed/Ehf67tMy-0c?rel=0" frameborder="0" allowfullscreen></iframe>
-</div></div>
+</div>
 
 
 

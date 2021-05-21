@@ -22,10 +22,6 @@ navbar:
         href: "index.html#covid-19-has-affected-the-livelihoods-mental-health-and-physical-conditions-of-older-persons-across-latin-america."
       - text: "Conclusions"
         href: "index.html#conclusions"
-    - text: "English" 
-      menu:
-      - text: "Spanish"
-        href: "esp/index.html"
     - text: "Download"  
       menu:
       - text: "Executive Summary"
@@ -38,6 +34,8 @@ navbar:
         href: "http://microdata.unhcr.org"
       - text: "Media"
         href: "index.html"
+    - text: "Spanish"
+      href: "esp/index.html"
 output: distill::distill_article
 
 

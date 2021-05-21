@@ -2250,11 +2250,39 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
   
   
   /*-- subheaders --*/
-  d-title {
-    background-image: url(images/para/header.jpg);
-    background-repeat: no-repeat;
-    background-size:cover;
-    background-position:center;
+  
+  
+  /*-- For mobile:--*/
+  
+  @media (max-width: 480px) {
+    d-title {
+      background-image: url(images/para/header_m.jpg);
+      background-repeat: no-repeat;
+      background-size:cover;
+      background-position:center;
+    }
+  }
+  
+  /*-- For tablets:--*/
+  
+  @media (min-width: 481px) and (max-width: 1024px) {
+    d-title {
+      background-image: url(images/para/header.jpg);
+      background-repeat: no-repeat;
+      background-size:cover;
+      background-position:center;
+    }
+  }
+  
+  /*-- For desktop devices:--*/
+  
+  @media (min-width: 1025px) {
+    d-title {
+      background-image: url(images/para/header.jpg);
+      background-repeat: no-repeat;
+      background-size:cover;
+      background-position:center;
+    }
   }
   
   
@@ -2338,9 +2366,9 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
     .parallax3{background:url(images/para/parallax3_m.jpg)}--*/
   
   @media (max-width: 480px) {
-    .parallax1{background:url(images/para/parallax1.jpg)}
-    .parallax2{background:url(images/para/parallax2.jpg)}
-    .parallax3{background:url(images/para/parallax3.jpg)}
+    .parallax1{background:url(images/para/parallax1_m.jpg)}
+    .parallax2{background:url(images/para/parallax2_m.jpg)}
+    .parallax3{background:url(images/para/parallax3_m.jpg)}
   }
   
   /*-- For tablets:
@@ -2397,7 +2425,7 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
   /*-- If needed, add css property to the content div for its position and z-index. --*/
   .parallax h2{
   	position: absolute;
-    font-size: 3.6rem;
+    font-size: 2.8rem;
     color: #ffffff !important;
     text-shadow: 2px 2px 4px #000000;
   	width: 100%;
@@ -2621,16 +2649,6 @@ Content
 </div>
 <div class="nav-dropdown">
 <button class="nav-dropbtn">
-English
- 
-<span class="down-arrow">&#x25BE;</span>
-</button>
-<div class="nav-dropdown-content">
-<a href="esp/index.html">Spanish</a>
-</div>
-</div>
-<div class="nav-dropdown">
-<button class="nav-dropbtn">
 Download
  
 <span class="down-arrow">&#x25BE;</span>
@@ -2643,6 +2661,7 @@ Download
 <a href="index.html">Media</a>
 </div>
 </div>
+<a href="esp/index.html">Spanish</a>
 <a href="javascript:void(0);" class="nav-toggle">&#9776;</a>
 </div>
 </nav>
