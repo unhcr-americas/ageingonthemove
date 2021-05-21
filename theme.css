@@ -142,12 +142,12 @@ d-title {
   background-image: url(images/header.jpg);
   background-repeat: no-repeat;
   background-size:cover;
-  background-position:left;
+  background-position:center;
 }
 
 
 d-title h1 {
-  padding-bottom: 4rem;
+  padding-bottom: 2rem;
   padding-top: 30rem;
   /*-- font-weight: 700; --*/
   font-size: 6.6rem;
@@ -159,7 +159,7 @@ d-title h1 {
 d-title p {
   /*-- font-weight: 700; --*/
   
-  font-size: 2.5rem;
+  font-size: 2.1rem;
   color: #faeb00 !important;
   line-height: 1.1em;
   text-shadow: 2px 2px 4px #000000;
