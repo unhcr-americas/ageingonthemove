@@ -61,8 +61,6 @@ meta() %>%
     twitter_creator = "@unhcr"
   )
 
-
-
 ```
 
 
@@ -82,13 +80,6 @@ Although both context present different challenges, older persons on the move fa
 With this report, UNHCR and HelpAge aim to cast light on the challenges and risks faced by older persons on the move so that actions are taken to ensure they are not left behind.
 
 
-
-
-
-
-
-
-
 ## Call to Action
 
  *  The international community is called upon to include older persons on the move as a priority group in all their agendas, adapting and financing the institutional structure that responds to their needs. This should be translated into humanitarian responses and programmes that include older persons on the move as direct beneficiaries, guaranteeing their dignity, autonomy, independence and participation, avoiding interventions that expose them to situations of dependency, abuse and discrimination. 
@@ -101,15 +92,9 @@ With this report, UNHCR and HelpAge aim to cast light on the challenges and risk
 *  Regionally, it is important that States in the Americas  adhere to and implement the  [Inter-American Convention on Protecting the Human Rights of Older Persons](http://www.oas.org/en/sla/dil/inter_american_treaties_a-70_human_rights_older_persons.asp), as the legal framework in force for all American States, adapting their domestic laws in the light of this instrument and other relevant International and Regional Human Rights Law protection frameworks. 
 
 
-
-
-
+<div class="parallax parallax1"><div class="parallax-content">
 ## What are the protection risks and challenges faced by older persons on the move in the Americas?
-
-Reference
- 
-
-
+</div></div>
 
 
 
@@ -146,7 +131,7 @@ Older refugees have been deprived of their financial autonomy as many have lost 
 
 Despite their increased vulnerability, __older persons on the move have often become the main bread-winners for the household__ as they continue to have family members under their care, including children and adolescents (60%), adults (38%), people over 60 years old (20%) and persons with disabilities (5%)
  
-```{r, layout="l-screen"}
+```{r, layout="l-page"}
 include_graphics("images/SPA_WIDE_MACRO 4.png")
 ```
 
@@ -189,8 +174,12 @@ In all countries, aid mainly involves food and toiletries, with 48% in Honduras 
 
 <aside>While in the Andean region, half of respondents reported receiving humanitarian aid, in Honduras and El Salvador, this was the case of only a third of respondents.</aside> 
 
+
+
+
+<div class="parallax parallax3"><div class="parallax-content">
 ## Older persons want independence and autonomy
- 
+</div></div>
 
 
 ### Discriminated by their age   
@@ -205,7 +194,7 @@ The most commonly occurring type of abuse against older persons with disabilitie
 Among the perpetrators of abuse, 11% were family members; 7% were government officials, including the security forces; 7% were friends or neighbours; and 74% were other people, for example, armed actors, gangs, people on the street, on public transport, or the owners of the homes which they rented or where they lived.
 
  
-```{r, layout="l-screen"}
+```{r, layout="l-page"}
 include_graphics("images/SPA_WIDE_MACRO 2.png")
 ```
 
@@ -229,11 +218,14 @@ Access to mobile phones does not necessarily imply Internet connectivity, since 
 https://www.youtube.com/watch?v=Ehf67tMy-0c 
   
 
+<div class="parallax parallax2"><div class="parallax-content">
 ## COVID-19 has affected the livelihoods, mental health and physical conditions of older persons across Latin America.
+</div></div>
+
+
+The pandemic has exacerbated pre-existing threats to the physical and mental health, nutrition, financial autonomy and legal status of older refugees and others on the move. 
 
 <p class="tweetable">The COVID-19 pandemic has gravely worsened the wellbeing of older persons on the move across Latin America, by further limiting their access to rights and services.</p>
-
- The pandemic has exacerbated pre-existing threats to the physical and mental health, nutrition, financial autonomy and legal status of older refugees and others on the move. 
 
 There was evidence of an increase in the limitations of access to health services to treat symptoms or illness different to those associated with the virus during the pandemic.
  
@@ -253,7 +245,7 @@ __Isolation is one of the most important effects of COVID-19__, as people cannot
 
  
 
-```{r, layout="l-screen"}
+```{r, layout="l-page"}
 include_graphics("images/SPA_WIDE_MACRO 1.png")
 ```
 

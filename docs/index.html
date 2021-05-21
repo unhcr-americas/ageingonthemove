@@ -2217,47 +2217,32 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
   /* Add any additional CSS rules below                      */
   
   
-  .tweetable {
-    background: url(images/Twitter_logo_white_1.png) 1% 10% no-repeat rgb(0, 114, 188); 
-    padding: 2em 1em;
-    max-width: 800px;
-    margin: 15px auto;
-    font-family: sans-serif;
-    font-weight: lighter;
-    font-size: 1.1em;
-  }
-  
-  .tweetable:before {
-    display: inline-block;
-    text-decoration: none;
-    content: '  \21e8';
-    padding-left: 18px;
-    padding-right: 10px;
-  }
-  
-  a.tweet-link { 
-    color: white;
-  }
-  
-  
   
   
   .distill-site-header .logo img {
+  /* 
       display: inline-block;
-  /* Add any additional CSS rules below     */                 
-      width: 384px;
+      Add any additional CSS rules below  
+                      
+  
+      max-width: 100%; 
+      max-height: 100%;
+      height: auto; 
+     width: 100%; !important
+     height: auto; !important */  
+     width: 384px;
       height: 100px;
       max-height: 100px;
   }
-  
+   
   .distill-site-header {
       height: 100px;
-  }
+  } 
   
   
   .distill-site-header .title {
   position: relative;
-  transform: translateY(-70%);
+   /*transform: translateY(-70%); */
   }
   
   .distill-site-header .nav-right {
@@ -2266,7 +2251,7 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
   }
   
   
-  /*-- headers --*/
+  /*-- subheaders --*/
   d-title {
     background-image: url(images/header.jpg);
     background-repeat: no-repeat;
@@ -2294,6 +2279,11 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
     text-shadow: 2px 2px 4px #000000;
   }
   
+  
+  
+  
+  /*-- Highlighting elements --*/
+  
   d-article aside {
      background: rgb(204, 227, 242);
      padding: 1em;
@@ -2303,8 +2293,84 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
       border-left: 2px solid rgba(0, 0, 0, 0.2);
       padding-left: 2em;
       font-style: italic;
-      color: rgba(0, 0, 0, 0.6);
-  }</style>
+  }
+  
+  
+  .tweetable {
+    background: url(images/Twitter_logo_white_1.png) 1% 10% no-repeat rgb(0, 114, 188); 
+    padding: 2em 1em;
+    max-width: 800px;
+    margin: 15px auto;
+    font-family: sans-serif;
+    font-weight: lighter;
+    font-size: 1.1em;
+  }
+  
+  .tweetable:before {
+    display: inline-block;
+    text-decoration: none;
+    content: '  \21e8';
+    padding-left: 18px;
+    padding-right: 10px;
+  }
+  
+  a.tweet-link { 
+    color: white;
+  }
+  
+  
+  
+  /*-- putting some parallax effect --*/
+  
+  
+  /*-- list of background image for chapter transition --*/
+  
+  .parallax1{background:url(images/parallax1.jpg)}
+  .parallax2{background:url(images/parallax2.jpg)}
+  .parallax3{background:url(images/parallax3.jpg)}
+  
+  /*-- list of background image for chapter transition 
+  .parallax4{background:url(images/parallax4.jpg)}
+  .parallax5{background:url(images/parallax5.jpg)}
+  .parallax6{background:url(images/parallax6.jpg)}--*/
+  
+  .parallax{
+    padding:400px 15px;
+    color:#fff;
+    background-size:cover;
+    background-repeat:no-repeat;
+    background-position:center;
+    background-attachment:fixed;
+    position:relative;
+    grid-column: screen;
+    
+  }
+  
+  /*-- Create another div inside it and add some text contents to make the effect look more appealing.
+  Improve the readability of the text contents by adding an extra colored background layer on top of the image.--*/
+  
+  .parallax:before{ 
+  	content: ''; 
+  	position:absolute;
+  	top:0; 
+  	left:0; 
+  	width:100%; 
+  	height:100%;  
+  	background: rgba(0,0,0,0.2); 	
+  }	
+  
+  /*-- If needed, add css property to the content div for its position and z-index. --*/
+  .parallax h2{
+  	position: absolute;
+    font-size: 3.6rem;
+    color: #ffffff !important;
+    text-shadow: 2px 2px 4px #000000;
+  	width: 100%;
+  	z-index: 1;
+  	top: 30%;
+  	left: 2%;
+  }
+  </style>
   <style type="text/css">
   /* base style */
   
@@ -2516,12 +2582,11 @@ Content
 <span class="down-arrow">&#x25BE;</span>
 </button>
 <div class="nav-dropdown-content">
-<a href="index.html#introduction">Introduction and context</a>
-<a href="index.html#recommendations">Recommendations</a>
+<a href="index.html#call-to-action">Calll to Action</a>
 <a href="index.html#what-are-the-profiles-and-condition-of-older-people-on-the-move-in-the-americas">Profiles &amp; Conditions</a>
-<a href="index.html#what-challenges-are-being-faced-by-older-persons-on-the-move-in-the-americas">Challenges</a>
-<a href="index.html#what-are-the-specific-protection-risks-they-are-exposed-to">protection risk</a>
-<a href="index.html#covid-19-has-impacted-their-livelihoods-metal-health-and-physical-conditions">COVID-19 impact</a>
+<a href="index.html#what-are-the-protection-risks-and-challenges-faced-by-older-persons-on-the-move-in-the-americas">Challenges</a>
+<a href="index.html#older-persons-want-independence-and-autonomy">Independence &amp; Autonomy</a>
+<a href="index.html#covid-19-has-affected-the-livelihoods-mental-health-and-physical-conditions-of-older-persons-across-latin-america.">COVID-19 impact</a>
 <a href="index.html#conclusions">Conclusions</a>
 </div>
 </div>
@@ -2600,8 +2665,11 @@ A total of 725 older persons were consulted via telephone, as well as caretakers
 <li><p>Globally, States are called upon to push forward the project to draft and adopt a United Nations International Convention on the Protection of Older Persons, led by the <a href="https://social.un.org/ageing-working-group/">Open-Ended Working Group on Ageing</a>.</p></li>
 <li><p>Regionally, it is important that States in the Americas adhere to and implement the <a href="http://www.oas.org/en/sla/dil/inter_american_treaties_a-70_human_rights_older_persons.asp">Inter-American Convention on Protecting the Human Rights of Older Persons</a>, as the legal framework in force for all American States, adapting their domestic laws in the light of this instrument and other relevant International and Regional Human Rights Law protection frameworks.</p></li>
 </ul>
+<div class="parallax parallax1">
+<div class="parallax-content">
 <h2 id="what-are-the-protection-risks-and-challenges-faced-by-older-persons-on-the-move-in-the-americas">What are the protection risks and challenges faced by older persons on the move in the Americas?</h2>
-<p>Reference</p>
+</div>
+</div>
 <h3 id="living-for-months-without-documents-and-information">Living for months without documents and information</h3>
 <p>Older persons consulted mentioned to be unable to complete their regularization procedures and get their documents, either because they are alone (11% of all people live alone) or because of distance or lack of accessibility (67% of the older population say that they have difficulties in accessing and travelling on public transport).</p>
 <aside>
@@ -2627,7 +2695,7 @@ Almost 27% of the people interviewed reported not having access to any health se
 Some 64% of older persons consulted had no monthly income before the pandemic, and of those who did have an income, 62% felt it had not been enough to meet their basic needs.
 </p>
 <p>Despite their increased vulnerability, <strong>older persons on the move have often become the main bread-winners for the household</strong> as they continue to have family members under their care, including children and adolescents (60%), adults (38%), people over 60 years old (20%) and persons with disabilities (5%)</p>
-<div class="layout-chunk" data-layout="l-screen">
+<div class="layout-chunk" data-layout="l-page">
 <p><img src="images/SPA_WIDE_MACRO%204.png" width="1067" /></p>
 </div>
 <h3 id="a-quarter-of-older-persons-consulted-are-not-eating-3-meals-a-day.">A quarter of older persons consulted are not eating 3 meals a day.</h3>
@@ -2652,7 +2720,11 @@ During the pandemic, housing conditions worsened for one fifth of those intervie
 <aside>
 While in the Andean region, half of respondents reported receiving humanitarian aid, in Honduras and El Salvador, this was the case of only a third of respondents.
 </aside>
+<div class="parallax parallax3">
+<div class="parallax-content">
 <h2 id="older-persons-want-independence-and-autonomy">Older persons want independence and autonomy</h2>
+</div>
+</div>
 <h3 id="discriminated-by-their-age">Discriminated by their age</h3>
 <p>Half of the older persons on the move consulted described having experienced discrimination while a worrying number described incidents of abuse. More than a third of the respondents reported being abused in the countries where they reside and before the pandemic with a marked difference between those with disabilities (48%) and those without (29%).</p>
 <aside>
@@ -2660,7 +2732,7 @@ In Honduras and El Salvador, the percentage of elder abuse is 63%, with a signif
 </aside>
 <p>The most commonly occurring type of abuse against older persons with disabilities in the countries of the Andean region is eviction (8%), affecting more women than men in this situation, by three percentage points.</p>
 <p>Among the perpetrators of abuse, 11% were family members; 7% were government officials, including the security forces; 7% were friends or neighbours; and 74% were other people, for example, armed actors, gangs, people on the street, on public transport, or the owners of the homes which they rented or where they lived.</p>
-<div class="layout-chunk" data-layout="l-screen">
+<div class="layout-chunk" data-layout="l-page">
 <p><img src="images/SPA_WIDE_MACRO%202.png" width="1067" /></p>
 </div>
 <h3 id="active-participation-in-their-communities">Active participation in their communities</h3>
@@ -2673,11 +2745,15 @@ Although before COVID-19 the older persons did not actively participate, during 
 <h3 id="using-the-right-communication-channel">Using the right communication channel</h3>
 <p>Equipment and Internet access are essential supports in the information process, but also as mechanisms for participation in virtual activities or as intermediaries to facilitate the development of community actions. More than 85% of older persons have access to mobile phones, 70% to a television and only 35% to a radio. Though only 10% have access to landline phones, laptops, entertainment devices, tablets and desktop computers. Access to mobile phones does not necessarily imply Internet connectivity, since on average access slightly exceeds one third of the population, except for Colombia and Ecuador. In addition, most of their mobile phones are not smartphones. One of their main uses is to connect with family members via WhatsApp.</p>
 <p><a href="https://www.unhcr.org/news/stories/2019/6/5cffc16c4/older-colombians-venezuelans-care-other-under-roof.html">WEBSTORY + VIDEO</a> <a href="https://www.youtube.com/watch?v=Ehf67tMy-0c" class="uri">https://www.youtube.com/watch?v=Ehf67tMy-0c</a></p>
+<div class="parallax parallax2">
+<div class="parallax-content">
 <h2 id="covid-19-has-affected-the-livelihoods-mental-health-and-physical-conditions-of-older-persons-across-latin-america.">COVID-19 has affected the livelihoods, mental health and physical conditions of older persons across Latin America.</h2>
+</div>
+</div>
+<p>The pandemic has exacerbated pre-existing threats to the physical and mental health, nutrition, financial autonomy and legal status of older refugees and others on the move.</p>
 <p class="tweetable">
 The COVID-19 pandemic has gravely worsened the wellbeing of older persons on the move across Latin America, by further limiting their access to rights and services.
 </p>
-<p>The pandemic has exacerbated pre-existing threats to the physical and mental health, nutrition, financial autonomy and legal status of older refugees and others on the move.</p>
 <p>There was evidence of an increase in the limitations of access to health services to treat symptoms or illness different to those associated with the virus during the pandemic.</p>
 <p>This limitation is even greater in persons with disabilities. In addition, 6% of those infected with COVID-19 reported not receiving adequate medical care.</p>
 <p>Access to food for older persons on the move had also worsened in all countries assessed. Already prior to the pandemic, one in four were having to skip meals. With the advent of COVID-19, 41% had to further reduce their food intake. Some 64% of older persons consulted had no monthly income before the pandemic. From those who did have income, 62% felt it was not enough to meet their basic needs. But COVID-19 further compounded their economic situation, leaving many more without employment. In Honduras and El Salvador, a third of those interviewed reported that they had lost their jobs. In Andean region countries, nearly half had lost jobs. Meanwhile, housing conditions also worsened for one fifth of those interviewed, as they were unable to afford rent. Five per cent of the respondents had been evicted during the pandemic.</p>
@@ -2686,7 +2762,7 @@ The COVID-19 pandemic has gravely worsened the wellbeing of older persons on the
 Emotional illnesses and disorders have been intensified by the pandemic.
 </p>
 <p><strong>Isolation is one of the most important effects of COVID-19</strong>, as people cannot meet with friends and family as they normally would, and their recreation is also reduced. The pandemic has led to a decrease in the daily contact of older persons on the move with their families, from 39% to 26%, which has an impact on feelings of isolation and loneliness. Isolation aggravates physical and mental health conditions.</p>
-<div class="layout-chunk" data-layout="l-screen">
+<div class="layout-chunk" data-layout="l-page">
 <p><img src="images/SPA_WIDE_MACRO%201.png" width="1067" /></p>
 </div>
 <h2 id="conclusions">Conclusions</h2>

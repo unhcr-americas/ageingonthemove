@@ -39,6 +39,43 @@ Syntax highlighted code block
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
+
+## Insert image
+
+### Above the fold
+
+“Above the fold” refers to web content that is visible above the border when a page first loads.
+
+The background image is called in `theme.css`, with  the correct path to image (or just overwrite the corresponding image in : `images/header.jpg`)
+
+> d-title {
+>   background-image: url(images/header.jpg);
+  
+
+### Parallax effect to separate the chapter
+
+> <div class="parallax parallax1"><div class="parallax-content">
+> ## This my chapter delimiter
+> </div></div>
+
+in `theme.css`, define the property `parallax1` by adding the correct path to image (or just overwrite the corresponding image in : `images/parallax1.jpg`)
+
+### Inside microsite body
+ 
+```{r, layout="l-screen-inset"}
+include_graphics("images/infographic1.png")
+```
+ 
+layout can take the following value:
+ * `l-body`  will cause content to span the width of the main article body:
+ * `l-body-outset` Wider layouts
+ * `l-page` Even wider
+ * `l-screen` full screen
+ * `l-screen-inset` full screen with a bit space at the edges
+ 
+
+
+
  
 ## Tips for creating microsites
 
