@@ -2,12 +2,24 @@
 
 Microsite for the Report:  __A dignity claim: Ageing on the move__
 
-## A re-usable microsite template 
+## What's a microsite and when to use it?
 
 A microsite is a single web-page or a small cluster of web pages that exist separate from the organization main website and is used for specific campaigns. A microsite will have its own domain or unique URL and the branding of it may differ from the brand’s usual one. 
 
 It can typically be built to highlight content from joint study and research process.
 
+Using a reproducible analysis approach, the following workflow can be used:
+
+ 1. After data collection in [kobotoolbox](https://kobo.unhcr.org) and one data has been deposited and documented on [RIDL](https://ridl.unhcr.org/), an __initial data crunching report__ can be generated. This can be done with [koboloadeR](https://unhcr.github.io/koboloadeR/docs/). Ideally both the data crunching notebook source (i.e Rmd file) and output (i.e. html, docx or pptx) should also be recorded in RIDL. 
+ 
+ 2. The Data analysis expert should then select from within the initial crunching report, the specific figures/charts that are more likely to generate interesting joint data interpretation and compile a new refined & smaller notebook to output some __joint data interpretation presentation material__. The content of the notebook should take in consideration the data literacy levels of the particpants to the data intepretation sessions.
+ 
+ 3. Joint data interpretation sessions are key to establish common understanding, compensate lack of evidence with expert judgment, resolve inconsistencies in the data, agree on priorities and develop likely scenarios/programmatic recommendations. All steps are well explained in this [video from IFRC](https://www.youtube.com/watch?v=0jE-Y7g88K4&feature=youtu.be&t=2305). The output of the session are __data interpretation notes__ that can be included back in the notebook used to create the initial presentation and archived in [UNHCR Internal Analysis repo](http://analysis.unhcr.org). A last round of comments, regional peer review and validation than can be organized directly through the [UNHCR Internal Analysis repo](http://analysis.unhcr.org)
+ 
+ 4. The last step is to produce depending on the context, only a short __microsite__ or an a shot microsite plus a more in-depth report. For indepth report, UNHCR Analyst can use the paginated template from [unhcRstyle package](https://unhcr-web.github.io/unhcRstyle/docs/)
+
+
+## A re-usable microsite template 
 
 This repository can be used as a template to __generate microsite__. It uses a customized version of the [distill package](https://rstudio.github.io/distill/website.html). The advantage of this approach is to develop quickly a microsite without coding any html/css/javascript as the content will be only a [mark-down document](https://www.markdownguide.org/cheat-sheet/).  In addition, because it based on R, it becomes very easy to include charts, graphs and other data visualizations.
 
@@ -99,9 +111,22 @@ On the top of article text, add side note to highlight some key elements
 
 ## Insert images
 
+### Select the right pictures
+
+UNHCR has its own media library that can be used to search and select pictures: [https://media.unhcr.org/](https://media.unhcr.org/).
+
+When selecting pictures for a report, as pointed in the report: [Aid recipients call for more dignity and diversity in INGO campaigns](https://www.radiaid.com/aid-recipients-call-for-more-dignity-and-diversity): "_Aid communication still needs to move away from presenting the single story: Why not try to create a sense of hope or provide inspiration to the viewer, instead of primarily provoking feelings of despair?_"
+
+Practically speaking this implies;
+
+ * Avoid putting pictures of persons that can be easily recognized
+ * If the pictures you have includes persons that can be recognized, do not include those that present the person in a state of despair.  An emotional state of despair can easily be conveyed by pictures that do not include recognizable faces.
+
+
 #### First resize them
 
-Saving your images with appropriate dimensions and optimizing images for the web can help with a few things:
+
+It is important that you optimize their size for the context in which they will be published. Saving your images with appropriate dimensions and optimizing images for the web can help with a few things:
 
  * Speed – if a web page loads in more than 5 seconds, the probability that a mobile user will leave that page increases by 90%. By resizing and reducing image sizes, you make your website pages faster.
  
@@ -110,18 +135,18 @@ Saving your images with appropriate dimensions and optimizing images for the web
  * SEO ranking – site speed is a ranking factor. The faster is your site, the better you can potentially rank. Web pages with optimized images will load much quicker on both desktop and mobile devices.
  
 
-To ensure that your full width images look good across any device big or small the recommended size is max 2000px width. If inside the page, then a width of 1500px is recommended. Large images or full-screen background images should be no more than 1 MB.
+To ensure that your full width images look good across any device big or small the recommended size is max 2000px width. If inside the page, then a width of 1080px is recommended. Large images or full-screen background images should be no more than 1 MB.
 
-According to this [tutorial](https://www.smashingmagazine.com/2015/06/efficient-image-resizing-with-imagemagick), the following command line will effectively resive all the image from the folder within it is being run into optimal 800 pixel width images
-
-
-
-`mogrify -filter Triangle -define filter:support=2 -unsharp 0.25x0.25+8+0.065 -dither None -posterize 136 -quality 82 -define jpeg:fancy-upsampling=off -define png:compression-filter=5 -define png:compression-level=9 -define png:compression-strategy=1 -define png:exclude-chunk=all -interlace none -colorspace sRGB -strip -units PixelsPerInch -density 92  -resize 800  *.png`
+According to this [tutorial](https://www.smashingmagazine.com/2015/06/efficient-image-resizing-with-imagemagick), the following command line will effectively resize all the image from the folder within it is being run into optimal 1080 pixel width images
 
 
-### bacground mage
 
-For responsive design, the image needs to be crop-able in both portait (for smartphone) and landscape (for desktop)
+`mogrify -filter Triangle -define filter:support=2 -unsharp 0.25x0.25+8+0.065 -dither None -posterize 136 -quality 82 -define jpeg:fancy-upsampling=off -define png:compression-filter=5 -define png:compression-level=9 -define png:compression-strategy=1 -define png:exclude-chunk=all -interlace none -colorspace sRGB -strip -units PixelsPerInch -density 92  -resize 1080  *.png`
+
+
+### background image
+
+For responsive design, the image needs to be crop-able in both portrait (for smartphone) and landscape (for desktop). Chnaing between those 2 formats is handled in the css file  `theme.css`
 
 #### Above the fold
 
@@ -129,8 +154,8 @@ For responsive design, the image needs to be crop-able in both portait (for smar
 
 The background image is called in `theme.css`, with  the correct path to image (or just overwrite the corresponding image in : `images/header.jpg`)
 
-`>` d-title {`
-`>`   background-image: url(images/header.jpg);`
+`> d-title {`
+`>   background-image: url(images/header.jpg);`
   
 
 #### Parallax effect to separate the chapter
