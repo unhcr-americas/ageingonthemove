@@ -31,7 +31,7 @@ navbar:
       - text: "Data"
         href: "http://microdata.unhcr.org"
       - text: "Medios de Comunicación"
-        href: "index.html"
+        href: "https://media.unhcr.org/Package/2CZ9LOL31BHY"
     - text: "English" 
       href: "../index.html"
 output: distill::distill_article

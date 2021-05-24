@@ -10,7 +10,7 @@ navbar:
   right:
     - text: "Content"  
       menu:
-      - text: "Calll to Action"
+      - text: "Call to Action"
         href: "index.html#call-to-action"
       - text: "Protection Risks & Challenges"
         href: "index.html#what-are-the-protection-risks-and-challenges-faced-by-older-persons-on-the-move-in-the-americas"
@@ -31,7 +31,7 @@ navbar:
       - text: "Data"
         href: "http://microdata.unhcr.org"
       - text: "Media"
-        href: "index.html"
+        href: "https://media.unhcr.org/Package/2CZ9LOL31BHY"
     - text: "Español"
       href: "es/index.html"
 output: distill::distill_article

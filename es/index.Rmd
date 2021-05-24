@@ -1,5 +1,5 @@
 ---
-title: "Un reclamo de dignidad: Vejez en la movilidad humana "
+title: "Un reclamo de dignidad: Vejez en la movilidad humana"
 description: |
   La necesidad de visibilizar a las personas mayores y asegurar acciones integrales en las respuestas humanitarias
 preview: images/macro/SPA_MACRO-1.jpg
@@ -163,7 +163,7 @@ include_graphics("images/macro/SPA_MACRO-4.jpg")
 
 ### Un cuarto de las personas mayores consultadas no están comiendo tres comidas al día. 
 
-El acceso a alimentos para las personas mayores en situación de movilidad humana ha empeorado en todos los países evaluados.  Antes de la pandemia, una de cada cuatro se saltaban comidas. Con el adviento de COVID-19, 41% disminuyó su consumo de comida. 
+El acceso a alimentos para las personas mayores en situación de movilidad humana ha empeorado en todos los países evaluados.  Antes de la pandemia, una de cada cuatro se saltaban comidas. Con el advenimiento  de la COVID-19, 41% disminuyó su consumo de comida. 
 
 Hasta para aquellas que comen suficientes comidas al día, esto no implica que disfruten de un balance nutricional adecuado, ya que en muchos casos el consumo alimentario se compone de carbohidratos, especialmente en áreas rurales de Honduras y El Salvador, con poca proteína o sin ingredientes adecuados para las dietas de personas mayores. 
 
@@ -187,9 +187,6 @@ En promedio, 61% de las personas mayores consultadas viven en espacios alquilado
 En Honduras y El Salvador, 44% de las personas viven en su propio apartamento o casa, un claro contraste con los países de la región Andina donde solo 9% viven en su propio apartamento o casa. En Honduras y El Salvador, el número promedio de personas viviendo en espacios alquilados (32%) es mucho menor que en la región Andina (79%).  
 
 
-```{r, layout="l-body"}
-include_graphics("images/info/care.png", dpi = NA)
-```
 
 Un tercio de la población entrevistada habita en un cuarto individual y la mitad de la población comparte con una o dos personas. El hacinamiento es un tema de preocupación en la población desplazada interna en Honduras, que alcanza un tercio de la población y las personas refugiadas o solicitantes de la condición de refugiado en Colombia, que supera la mitad de la población. Estas cifras son similares a aquellas para refugiadas o solicitantes de la condición de refugiado en Perú 
 
@@ -238,7 +235,7 @@ El empoderamiento de las personas mayores está relacionado a factores como la p
  
 Las mujeres presentaron un porcentaje de no participación mayor al de los hombres. Esta participación es aún más baja cuando se incluyen personas mayores con discapacidad. Adicionalmente, alrededor del 84% de las personas mayores no ha participado de charlas o entrenamientos en actividades que concienticen sobre sus derechos. 
 
-A pesar de que antes de COVID-19 las personas mayores no participaban activamente, durante la pandemia su participación ha disminuido drásticamente debido a las medidas de confinamiento, que han causado problemas de salud física y mental. 
+A pesar de que antes de la COVID-19 las personas mayores no participaban activamente, durante la pandemia su participación ha disminuido drásticamente debido a las medidas de confinamiento, que han causado problemas de salud física y mental. 
 
 ### Usando el canal de comunicación adecuado 
 
@@ -279,7 +276,7 @@ La Casa del Abuelo acoge a personas adultas mayores colombianas que quedaron sol
 
 La pandemia ha exacerbado las amenazas ya existentes a la salud física y mental, la nutrición, autonomía financiera y estatus legal de personas refugiadas mayores y otras en situación de movilidad humana.  
 
-<p class="tweetable"> La pandemia de COVID-19 está impactado gravemente el bienestar de las personas mayores desplazadas en toda América Latina, limitando aún más su acceso a derechos y servicios.</p> 
+<p class="tweetable"> La pandemia de la COVID-19 está impactado gravemente el bienestar de las personas mayores desplazadas en toda América Latina, limitando aún más su acceso a derechos y servicios.</p> 
 
 ```{r, layout="l-body"}
 include_graphics("images/info/covid.png", dpi = NA)
@@ -299,7 +296,7 @@ Los efectos psicológicos de la pandemia son unos de los problemas más grandes 
 
 <aside>Las enfermedades y problemas emocionales se han intensificado durante la pandemia.</aside>
 
-El __asilamiento__ es uno de los efectos más importantes de COVID-19, ya que las personas no pueden encontrarse con sus amistades y familia como normalmente lo harían y su tiempo de recreación también es reducido. La pandemia ha llevado a la disminución del contacto diario de las personas mayores en situación de movilidad humana con sus familias, de un 39% a 26%, lo que ha tenido un impacto en los sentimientos de asilamiento y soledad. El aislamiento agrava las condiciones físicas y mentales. 
+El __asilamiento__ es uno de los efectos más importantes de la COVID-19, ya que las personas no pueden encontrarse con sus amistades y familia como normalmente lo harían y su tiempo de recreación también es reducido. La pandemia ha llevado a la disminución del contacto diario de las personas mayores en situación de movilidad humana con sus familias, de un 39% a 26%, lo que ha tenido un impacto en los sentimientos de asilamiento y soledad. El aislamiento agrava las condiciones físicas y mentales. 
 
 
 ```{r, layout="l-page"}

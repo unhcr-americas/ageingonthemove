@@ -1,7 +1,7 @@
 ---
 title: "A dignity claim: Ageing on the move"
 description: |
-  Making ageing persons visible to enhance comprehensive actions in humanitarian responses
+  Making older persons visible to enhance comprehensive actions in humanitarian responses
 preview: images/macro/ENG-MACRO-1.jpg
 twitter:
   site: "@unhcr"
@@ -107,7 +107,7 @@ The international community is called upon to include older persons on the move 
  4.  Globally, States are called upon to push forward the project to draft and adopt a United Nations International Convention on the Protection of Older Persons, led by the [Open-Ended Working Group on Ageing](https://social.un.org/ageing-working-group/).  Regionally, it is important that States in the Americas  adhere to and implement the  [Inter-American Convention on Protecting the Human Rights of Older Persons](http://www.oas.org/en/sla/dil/inter_american_treaties_a-70_human_rights_older_persons.asp), as the __legal framework__ in force for all American States, adapting their domestic laws in the light of this instrument and other relevant International and Regional Human Rights Law protection frameworks. 
 
 
-<div class="parallax parallax1"><div class="parallax-content">
+<div class="parallax parallax2"><div class="parallax-content">
 ## What are the protection risks and challenges faced by older persons on the move in the Americas?
 </div></div>
 
@@ -153,7 +153,7 @@ include_graphics("images/info/eco.png", dpi = NA)
 
 Some 64% of older persons consulted had no monthly income before the pandemic, and of those who did have an income, 62% felt it had not been enough to meet their basic needs.
 
-Despite their increased vulnerability, older persons on the move have often become the main bread-winners for the household as they continue to have family members under their care, including children and adolescents (60%), adults (38%), people over 60 years old (20%) and persons with disabilities (5%)
+Despite their increased vulnerability, older persons on the move have often become the main bread-winners for the household as they continue to have family members under their care, including children and adolescents (60%), adults (38%), people over 60 years old (20%) and persons with disabilities (5%).
  
 ```{r, layout="l-page"}
 include_graphics("images/macro/ENG-MACRO-4.jpg")
@@ -182,14 +182,11 @@ On average, 61% of the older persons consulted live in rented accommodation and 
 
 <aside>During the pandemic, one fifth of those interviewed were unable to afford rent and five per cent had been evicted.</aside>
 
-In Honduras and El Salvador, 44% of people live in a flat or house of their own, a marked contrast to the countries in the Andean region, where only 9% of people live in a flat or house of their own. In Honduras and El Salvador, the average number of people living in rented accommodation (32%) is much lower than in the Andean countries (79%).  
+In Honduras and El Salvador, 44% of older persons live in a flat or house of their own, a marked contrast to the countries in the Andean region, where only 9% of people live in a flat or house of their own. In Honduras and El Salvador, the average number of people living in rented accommodation (32%) is much lower than in the Andean countries (79%).  
 
 
-```{r, layout="l-body"}
-include_graphics("images/info/care.png", dpi = NA)
-```
 
-A third of the surveyed population lives in a single room and half of the population shares a room with one or two other people. Overcrowding is a matter of concern for the internally displaced population in Honduras, which reaches a third of the population, and for refugees and asylum-seekers in Colombia, which exceeds half of the population. These figures are similar to those relating to refugees or asylum-seekers in Peru.
+A third of the surveyed population lives in a single room and half of the population shares a room with one or two other people. __Overcrowding__ is a matter of concern for internally displaced persons in Honduras, which reaches a third of the population, and for refugees and asylum-seekers in Colombia, which exceeds half of the population. These figures are similar to those relating to refugees or asylum-seekers in Peru.
 
 ### Older persons on the move have limited access to humanitarian aid
 
@@ -199,8 +196,8 @@ In all countries, aid mainly involves food and toiletries, with 48% in Honduras 
 
 While in the Andean region, half of respondents reported receiving humanitarian aid, in Honduras and El Salvador, this was the case of only a third of respondents. 
 
-<div class="parallax parallax2"><div class="parallax-content">
-## Older persons want independence & autonomy
+<div class="parallax parallax5"><div class="parallax-content">
+## Older persons want independence and autonomy
 </div></div>
 
 
@@ -226,7 +223,7 @@ include_graphics("images/macro/ENG-MACRO-2.jpg")
 
 The empowerment of the older persons is related to factors such as participation, physical accessibility, the ability to move from one place to another as well as the communication channels at their disposal that generate autonomy and independence. 
 
-<p class="tweetable">More than two third of ageing person on the move had no activities to share or to socialize with others. </p>
+<p class="tweetable">More than two thirds of older persons on the move had no activities to share or to socialize with others.</p>
  
 Women presented a higher percentage of non-participation than men. This participation is even lower when it comes to older persons with disabilities. In addition, around 84% of older persons have not attended talks or taken part in training and awareness-raising activities concerning their rights.  
 
@@ -244,7 +241,7 @@ Access to mobile phones does not necessarily imply Internet connectivity, since 
 
 <div class="story">
 
- STORY: Older Colombians and Venezuelans take care of each other under the same roof.
+### Human STORY: Older Colombians and Venezuelans take care of each other under the same roof.
  
  
   Born on 3 October 1989, in Riohacha, La Guajira, northern Colombia, this was the life project of a social worker and her family, with the idea of supporting and helping older persons in this area of the country. They have been at the service of those in need of their assistance for 33 years -people who have been abandoned by family members and who are sheltered there. This is a community-based effort.  
@@ -270,8 +267,10 @@ Access to mobile phones does not necessarily imply Internet connectivity, since 
 
 
 
-## COVID-19 has affected the livelihoods, mental health and physical conditions of older persons.
-
+.
+<div class="parallax parallax4"><div class="parallax-content">
+## COVID-19 has affected the livelihoods, mental health and physical conditions of older persons
+</div></div>
 
 
 The pandemic has exacerbated pre-existing threats to the physical and mental health, nutrition, financial autonomy and legal status of older refugees and others on the move. 
@@ -282,9 +281,9 @@ The pandemic has exacerbated pre-existing threats to the physical and mental hea
 include_graphics("images/info/covid.png", dpi = NA)
 ```
 
-There was evidence of an increase in the limitations of access to health services to treat symptoms or illness different to those associated with the virus during the pandemic.
+Evidence indicates that persons with disabilities face increased difficulties and limitations accessing health services for symptoms and illnesses unrelated to the pandemic. 
  
- This limitation is even greater in persons with disabilities. In addition, 6% of those infected with COVID-19 reported not receiving adequate medical care. 
+This limitation is even greater in persons with disabilities. In addition, 6% of those infected with COVID-19 reported not receiving adequate medical care. 
 
 Access to food for older persons on the move had also worsened in all countries assessed. Already prior to the pandemic, one in four were having to skip meals. With the advent of COVID-19, 41% had to further reduce their food intake. 
 
@@ -299,11 +298,10 @@ The psychological effects of the pandemic are one the biggest identified problem
 
 __Isolation__ is one of the most important effects of COVID-19, as people cannot meet with friends and family as they normally would, and their recreation is also reduced. The pandemic has led to a decrease in the daily contact of older persons on the move with their families, from 39% to 26%, which has an impact on feelings of isolation and loneliness. Isolation aggravates physical and mental health conditions.  
 
-```{r, layout="l-page"}
-include_graphics("images/macro/ENG-MACRO-1.jpg")
-```
 
+<div class="parallax parallax3"><div class="parallax-content">
 ## Conclusions 
+</div></div>
 
 The study unveils a series of specific vulnerabilities for older persons on the move that need to be accounted for in the design of the humanitarian response:
 
