@@ -126,7 +126,7 @@ It is crucial to always pair quantitative analysis with human stories to incease
 
 In the template, this can be done with the following tags:
 
-`<aside> text for box </aside>` 
+`<div class="story">  STORY: Older Colombians and Venezuelans take care of each other under the same roof. text for box </div>` 
 
 
 ## Insert images
