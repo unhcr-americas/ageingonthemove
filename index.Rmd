@@ -2,7 +2,7 @@
 title: "A dignity claim: Ageing on the move"
 description: |
   Making ageing persons visible to enhance comprehensive actions in humanitarian responses
-preview: images/ENG_MACRO%201.png
+preview: images/macro/ENG-MACRO-1.jpg
 twitter:
   site: "@unhcr"
   creator: "@unhcr"
@@ -53,7 +53,7 @@ meta() %>%
     title = "A dignity claim: Ageing on the move",
     description = "Making ageing persons visible to enhance comprehensive actions in humanitarian responses",
     url = "https://ageingonthemove.org",
-    image = "https://raw.githubusercontent.com/unhcr-americas/ageingonthemove/main/images/ENG_MACRO%201.png",
+    image = "https://raw.githubusercontent.com/unhcr-americas/ageingonthemove/main/images/macro/ENG-MACRO-1.jpg",
     image_alt = "A dignity claim: Ageing on the move",
     og_type = "website",
     og_author = "UNHCR",
@@ -70,7 +70,7 @@ There is little information on the situation of older persons on the move in the
 
 The assessment focuses in __five countries in the region: El Salvador, Honduras, Colombia, Ecuador and Peru__. Different data is provided on Central America and the Andean regions, highlighting the situations faced by older persons on the move in these two different contexts. 
 
-El Salvador and Honduras are mainly characterised by internal displacement flows resulting from gang or mara violence, returnees and the socio-economic difficulties caused by the pandemic. While Colombia, Ecuador and Peru are mainly characterized by mixed movements (refugees and migrants) as a result of the ongoing political, human rights and socio-economic crisis in Venezuela, which has led to the exodus of millions of people. 
+El Salvador and Honduras are mainly characterised by internal displacement flows resulting from gang or mara violence, returns and the socio-economic difficulties caused by the pandemic. While Colombia, Ecuador and Peru are mainly characterized by mixed movements (refugees and migrants) as a result of the ongoing political, human rights and socio-economic crisis in Venezuela, which has led to the exodus of millions of people. 
 
 <aside>A total of 725 older persons were consulted via telephone, as well as caretakers, service providers and key actors with in-depth and semi-structured interviews and online surveys. </aside>
 
@@ -124,8 +124,6 @@ More than a fifth of those who used health services have had to pay, which, give
 
 Most of the older persons consulted reported limited access to health care during the pandemic. Forty-two per cent were not receiving treatment for prior health conditions and 6% of those infected with COVID-19 reported not receiving adequate medical care. 
 
-
-
 Almost 27% of the people interviewed reported not having access to any health service, and 98% reported having at least one health condition or disability.
 
 ### Facing job losses and lack of income 
@@ -137,7 +135,7 @@ Some 64% of older persons consulted had no monthly income before the pandemic, a
 Despite their increased vulnerability, older persons on the move have often become the main bread-winners for the household as they continue to have family members under their care, including children and adolescents (60%), adults (38%), people over 60 years old (20%) and persons with disabilities (5%)
  
 ```{r, layout="l-page"}
-include_graphics("images/macro/ENG_MACRO_4.png")
+include_graphics("images/macro/ENG-MACRO-4.jpg")
 ```
 
 
@@ -201,7 +199,7 @@ Among the perpetrators of abuse, 11% were family members; 7% were government off
 
  
 ```{r, layout="l-page"}
-include_graphics("images/macro/ENG_MACRO_2.png")
+include_graphics("images/macro/ENG-MACRO-2.jpg")
 ```
 
 ### Active participation in their communities  
@@ -221,7 +219,7 @@ Access to mobile phones does not necessarily imply Internet connectivity, since 
 
 
 
-<div class="parallaxstory">
+<div class="story">
 
 <p>STORY: Older Colombians and Venezuelans take care of each other under the same roof</p>
 <p>
@@ -237,7 +235,7 @@ Access to mobile phones does not necessarily imply Internet connectivity, since 
 [read the full story here](https://www.unhcr.org/news/stories/2019/6/5cffc16c4/older-colombians-venezuelans-care-other-under-roof.html).
 </p>
 
-<iframe width="1266" height="745" src="http://www.youtube.com/embed/Ehf67tMy-0c?rel=0" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Ehf67tMy-0c" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
 
@@ -271,7 +269,7 @@ Isolation is one of the most important effects of COVID-19, as people cannot mee
  
 
 ```{r, layout="l-page"}
-include_graphics("images/macro/ENG_MACRO_1.png")
+include_graphics("images/macro/ENG-MACRO-1.jpg")
 ```
 
 ## Conclusions 

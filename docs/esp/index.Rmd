@@ -1,8 +1,8 @@
 ---
-title: "A dignity claim: Ageing on the move"
+title: "Un reclamo de dignidad: Vejez en la movilidad humana "
 description: |
-  Making ageing persons visible to enhance comprehensive actions in humanitarian responses
-preview: images/ENG_MACRO%201.png
+  La necesidad de visibilizar a las personas mayores y asegurar acciones integrales en las respuestas humanitarias
+preview: images/macro/SPA_MACRO-1.jpg
 twitter:
   site: "@unhcr"
   creator: "@unhcr"
@@ -53,242 +53,235 @@ meta() %>%
     title = "A dignity claim: Ageing on the move",
     description = "Making ageing persons visible to enhance comprehensive actions in humanitarian responses",
     url = "https://ageingonthemove.org",
-    image = "https://raw.githubusercontent.com/unhcr-americas/ageingonthemove/main/images/ENG_MACRO%201.png",
+    image = "https://raw.githubusercontent.com/unhcr-americas/ageingonthemove/main/images/macr/SPA_MACRO-1.jpg",
     image_alt = "A dignity claim: Ageing on the move",
     og_type = "website",
-    og_author = "UNHCR",
+    og_author = "ACNUR",
     twitter_card_type = "summary",
-    twitter_creator = "@unhcr"
+    twitter_creator = "@acnur"
   )
 
 ```
 
 
-## Introduction  
+## Introducción
 
-There is little information on the situation of older persons on the move in the Latin American region. This regional evaluation is the first one to make a comprehensive analysis on the intersectionality between ageing and human mobility. The current situation of the COVID-19 pandemic is also analysed, including the worsening access to rights and services and the impact in their lives.  
+Es muy poca la información que hay sobre las personas mayores en situación de movilidad humana en la región Latinoamericana. Esta es la primera evaluación regional que hace un análisis a profundidad sobre la interseccionalidad entre vejez y movilidad humana. La situación actual de la pandemia por COVID-19 también es analizada, incluyendo el empeoramiento del acceso a derechos y servicios y el impacto en sus vidas.  
 
-The assessment focuses in __five countries in the region: El Salvador, Honduras, Colombia, Ecuador and Peru__. Different data is provided on Central America and the Andean regions, highlighting the situations faced by older persons on the move in these two different contexts. 
+La evaluación se concentra en __cinco países de la región: El Salvador, Honduras, Colombia, Ecuador y Perú__. Diferentes datos son proporcionados en América Central y en la región Andina, destacando las situaciones que enfrentan  las personas mayores en movilidad humana en estos dos contextos diferentes.  
 
-El Salvador and Honduras are mainly characterised by internal displacement flows resulting from gang or mara violence, returnees and the socio-economic difficulties caused by the pandemic. While Colombia, Ecuador and Peru are mainly characterized by mixed movements (refugees and migrants) as a result of the ongoing political, human rights and socio-economic crisis in Venezuela, which has led to the exodus of millions of people. 
+<aside>Un total de 725 personas mayores fueron consultadas vía telefónica, incluyendo cuidadores/as, proveedores de servicios y actores clave, con entrevistas a profundidad y semiestructuradas y encuestas en línea</aside>
 
-<aside>A total of 725 older persons were consulted via telephone, as well as caretakers, service providers and key actors with in-depth and semi-structured interviews and online surveys. </aside>
+El Salvador y Honduras están caracterizados principalmente por desplazamientos internos como resultado de la violencia de grupos armados o maras, retornos y dificultades socioeconómicas causadas por la pandemia. Mientras que Colombia, Ecuador y Perú están caracterizados por movimientos mixtos (personas refugiadas y migrantes) como resultado de la crisis política, de derechos humanos y socioeconómica actual en Venezuela, lo que ha llevado a un éxodo de millones de personas. 
 
-Although both context present different challenges, older persons on the move face similar limitations in accessing their rights and services. 
-
-
-With this report, UNHCR and HelpAge aim to cast light on the challenges and risks faced by older persons on the move so that actions are taken to ensure they are not left behind.
-
-
-## Call to Action
-
-The international community is called upon to include older persons on the move as a priority group in all their agendas, adapting and financing the institutional structure that responds to their needs. This should be translated into humanitarian responses and programmes that include older persons on the move as direct beneficiaries, guaranteeing their dignity, autonomy, independence and participation, avoiding interventions that expose them to situations of dependency, abuse and discrimination. 
-
- 1.  Older persons in forced displacement have long encountered insufficient protection and neglect. Their full __inclusion in national responses__ to the pandemic is key in order to safeguard their dignity and rights. 
-
- 2.  Besides increased humanitarian support, older displaced persons need greater __livelihoods opportunities__, to become financially independent.
-
- 3.  It is necessary to implement mechanisms for participation, consultation and feedback in the design, planning and implementation of humanitarian responses, so that the __voices of older persons on the move are heard__, and their life experience and resilience are recognised as added values in such responses.
-
- 4.  Globally, States are called upon to push forward the project to draft and adopt a United Nations International Convention on the Protection of Older Persons, led by the [Open-Ended Working Group on Ageing](https://social.un.org/ageing-working-group/).  Regionally, it is important that States in the Americas  adhere to and implement the  [Inter-American Convention on Protecting the Human Rights of Older Persons](http://www.oas.org/en/sla/dil/inter_american_treaties_a-70_human_rights_older_persons.asp), as the __legal framework__ in force for all American States, adapting their domestic laws in the light of this instrument and other relevant International and Regional Human Rights Law protection frameworks. 
-
-
-<div class="parallax parallax1"><div class="parallax-content">
-## What are the protection risks and challenges faced by older persons on the move in the Americas?
-</div></div>
+A pesar de que ambos contextos presentan dificultades diferentes, las personas mayores en situación de movilidad humana se enfrentan a limitaciones similares para acceder a derechos y servicios.
+Con este reporte, HelpAge y ACNUR buscan dar luz a las dificultades y riesgos enfrentados por las personas mayores en situación de movilidad humana para que se tomen acciones que aseguren no sean las grandes olvidadas. 
 
 
 
-### Living for months without documents and information 
-
-Older persons consulted mentioned to be unable to complete their regularization procedures and get their documents, either because they are alone (11% of all people live alone) or because of distance or lack of accessibility (67% of the older population say that they have difficulties in accessing and travelling on public transport).
-
-<aside>The lack of information regarding the regularization procedures is a specific challenge reported in the Andean region.</aside> 
-
-
-Older persons on the move in the Andean region are the most affected by lack of documentation: 24% of all interviewed did not have any documentation. 
-
-This figure worsens among persons with disabilities, which increases their vulnerability. Here also a gender difference is found: 27% of women having no documentation at all, compared to 19% of men. In this region, even though the percentage of those in need of international protection is high, the percentage of those with refugee status is low, reaching only 9% among respondent. Many Venezuelans, for several reasons, opt for other types of regularization in host countries.
-
->  “We requested an appointment for our asylum claim and we got scheduled for 2022”.
->  -- Woman (67) in Peru, 2020  
-
-### Many have limited access to health care 
-
-
- 42% of respondents are not receiving treatment for different health conditions either due to missed medical appointments, lack of documentation, lack of money to pay for medicine or fear of approaching health centres due to the risk of contagion. Difficulties in getting around or distance from health centres are only rarely given as reasons.
-
-<aside>On average, around 30% of older people consulted did not use health services even when they were needing them before the pandemic.</aside>
-
-More than a fifth of those who used health services have had to pay, which, given the severe financial condition that most older persons on the move are subject to, severely limits their ability to access the services they need.
-
-Most of the older persons consulted reported limited access to health care during the pandemic. Forty-two per cent were not receiving treatment for prior health conditions and 6% of those infected with COVID-19 reported not receiving adequate medical care. 
 
 
 
-Almost 27% of the people interviewed reported not having access to any health service, and 98% reported having at least one health condition or disability.
 
-### Facing job losses and lack of income 
 
-Older refugees have been deprived of their financial autonomy as many have lost their jobs and source of income and been left dependent on the often inexistant humanitarian aid. 
+## Llamado a la acción 
 
-Some 64% of older persons consulted had no monthly income before the pandemic, and of those who did have an income, 62% felt it had not been enough to meet their basic needs.
+ *  Se hace un llamado a la comunidad internacional para incluir a las personas mayores en situación de movilidad humana como un grupo prioritario en todas sus agendas, adaptando y financiando la estructura institucional que responda a sus necesidades. Esto se debe traducir en respuestas y programas humanitarios que incluyan a las personas mayores en situación de movilidad humana como beneficiarias directas s, que garanticen su dignidad, autonomía, independencia y participación, evitando intervenciones que las expongan a situaciones de dependencia, abuso y discriminación. 
 
-Despite their increased vulnerability, older persons on the move have often become the main bread-winners for the household as they continue to have family members under their care, including children and adolescents (60%), adults (38%), people over 60 years old (20%) and persons with disabilities (5%)
+*  Las personas mayores desplazadas forzosamente se han encontrado durante mucho tiempo con una protección insuficiente y con negligencia. Su __inclusión completa en las respuestas nacionales__ a la pandemia es clave para salvaguardar su dignidad y derechos.
+*  A parte de incrementar el apoyo humanitario, las personas mayores en situación de movilidad humana necesitan mayores oportunidades de medios de vida para ser financieramente independientes. 
+* Es necesario implementar mecanismos de participación, consulta y retroalimentación para el diseño, planeación e implementación de las respuestas humanitarias, de esta manera, las voces de las personas mayores  en situación de movilidad humana son escuchadas y sus experiencias y resiliencia son reconocidas como valores agregados a estas respuestas. 
+*  A nivel global, se hace un llamado a los Estados para que impulsen el proyecto de redactar y adoptar una Convención Internacional de Naciones Unidas para la Protección de las Personas Mayores, liderado por el [Grupo de Trabajo de Composición Abierta](https://social.un.org/ageing-working-group/).  
+
+* A nivel regional, es importante que los Estados adhieran e implementen la [Convención Inter-amerícana para la Protección de los Derechos de las Personas Mayores](http://www.oas.org/en/sla/dil/inter_american_treaties_a-70_human_rights_older_persons.asp), como marco legal vigente para todos los Estados americanos, adecuando sus ordenamientos internos a la luz de este instrumento y de otros marcos de protección pertinentes del Derecho Internacional y Regional de los Derechos Humanos.
+
+
+
+
+
+
+## ¿Cuáles son los riesgos de protección y desafíos que enfrentan las personas mayores en situación de movilidad humana en las Américas? 
+
+Reference
  
-```{r, layout="l-page"}
-include_graphics("images/ENG_MACRO 4.png")
+
+
+
+
+### Vivir sin documentación, ni información por meses
+
+Las personas mayores consultadas mencionaron no poder completar los trámites de regularización y gestionar sus documentos, ya sea por estar solas (11% de todas las personas viven solas) o  por un tema de distancia o acceso (67% de la población mayor indica que tiene dificultades de acceso y movilidad en el transporte público).
+
+<aside>La falta de información sobre procedimientos es otro desafío reportado en la región Andina. En contraste, la mayoría de las personas mayores entrevistadas de Honduras y El Salvador cuentan con documentación de su propio país, lo que les permite acceder a diferentes derechos y servicios.</aside>
+
+Las personas mayores en la región Andina son las más afectadas por la falta de documentación: 24% de todos las entrevistadas no contaban con documentación. Esta cifra aumenta entre personas con discapacidad, lo que incrementa su vulnerabilidad. También se encuentra una diferencia de género: 27% de las mujeres no contaban con documentación en lo absoluto, comparado con el 19% de hombres. En esta región, a pesar de que el porcentaje de aquellas en necesidad de protección internacional es alto, el porcentaje de personas reconocidas con la condición de refugiado es bajo, representando solo el 9% de la entrevistadas. Muchas personas venezolanas, por distintas razones, optan por otros tipos de regularización en los países de acogida.
+
+>  “Nosotros solicitamos la cita de refugio y la dieron para el 2022”.
+>  -- Mujer (67) en Perú, 2020  
+
+### Muchas tienen acceso limitado a servicios de salud
+
+
+ 42% de las personas encuestadas no están recibiendo tratamiento para diferentes condiciones meédicas, ya sea por citas perdidas, falta de documentación, falta de dinero para pagar las medicinas o miedo a acercarse a los centros de salud por riesgo de contagio. Dificultades de movilidad o largas distancias a los centros de salud son razones muy poco utilizadas.
+
+<aside>En promedio, alrededor de 30% de las personas mayores consultadas no usaban servicios de salud cuando los necesitaban, incluso antes de la pandemia.</aside>
+
+Más de un quinto de aquellos que usaban servicios de salud han tenido que pagar, lo que, dado la severa condición financiera de la mayoría de las personas mayores en condición de movilidad humana, gravemente limita su habilidad para acceder a los servicios que necesitan. 
+
+La mayoría de las personas mayores consultadas reportaron tener acceso limitado a servicios de salud durante la pandemia. Cuarenta y dos por ciento no estaban recibiendo tratamiento para condiciones de salud previas y 6% de aquellos infectados con COVID-19 reportaron no recibir tratamiento médico adecuado. 
+
+<p class=“tweetable”>Casi 27% de las personas entrevistadas reportaron no tener acceso a ningún servicio de salud y 98% reportó tener al menos una condición de salud o discapacidad.</p>
+
+### Pérdidas de trabajo y falta de ingresos
+
+Refugiados mayores han sido privados de su autonomía financiera y muchos han perdido sus trabajos y fuentes de ingreso y se han vuelto dependientes en ayuda humanitaria mayormente inexistente. 
+
+<p class=“tweetable”>Un 64% de las personas mayores en situación de movilidad humana no tenían ingresos mensuales antes de la pandemia. De quienes tenían ingresos, el 62% sentía que no era suficiente para cubrir sus necesidades.</p>
+
+A pesar de su incrementada vulnerabilidad, __las personas mayores en situación de movilidad humana se han convertido en cabezas de hogar__ a medida que continuaban teniendo familiares en su cuidado, incluyendo niños, niñas y adolescentes (60%), adultos (38%), personas mayores de 60 años (20%) y personas con discapacidad (5%).
+
+ 
+```{r, layout="l-screen"}
+include_graphics("images/macro/SPA_MACRO-4.jpg")
 ```
 
 
-### A quarter of older persons consulted are not eating 3 meals a day. 
+### Un cuarto de las personas mayores consultadas no están comiendo tres comidas al día. 
 
-Access to food for older persons on the move has worsened in all countries assessed. Already prior to the pandemic, one in four were having to skip meals. With the advent of COVID-19, 41% had to further reduce their food intake. 
-Even for those who eat sufficient number of meals per day, it does not imply that they enjoy an adequate nutritional balance, as in many cases food consumption is mainly composed of carbohydrates, especially in rural areas of Honduras and El Salvador, with little protein or no ingredients suitable for older people's diets.  
+El acceso a alimentos para las personas mayores en situación de movilidad humana ha empeorado en todos los países evaluados.  Antes de la pandemia, una de cada cuatro se saltaban comidas. Con el adviento de COVID-19, 41% disminuyó su consumo de comida. 
+Hasta para aquellas que comen suficientes comidas al día, esto no implica que disfruten de un balance nutricional adecuado, ya que en muchos casos el consumo alimentario se compone de carbohidratos, especialmente en áreas rurales de Honduras y El Salvador, con poca proteína o sin ingredientes adecuados para las dietas de personas mayores. 
+<p class=“tweetable”> El acceso a comida para personas mayores proviene principalmente del apoyo familiar, pero en muchos casos también de vecinos y amigos.</p>
 
-Access to food is provided mainly through the support of family members and their own income, or to a greater extent through the support of neighbours or friends.
+WEBSTORY + VIDEO (see Reference below)
+Link to video: https://youtu.be/NpXYvoD8yWg
 
 
+Text + Link to webstory PENDING
+  
 
-> “Sometimes we don’t eat breakfast, we only have one meal a day”
+> “Hay días que a penas desayunamos, hacemos una sola comidita al día”
 > – Agapito 
   
 
 
 
-### Poor housing impacts the lives of older people   
+### Condiciones de vivienda inadecuadas afectan sus vidas 
 
-On average, 61% of the older persons consulted live in rented accommodation and only 20% have their own flat or house. Women seem to have less housing security than men. Some 66% of women live in rented accommodation, almost 10 points higher than men, and only 17% live in their own home compared to 24% of men. 
+En promedio, 61% de las personas mayores consultadas viven en espacios alquilados y solo 20% tiene su propio apartamento o casa. Parecería que las mujeres tienen menos seguridad habitacional que los hombres. Un 66% de las mujeres viven en espacios alquilados, casi 10 puntos más arriba que los hombres y solo 17% viven en su propio hogar, comparado con el 24% de los hombres. 
 
-<aside>During the pandemic, one fifth of those interviewed were unable to afford rent and five per cent had been evicted.</aside>
+<aside>Durante la pandemia, las condiciones de vivienda de un quito de las personas entrevistadas empeoró ya que no eran capaces de pagar el alquiler. Cinco por ciento han sido desalojadas.</aside>
 
-In Honduras and El Salvador, 44% of people live in a flat or house of their own, a marked contrast to the countries in the Andean region, where only 9% of people live in a flat or house of their own. In Honduras and El Salvador, the average number of people living in rented accommodation (32%) is much lower than in the Andean countries (79%).  
+__En Honduras y El Salvador, 44% de las personas viven en su propio apartamento o casa, un claro contraste con los países de la región Andina donde solo 9% viven en su propio apartamento o casa__. En Honduras y El Salvador, el número promedio de personas viviendo en espacios alquilados (32%) es mucho menor que en la región Andina (79%).  
 
-A third of the surveyed population lives in a single room and half of the population shares a room with one or two other people. Overcrowding is a matter of concern for the internally displaced population in Honduras, which reaches a third of the population, and for refugees and asylum-seekers in Colombia, which exceeds half of the population. These figures are similar to those relating to refugees or asylum-seekers in Peru.
+Un tercio de la población entrevistada habita en un cuarto individual y la mitad de la población comparte con una o dos personas. El hacinamiento es un tema de preocupación en la población desplazada interna en Honduras, que alcanza un tercio de la población y las personas refugiadas o solicitantes de la condición de refugiado en Colombia, que supera la mitad de la población. Estas cifras son similares a aquellas para refugiadas o solicitantes de la condición de refugiado en Perú 
 
+ 
+
+
+
+### Acceso limitado a apoyo humanitario
+
+Menos de la mitad de las personas mayores consultadas reportaron recibir ayuda humanitaria (36% en Honduras y El Salvador y 49% en la región Andina). 
+
+En todos los países, la ayuda principalmente involucra alimentos y artículos de aseo, con 48% en Honduras y El Salvador y 52% en los países Andinos. En segundo lugar, resaltan los subsidios, apoyo económico o transferencias monetarias, con 35% en Honduras y El Salvador y 45% en la región Andina. 
+
+<aside>Mientras que en la región Andina, la mitad de las personas encuestadas reportaron recibir ayuda humanitaria, en Honduras y El Salvador este caso solo representa a un tercio de las encuestadas.</aside> 
+
+## Las personas mayores quieren independencia y autonomía
  
 
 
+### Discriminados por su edad 
 
-### Older persons on the move have limited access to humanitarian aid
+La mitad de las personas entrevistadas mencionaron haber experimentado discriminación, mientras que un número preocupante describió incidentes de abuso. 
+Más de un tercio de las personas encuestadas reportaron haber sido abusadas en los países donde residen y antes de la pandemia, con una fuerte diferencia entre aquellas con (48%) y sin (29%) discapacidad.
 
-Less than half of the older persons consulted reported receiving humanitarian aid (36% in northern Central America and 49% in the Andean region). 
+<aside>En Honduras y El Salvador, el porcentaje de abuso en personas mayores es 63%, con una diferencia importante entre personas con discapacidad (87%) y aquellas sin discapacidad (40%) y 65% para hombres comparado a 57% para mujeres. En la región Andina, el maltrato es más bajo, afectando a un cuarto de la población (26%), y existe una diferencia de género del 34% para mujeres comparado con el 20% para hombres.</aside>
 
-In all countries, aid mainly involves food and toiletries, with 48% in Honduras and El Salvador and 52% in the Andean countries. In second place, subsidies, economic support or cash transfers stand out, with 35% in Honduras and El Salvador and 45% in the Andean region.
+El tipo de abuso más recurrente contra las personas mayores con discapacidad en los países de la región andina es el desalojo (8%), afectando a más mujeres que a los hombres por una diferencia de tres por ciento. 
 
-While in the Andean region, half of respondents reported receiving humanitarian aid, in Honduras and El Salvador, this was the case of only a third of respondents. 
-
-
-
-
-<div class="parallax parallax2"><div class="parallax-content">
-## Older persons want independence and autonomy
-</div></div>
-
-
-### Discriminated by their age   
-
-Half of the older persons on the move consulted described having experienced discrimination while a worrying number described incidents of abuse. 
-More than a third of the respondents reported being abused in the countries where they reside and before the pandemic with a marked difference between those with disabilities (48%) and those without (29%).  
-
-<aside>In Honduras and El Salvador, 63% of respondent reported being victims of abuse, a proportion increased to 87% for persons with disabilities.</aside> 
-
-In the Andean region, mistreatment is lower, affecting a quarter of the population (26%), and there is a gender difference of 34% for women compared to 20% for men.
-
-The most commonly occurring type of abuse against older persons with disabilities in the countries of the Andean region is eviction (8%), affecting more women than men in this situation, by three percentage points.  
-
-Among the perpetrators of abuse, 11% were family members; 7% were government officials, including the security forces; 7% were friends or neighbours; and 74% were other people, for example, armed actors, gangs, people on the street, on public transport, or the owners of the homes which they rented or where they lived.
+Entre los autores del abuso, 11% eran familiares, 7% oficiales del gobierno, incluyendo fuerzas de seguridad, 7% eran amistades o vecinos/as y el 74% eras otras personas, por ejemplo, actores armados, pandillas, personas en la calle, en el transporte público o los dueños de los espacios de alquiler o donde viven.
 
  
-```{r, layout="l-page"}
-include_graphics("images/ENG_MACRO 2.png")
+```{r, layout="l-screen"}
+include_graphics("images/macro/SPA_MACRO-2.jpg")
 ```
 
-### Active participation in their communities  
+### Participación activa en sus comunidades  
 
-The empowerment of the older persons is related to factors such as participation, physical accessibility, the ability to move from one place to another as well as the communication channels at their disposal that generate autonomy and independence. 
-
-<p class="tweetable">More than two third of ageing person on the move had no activities to share or to socialize with others. </p>
+El empoderamiento de las personas mayores está relacionado a factores como la participación, accesibilidad física, la habilidad de moverse de un lugar a otro, así como a tener canales de comunicación a su disposición que puedan generar autonomía e independencia. 
+<p class=“tweetable”>Más de dos tercios de las personas mayores en situación de movilidad humana no tenían actividades para compartir o socializar con otros. </p>
  
-Women presented a higher percentage of non-participation than men. This participation is even lower when it comes to older persons with disabilities. In addition, around 84% of older persons have not attended talks or taken part in training and awareness-raising activities concerning their rights.  
-Although before COVID-19 the older persons did not actively participate, during the pandemic, their participation has drastically decreased due to the confinement measures, which has caused physical and mental health problems.
+Las mujeres presentaron un porcentaje de no participación mayor al de los hombres. Esta participación es aún más baja cuando se incluyen personas mayores con discapacidad. Adicionalmente, alrededor del 84% de las personas mayores no ha participado de charlas o entrenamientos en actividades que concienticen sobre sus derechos. 
+A pesar de que antes de COVID-19 las personas mayores no participaban activamente, durante la pandemia su participación ha disminuido drásticamente debido a las medidas de confinamiento, que han causado problemas de salud física y mental. 
 
-### Using the right communication channel  
+### Usando el canal de comunicación adecuado 
 
-Equipment and Internet access are essential supports in the information process, but also as mechanisms for participation in virtual activities or as intermediaries to facilitate the development of community actions.
-More than 85% of older persons have access to mobile phones, 70% to a television and only 35% to a radio. Though only 10% have access to landline phones, laptops, entertainment devices, tablets and desktop computers. 
-Access to mobile phones does not necessarily imply Internet connectivity, since on average access slightly exceeds one third of the population, except for Colombia and Ecuador. In addition, most of their mobile phones are not smartphones. One of their main uses is to connect with family members via WhatsApp.    
+El equipo y acceso al Internet son apoyos esenciales en el proceso de información, pero también como mecanismos de participación en actividades virtuales o como intermediarios para facilitar el desarrollo de acciones comunitarias. 
+Más del 85% de las personas mayores tienen acceso a teléfonos móviles, 70% a la televisión y solo 35% a la radio. Solo el 10% tiene acceso a teléfonos fijos, computadoras portátiles, dispositivos de entretenimiento, tabletas y computadoras de escritorio.  
+El acceso a los teléfonos móviles no implica conectividad al Internet, ya que en promedio el acceso solo sobrepasa un tercio de la población, excepto en Colombia y Ecuador. Además, la mayoría de sus teléfonos móviles no son smartphone. Uno de sus usos principales es comunicarse con familiares a través de WhatsApp. 
+
+[WEBSTORY + VIDEO]
+
+Personas mayores venezolanas y colombianas se cuidan entre sí bajo el mismo techo
+
+Nace el 3 de octubre de 1989, en Riohacha, La Guajira, al norte de Colombia, como un proyecto de vida de una trabajadora social y su núcleo familiar, con la idea de apoyar y ayudar a las personas mayores en esta zona del país. Son 33 años al servicio de quienes lo necesitan: personas que han sido abandonas por familiares y que allí son acogidas. Esta es una labor de carácter comunitario. 
+
+Inicialmente, la fundación Casa del Abuelo se consideraba como un espacio de recreación y entretenimiento para personas mayores de paso. Pero con el tiempo y las necesidades extremas del territorio, se fue trasformando hacia la prestación de ayuda las 24 horas del día y los 7 días de la semana. 
+
+La Casa del Abuelo acoge a personas adultas mayores colombianas que quedaron solas. Ahora ha aumentado su capacidad para albergar también a personas venezolanas.
+“Estábamos presenciando un repentino flujo masivo de personas venezolanas, familias viviendo en las calles con sus hijos y suplicando por un techo, una sopa o unos pesos”, explicó María Peña de Melo, la directora del centro. “Decidimos que teníamos que hacer algo por ellos también”.
+
+“Han cambiado muchas cosas desde que empezamos a albergar a las familias venezolanas y a sus hijos”, añadió María. “Los abuelos y las abuelas los ven como miembros de la familia. Se sienten más protegidos, debido a que hacen algunas actividades juntos durante el día. Eso fortalece mucho la confianza de los abuelitos”.
 
 
-
-<div class="parallax parallaxstory"><div class="parallax-content">
-
-<p>STORY: Older Colombians and Venezuelans take care of each other under the same roof</p>
-<p>
-  Born on 3 October 1989, in Riohacha, La Guajira, northern Colombia, this was the life project of a social worker and her family, with the idea of supporting and helping older persons in this area of the country. They have been at the service of those in need of their assistance for 33 years -people who have been abandoned by family members and who are sheltered there. This is a community-based effort.  
-</p><p>
-  Initially, Fundación Casa del Abuelo was seen as a place for recreation and entertainment for older persons passing through. But over time and given the extreme needs in the territory, it was transformed to provide 24/7 assistance. 
-</p><p>
-  Grandpa’s House hosts Colombian seniors who were left alone. Now it has increased its capacity to also shelter Venezuelans on the move. 
-</p><p>
-  “We were witnessing this sudden and massive influx of Venezuelan people: families with children living on the streets and begging for a roof, a soup or for a few pesos,” explains Maria Peña De Melo, the director of the centre. “We decided we had to do something for them as well.” 
-</p><p>
-  “Many things changed since we started to host the families and their kids”, Maria adds. “The seniors see them as members of their families. They feel more ‘protected,’ as they perform some activities together every day. This strengthened the confidence of the abuelitos [grandparents] a lot.” 
-[read the full story here](https://www.unhcr.org/news/stories/2019/6/5cffc16c4/older-colombians-venezuelans-care-other-under-roof.html).
-</p>
-
-<iframe width="1266" height="745" src="http://www.youtube.com/embed/Ehf67tMy-0c?rel=0" frameborder="0" allowfullscreen></iframe>
-</div></div>
-
+Link to webstory(https://www.acnur.org/noticias/historia/2019/6/5d015d514/venezolanos-y-adultos-mayores-colombianos-se-cuidan-entre-si-bajo-el-mismo.html#_ga=2.86574493.402521217.1621529560-1323608823.1568998615)
+Link to video: https://www.youtube.com/watch?v=UNLOJBKWZac  
 
 
   
 
-<div class="parallax parallax3"><div class="parallax-content">
-## COVID-19 has affected the livelihoods, mental health and physical conditions of older persons.
-</div></div>
+## COVID-19 ha afectado los medios de vida, salud mental y condiciones físicas de las personas mayores en las Américas 
 
-The pandemic has exacerbated pre-existing threats to the physical and mental health, nutrition, financial autonomy and legal status of older refugees and others on the move. 
+<p class=“tweetable”> La pandemia de COVID-19 está impactado gravemente el bienestar de las personas mayores desplazadas en toda América Latina, limitando aún más su acceso a derechos y servicios.</p> 
 
-<p class="tweetable">The COVID-19 pandemic has gravely worsened the wellbeing of older persons on the move across Latin America, by further limiting their access to rights and services.</p>
+La pandemia ha exacerbado las amenazas ya existentes a la salud física y mental, la nutrición, autonomía financiera y estatus legal de personas refugiadas mayores y otras en situación de movilidad humana.  
 
-There was evidence of an increase in the limitations of access to health services to treat symptoms or illness different to those associated with the virus during the pandemic.
+La evidencia indica que las personas con discapacidad se enfrentan a dificultares y limitaciones accediendo a servicios de salud por síntomas y enfermedades diferentes a la pandemia. 
  
- This limitation is even greater in persons with disabilities. In addition, 6% of those infected with COVID-19 reported not receiving adequate medical care. 
+Esta limitación es aún más grande en personas con discapacidad. Adicionalmente, 6% de aquellas infectados por COVID-19 reportaron no recibir atención médica adecuada. 
 
-Access to food for older persons on the move had also worsened in all countries assessed. Already prior to the pandemic, one in four were having to skip meals. With the advent of COVID-19, 41% had to further reduce their food intake. 
-Some 64% of older persons consulted had no monthly income before the pandemic. From those who did have income, 62% felt it was not enough to meet their basic needs. But COVID-19 further compounded their economic situation, leaving many more without employment. In Honduras and El Salvador, a third of those interviewed reported that they had lost their jobs. In Andean region countries, nearly half had lost jobs. 
-Meanwhile, housing conditions also worsened for one fifth of those interviewed, as they were unable to afford rent. Five per cent of the respondents had been evicted during the pandemic.
+El acceso a alimentos para las personas mayores en situación de movilidad humana ha empeorado en todos los países evaluados.  Antes de la pandemia, una de cada cuatro se saltaban comidas. Con el adviento de COVID-19, 41% disminuyó su consumo de comida. 
+Un 64% de las personas consultadas no tenían ingresos mensuales antes de la pandemia. De aquellos que si tenían ingresos, 62% sentían que no era suficiente para cubrir sus necesidades básicas. Pero COVID-19 agravó aún más su situación económica, dejando a muchos sin empleo. En Honduras y El Salvador, un tercio de las personas entrevistadas reportaron haber perdido sus trabajos. En los países de la región Andina, casi la mitad perdió sus trabajos. 
+Entretanto, las condiciones de vivienda también empeoraron para un quinto de las personas entrevistadas, ya que estos no eran capaces de pagar la renta. Cinco por ciento de las encuestadas han sido desalojadas durante la pandemia
 
-The psychological effects of the pandemic are one the biggest identified problems, relating to depression, anxiety, and the constant fear of contagion or death. The illness or emotional disorders have intensified, especially in older persons who are victims of internal displacement and deportations.  
+Los efectos psicológicos de la pandemia son unos de los problemas más grandes identificados, relativo a la depresión, ansiedad y el miedo constante al contagio o la muerte. Las enfermedades y problemas emocionales se han intensificado, especialmente en las personas mayores víctimas del desplazamiento interno y las deportaciones. 
 
-<aside>Emotional illnesses and disorders have been intensified by the pandemic.</aside>
+<p class=“tweetable”>Las enfermedades y problemas emocionales se han intensificado durante la pandemia.</p>
 
-
-Isolation is one of the most important effects of COVID-19, as people cannot meet with friends and family as they normally would, and their recreation is also reduced. The pandemic has led to a decrease in the daily contact of older persons on the move with their families, from 39% to 26%, which has an impact on feelings of isolation and loneliness. Isolation aggravates physical and mental health conditions.  
+__El asilamiento es uno de los efectos más importantes de COVID-19__, ya que las personas no pueden encontrarse con sus amistades y familia como normalmente lo harían y su tiempo de recreación también es reducido. La pandemia ha llevado a la disminución del contacto diario de las personas mayores en situación de movilidad humana con sus familias, de un 39% a 26%, lo que ha tenido un impacto en los sentimientos de asilamiento y soledad. El aislamiento agrava las condiciones físicas y mentales. 
 
 
  
 
-```{r, layout="l-page"}
-include_graphics("images/ENG_MACRO 1.png")
+```{r, layout="l-screen"}
+include_graphics("images/macro/SPA_MACRO-1.jpg")
 ```
 
-## Conclusions 
+## Conclusiones 
 
-The study unveils a series of specific vulnerabilities for older persons on the move that need to be accounted for in the design of the humanitarian response:
+El estudio revela una serie de vulnerabilidades específicas para personas mayores en situación de movilidad humana que necesitan ser incorporadas en el diseño de las respuestas humanitarias:
 
-* __Irregularity or lack of access to asylum facilities can lead to a series of risks and difficulties in the enjoyment of rights by older persons on the move__. This was mainstreamed in the results that were analysed in terms of access to health, housing, work and security, among other rights. The main difficulties for obtaining documentation are, on the one hand, the high degree of misinformation on administrative procedures required to remain in the countries legally and, on the other, the absence of a priority and adapted approach to provide documentation by the respective authorities for this specific group.  
+* __La irregularidad o falta de acceso a los espacios de asilo pueden conllevar una serie de riesgos y dificultades en el goce de derechos de las personas mayores en situación de movilidad humana__. Esto fue reflejado en los resultados que fueron analizados en temas de salud, vivienda, seguridad y otros derechos. Las dificultades principales para obtener documentación son, por un lado, el alto grado de desinformación sobre procedimientos administrativos necesarios para permanecer  de manera regular en los países y, por otro, la ausencia de un enfoque prioritario en la gestión de los documentos por parte de las autoridades respectivas.   
 
-* Older persons have a number of health problems that tend to receive little attention. After hypertension, which is more expected, __mental health__ is the second most prevalent condition and is linked to human mobility in all countries. 
+* Las personas mayores tienen una serie de problemas de salud que tienden a recibir poca atención. Después de la hipertensión, que es lo más esperado, la __salud mental__ es la segunda condición más prevalente y está vinculada directamente a la movilidad humana en todos los países.
 
-* The vast majority of the older persons on the move consulted live in a situation of great economic vulnerability, since __very few or no pensions are received__, and access to work is limited by the conditions of the labour markets, by the lack of documentation and by discrimination mainly due to age and mobility. All this leads to informality in situations of precariousness and labour exploitation, with long working hours and low incomes, as well as degrading and dangerous situations. Precarious conditions are worsened in rural areas, especially for groups of people who may face forced displacement. 
+* La gran mayoría de las personas mayores en situación de movilidad humana encuestadas viven en una situación de gran vulnerabilidad económica, ya que __las pensiones son pocas o no se reciben__ y el acceso al trabajo es limitado por las condiciones de los mercados laborales, por la falta documentación y por la discriminación principalmente debido a la edad y situación de movilidad. Todo esto lleva a la informalidad en situaciones de precariedad y explotación laboral, con largas jornadas y bajos ingresos, así como situaciones denigrantes y peligrosas. Las condiciones de precariedad se agudizan en las zonas rurales, especialmente en los grupos de personas que se pueden ver enfrentadas a desplazamientos forzados.
 
-* There is a sector of the older population that is not being adequately nourished, with __more than a quarter of respondents not eating three meals a day, compounded by a decrease in meal consumption as a result of the pandemic__. Older people's diets are not nutritionally balanced, and guidance and resources on how to improve diets, control overweight, and prevent chronic diseases are not adequately provided. 
+* Existe un sector de la población mayor que no está recibiendo la alimentación suficiente, ya que __más de un quinto no cuenta con las tres comidas al día, sumado a la disminución del consumo de comidas producto de la pandemia__. La alimentación de las personas mayores no está nutricionalmente balanceada y la orientación y los recursos sobre cómo mejorar estas dietas, controlar el sobrepeso y prevenir enfermedades crónicas no son adecuadamente proporcionados. 
 
-* The older population on the move is subject to poor security in terms of the right to housing. There are cases of overcrowding in Honduras, Colombia, and Peru. __Eviction is another serious risk for older persons__ and is a form of mistreatment of this population group as well as their families. 
+* La población mayor en movilidad humana presenta una baja seguridad en el derecho a la vivienda. Se presentan casos de hacinamiento en Honduras, Colombia y Perú. El desalojo es otro de los riesgos graves para las personas mayores y se presenta como una forma de maltrato hacia esta población y sus familias.
 
-* __Psychological abuse__ is linked to insecurity and violence: Older persons on the move are more vulnerable than the rest of the population. Women suffer higher percentages of psychological abuse in several cases, and it is necessary to consider gender differences in terms of the forms of mistreatment. People in transit are at higher risk of abuse due to the added vulnerability that crossing irregular border crossings sometimes entails. 
-
+* El __maltrato psicológico__ está vinculado con la inseguridad y la violencia ya que las personas mayores son más vulnerables que el resto de la población. Las mujeres sufren porcentajes más altos de abuso psicológico en muchos casos y es necesario considerar las diferencias de género cuando se habla de las formas de maltrato. Las personas en tránsito pueden verse afectadas a riesgos muy altos por la extrema vulnerabilidad que implica en ocasiones atravesar por pasos irregulares.
 
 

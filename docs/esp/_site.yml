@@ -1,7 +1,7 @@
 name: "ageingonthemove"
-title: "A dignity claim: Ageing on the move"
+title: "Vejez en la movilidad humana"
 description: |
-  A dignity claim: Ageing on the move
+  Un reclamo de dignidad: Vejez en la movilidad humana 
 output_dir: "docs"
 navbar:
   logo:
@@ -10,32 +10,30 @@ navbar:
   right:
     - text: "Content"  
       menu:
-      - text: "Calll to Action"
+      - text: "Llamado a la acción "
         href: "index.html#call-to-action"
-      - text: "Profiles & Conditions"
+      - text: "-	Desafíos y Riesgos de Protección"
         href: "index.html#what-are-the-profiles-and-condition-of-older-people-on-the-move-in-the-americas"
-      - text: "Challenges"
-        href: "index.html#what-are-the-protection-risks-and-challenges-faced-by-older-persons-on-the-move-in-the-americas"
-      - text: "Independence & Autonomy"
+      - text: "Vidas autónomas e independientes"
         href: "index.html#older-persons-want-independence-and-autonomy"
-      - text: "COVID-19 impact"
+      - text: "Impacto de COVID-19"
         href: "index.html#covid-19-has-affected-the-livelihoods-mental-health-and-physical-conditions-of-older-persons-across-latin-america."
-      - text: "Conclusions"
+      - text: "Conclusiones"
         href: "index.html#conclusions"
-    - text: "English" 
-      href: "../index.html"
-    - text: "Download"  
+    - text: "Descargar"  
       menu:
-      - text: "Executive Summary"
+      - text: "Resumen Ejecutivo"
         href: "index.html"
-      - text: "Report"
+      - text: "Reporte"
         href: "index.html"
-      - text: "Annexes"
+      - text: "Anexos"
         href: "index.html"
       - text: "Data"
         href: "http://microdata.unhcr.org"
-      - text: "Media"
+      - text: "Medios de Comunicación"
         href: "index.html"
+    - text: "English" 
+      href: "../index.html"
 output: distill::distill_article
 
 

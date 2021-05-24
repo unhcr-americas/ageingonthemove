@@ -8,17 +8,17 @@
    All rows must end with a semi-colon.                      */
 
 /* Optional: embed custom fonts here with `@import`          */
-/* This must remain at the top of this file.                 */
+/* This must remain at the top of this file.                 
 @import url('https://fonts.googleapis.com/css2?family=Amiri');
 @import url('https://fonts.googleapis.com/css2?family=Bitter');
 @import url('https://fonts.googleapis.com/css2?family=DM+Mono');
-@import url('https://fonts.googleapis.com/css2?family=DM+Mono');
+@import url('https://fonts.googleapis.com/css2?family=DM+Mono');*/
 @import url('https://fonts.googleapis.com/css2?family=Lato');
 
-/* alternative to proxima nova                 */
-@import url('https://fonts.googleapis.com/css2?family=Montserrat');
-
-
+/* alternative to proxima nova                 
+@import url('https://fonts.googleapis.com/css2?family=Montserrat'
+);
+*/
 
 /*               
 Rojo: #ed1651
@@ -138,11 +138,39 @@ position: relative;
 
 
 /*-- subheaders --*/
-d-title {
-  background-image: url(images/header.jpg);
-  background-repeat: no-repeat;
-  background-size:cover;
-  background-position:center;
+
+
+/*-- For mobile:--*/
+
+@media (max-width: 480px) {
+  d-title {
+    background-image: url(images/para/header_m.jpg);
+    background-repeat: no-repeat;
+    background-size:cover;
+    background-position:center;
+  }
+}
+
+/*-- For tablets:--*/
+
+@media (min-width: 481px) and (max-width: 1024px) {
+  d-title {
+    background-image: url(images/para/header.jpg);
+    background-repeat: no-repeat;
+    background-size:cover;
+    background-position:center;
+  }
+}
+
+/*-- For desktop devices:--*/
+
+@media (min-width: 1025px) {
+  d-title {
+    background-image: url(images/para/header.jpg);
+    background-repeat: no-repeat;
+    background-size:cover;
+    background-position:center;
+  }
 }
 
 
@@ -212,17 +240,45 @@ a.tweet-link {
 }
 
 
+.story{background-color: #f4f4f4!important;}
 
 /*-- putting some parallax effect --*/
 
 
 /*-- list of background image for chapter transition --*/
 
-.parallax1{background:url(images/parallax1.jpg)}
-.parallax2{background:url(images/parallax2.jpg)}
-.parallax3{background:url(images/parallax3.jpg)}
 
-.parallaxstory{background-color: #f4f4f4!important;}
+
+/*-- For mobile:
+  .parallax1{background:url(images/para/parallax1_m.jpg)}
+  .parallax2{background:url(images/para/parallax2_m.jpg)}
+  .parallax3{background:url(images/para/parallax3_m.jpg)}--*/
+
+@media (max-width: 480px) {
+  .parallax1{background:url(images/para/parallax1_m.jpg)}
+  .parallax2{background:url(images/para/parallax2_m.jpg)}
+  .parallax3{background:url(images/para/parallax3_m.jpg)}
+}
+
+/*-- For tablets:
+  .parallax1{background:url(images/para/parallax1_t.jpg)}
+  .parallax2{background:url(images/para/parallax2_t.jpg)}
+  .parallax3{background:url(images/para/parallax3_t.jpg)}--*/
+
+@media (min-width: 481px) and (max-width: 1024px) {
+  .parallax1{background:url(images/para/parallax1.jpg)}
+  .parallax2{background:url(images/para/parallax2.jpg)}
+  .parallax3{background:url(images/para/parallax3.jpg)}
+}
+
+/*-- For desktop devices:--*/
+
+@media (min-width: 1025px) {
+  .parallax1{background:url(images/para/parallax1.jpg)}
+  .parallax2{background:url(images/para/parallax2.jpg)}
+  .parallax3{background:url(images/para/parallax3.jpg)}
+}
+
 
 /*-- list of background image for chapter transition 
 .parallax4{background:url(images/parallax4.jpg)}
@@ -257,7 +313,7 @@ Improve the readability of the text contents by adding an extra colored backgrou
 /*-- If needed, add css property to the content div for its position and z-index. --*/
 .parallax h2{
 	position: absolute;
-  font-size: 3.6rem;
+  font-size: 2.8rem;
   color: #ffffff !important;
   text-shadow: 2px 2px 4px #000000;
 	width: 100%;

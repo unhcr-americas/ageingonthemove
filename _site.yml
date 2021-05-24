@@ -34,7 +34,7 @@ navbar:
         href: "http://microdata.unhcr.org"
       - text: "Media"
         href: "index.html"
-    - text: "Spanish"
+    - text: "Español"
       href: "esp/index.html"
 output: distill::distill_article
 

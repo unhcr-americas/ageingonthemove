@@ -8,17 +8,17 @@
    All rows must end with a semi-colon.                      */
 
 /* Optional: embed custom fonts here with `@import`          */
-/* This must remain at the top of this file.                 */
+/* This must remain at the top of this file.                 
 @import url('https://fonts.googleapis.com/css2?family=Amiri');
 @import url('https://fonts.googleapis.com/css2?family=Bitter');
 @import url('https://fonts.googleapis.com/css2?family=DM+Mono');
-@import url('https://fonts.googleapis.com/css2?family=DM+Mono');
+@import url('https://fonts.googleapis.com/css2?family=DM+Mono');*/
 @import url('https://fonts.googleapis.com/css2?family=Lato');
 
-/* alternative to proxima nova                 */
-@import url('https://fonts.googleapis.com/css2?family=Montserrat');
-
-
+/* alternative to proxima nova                 
+@import url('https://fonts.googleapis.com/css2?family=Montserrat'
+);
+*/
 
 /*               
 Rojo: #ed1651
@@ -240,6 +240,7 @@ a.tweet-link {
 }
 
 
+.story{background-color: #f4f4f4!important;}
 
 /*-- putting some parallax effect --*/
 
@@ -278,7 +279,6 @@ a.tweet-link {
   .parallax3{background:url(images/para/parallax3.jpg)}
 }
 
-.parallaxstory{background-color: #f4f4f4!important;}
 
 /*-- list of background image for chapter transition 
 .parallax4{background:url(images/parallax4.jpg)}
