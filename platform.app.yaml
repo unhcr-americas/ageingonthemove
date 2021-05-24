@@ -1,0 +1,29 @@
+name: app
+
+type: php:7.4
+build:
+    flavor: composer
+
+hooks:
+    build: |
+        set -e
+
+    deploy: |
+        set -e
+
+disk: 2048
+
+# mounts:
+    # "public/temp":
+    #     source: local
+    #     source_path: "temp"
+
+web:
+    locations:
+        "/":
+            root: "docs"
+            index: ['index.php','index.html']
+            rules:
+              \.(jpe?g|png|gif|svgz?|css|js|map|ico|bmp|eot|woff2?|otf|ttf)$:
+                allow: true
+                expires: 14d
