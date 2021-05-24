@@ -77,7 +77,14 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
     3.	provide useful suggestions to solve a problem (inspires to act) 
     4.	disprove a hypothesis / debunk a widely held belief in terms of programmatic assumption.
     
-
+ * Be __persuasive__ for instance by shaping your narrative with the [aforsest techniques](https://www.youtube.com/watch?v=jgyKm11PYWw):
+    A - Alliteration.
+    F - Facts.
+    O - Opinions.
+    R - Rhetorical questions.
+    E - Emotive language.
+    S - Statistics.
+    T - (Three) rule of.
 
 ### Highlight Content to ease "_active reading_"
 
@@ -122,7 +129,7 @@ In the template, this can be done with the following tags:
 
 #### 6. Insert Human Stories 
 
-It is crucial to always pair quantitative analysis with human stories to incease the persuasivness of the content. 
+It is crucial to always pair quantitative analysis with human stories to incease the persuasiveness of the content. 
 
 In the template, this can be done with the following tags:
 
