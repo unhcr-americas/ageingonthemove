@@ -80,7 +80,7 @@ meta() %>%
 
 ## Introducción
 
-Es muy poca la información que hay sobre las personas mayores en situación de movilidad humana en la región Latinoamericana. Esta es la primera evaluación regional que hace un análisis a profundidad sobre la interseccionalidad entre vejez y movilidad humana. La situación actual de la pandemia por COVID-19 también es analizada, incluyendo el empeoramiento del acceso a derechos y servicios y el impacto en sus vidas.  
+Es muy poca la información que hay sobre las personas mayores en situación de movilidad humana en la región Latinoamericana. Esta es la primera evaluación regional que hace un análisis a profundidad sobre la interseccionalidad entre vejez y movilidad humana. La situación actual de la pandemia por la COVID-19 también es analizada, incluyendo el empeoramiento del acceso a derechos y servicios y el impacto en sus vidas.  
 
 La evaluación se concentra en __cinco países de la región: El Salvador, Honduras, Colombia, Ecuador y Perú__. Diferentes datos son proporcionados en América Central y en la región Andina, destacando las situaciones que enfrentan  las personas mayores en movilidad humana en estos dos contextos diferentes.  
 
@@ -138,7 +138,7 @@ Más de un quinto de aquellos que usaban servicios de salud han tenido que pagar
 include_graphics("images/info/condition.png", dpi = NA)
 ```
 
-La mayoría de las personas mayores consultadas reportaron tener acceso limitado a servicios de salud durante la pandemia. Cuarenta y dos por ciento no estaban recibiendo tratamiento para condiciones de salud previas y 6% de aquellos infectados con COVID-19 reportaron no recibir tratamiento médico adecuado. 
+La mayoría de las personas mayores consultadas reportaron tener acceso limitado a servicios de salud durante la pandemia. Cuarenta y dos por ciento no estaban recibiendo tratamiento para condiciones de salud previas y 6% de aquellos infectados con la COVID-19 reportaron no recibir tratamiento médico adecuado. 
 
 Casi 27% de las personas entrevistadas reportaron no tener acceso a ningún servicio de salud y 98% reportó tener al menos una condición de salud o discapacidad.
 
@@ -161,7 +161,7 @@ include_graphics("images/macro/SPA_MACRO-4.jpg")
 ```
 
 
-### Un cuarto de las personas mayores consultadas no están comiendo tres comidas al día. 
+### Un cuarto de las personas mayores consultadas no están comiendo tres comidas al día 
 
 El acceso a alimentos para las personas mayores en situación de movilidad humana ha empeorado en todos los países evaluados.  Antes de la pandemia, una de cada cuatro se saltaban comidas. Con el advenimiento  de la COVID-19, 41% disminuyó su consumo de comida. 
 
@@ -199,7 +199,7 @@ En todos los países, la ayuda principalmente involucra alimentos y artículos d
 
 <aside>Mientras que en la región Andina, la mitad de las personas encuestadas reportaron recibir ayuda humanitaria, en Honduras y El Salvador este caso solo representa a un tercio de las encuestadas.</aside> 
 
-<div class="parallax parallax2"><div class="parallax-content">
+<div class="parallax parallax5"><div class="parallax-content">
 ## Las personas mayores quieren independencia y autonomía
 </div></div> 
 
@@ -269,7 +269,7 @@ La Casa del Abuelo acoge a personas adultas mayores colombianas que quedaron sol
 
   
 
-<div class="parallax parallax3"><div class="parallax-content">
+<div class="parallax parallax4"><div class="parallax-content">
 ## COVID-19 ha afectado los medios de vida, salud mental y condiciones físicas de las personas mayores 
 </div></div>
 
@@ -284,7 +284,7 @@ include_graphics("images/info/covid.png", dpi = NA)
 
 La evidencia indica que las personas con discapacidad se enfrentan a dificultares y limitaciones accediendo a servicios de salud por síntomas y enfermedades diferentes a la pandemia. 
  
-Esta limitación es aún más grande en personas con discapacidad. Adicionalmente, 6% de aquellas infectados por COVID-19 reportaron no recibir atención médica adecuada. 
+Esta limitación es aún más grande en personas con discapacidad. Adicionalmente, 6% de aquellas infectados por la COVID-19 reportaron no recibir atención médica adecuada. 
 
 El acceso a alimentos para las personas mayores en situación de movilidad humana ha empeorado en todos los países evaluados.  Antes de la pandemia, una de cada cuatro se saltaban comidas. Con el adviento de COVID-19, 41% disminuyó su consumo de comida. 
 
@@ -303,7 +303,10 @@ El __asilamiento__ es uno de los efectos más importantes de la COVID-19, ya que
 include_graphics("images/macro/SPA_MACRO-1.jpg")
 ```
 
+
+<div class="parallax parallax3"><div class="parallax-content">
 ## Conclusiones 
+</div></div>
 
 El estudio revela una serie de vulnerabilidades específicas para personas mayores en situación de movilidad humana que necesitan ser incorporadas en el diseño de las respuestas humanitarias:
 

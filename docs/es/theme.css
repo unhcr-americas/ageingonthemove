@@ -203,9 +203,10 @@ d-title p {
 /*-- Highlighting elements --*/
 
 d-article aside {
-   background: rgb(204, 227, 242);
-   border-radius: 5px;
-   padding: 0.9em;
+  background: rgb(204, 227, 242);
+  border-radius: 5px;
+  padding: 0.9em;
+  font-size: 1.1em;
 }
 
 d-article blockquote {

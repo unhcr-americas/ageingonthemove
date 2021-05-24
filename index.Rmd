@@ -94,6 +94,11 @@ Although both context present different challenges, older persons on the move fa
 With this report, [HelpAge](https://www.helpage.org/)  and [UNHCR](https://www.unhcr.org/americas.html) aim to cast light on the challenges and risks faced by older persons on the move so that actions are taken to ensure they are not left behind.
 
 
+<div class="story">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/r4hAttRywys" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div> 
+
+
 ## Call to Action
 
 The international community is called upon to include older persons on the move as a priority group in all their agendas, adapting and financing the institutional structure that responds to their needs. This should be translated into humanitarian responses and programmes that include older persons on the move as direct beneficiaries, guaranteeing their dignity, autonomy, independence and participation, avoiding interventions that expose them to situations of dependency, abuse and discrimination. 
@@ -160,7 +165,7 @@ include_graphics("images/macro/ENG-MACRO-4.jpg")
 ```
 
 
-### A quarter of older persons consulted are not eating 3 meals a day. 
+### A quarter of older persons consulted are not eating 3 meals a day 
 
 Access to food for older persons on the move has worsened in all countries assessed. Already prior to the pandemic, one in four were having to skip meals. With the advent of COVID-19, 41% had to further reduce their food intake. 
 Even for those who eat sufficient number of meals per day, it does not imply that they enjoy an adequate nutritional balance, as in many cases food consumption is mainly composed of carbohydrates, especially in rural areas of Honduras and El Salvador, with little protein or no ingredients suitable for older people's diets.  
@@ -256,7 +261,7 @@ Access to mobile phones does not necessarily imply Internet connectivity, since 
 
   “Many things changed since we started to host the families and their kids”, Maria adds. “The seniors see them as members of their families. They feel more ‘protected,’ as they perform some activities together every day. This strengthened the confidence of the abuelitos [grandparents] a lot.” 
   
-[...read the full story here!](https://www.unhcr.org/news/stories/2019/6/5cffc16c4/older-colombians-venezuelans-care-other-under-roof.html).
+[...read the full story here!](https://www.unhcr.org/news/stories/2019/6/5cffc16c4/older-colombians-venezuelans-care-other-under-roof.html)
 
 
 </div>
