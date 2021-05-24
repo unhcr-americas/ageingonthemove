@@ -12,14 +12,12 @@ navbar:
       menu:
       - text: "Calll to Action"
         href: "index.html#call-to-action"
-      - text: "Profiles & Conditions"
-        href: "index.html#what-are-the-profiles-and-condition-of-older-people-on-the-move-in-the-americas"
-      - text: "Challenges"
+      - text: "Protection Risks & Challenges"
         href: "index.html#what-are-the-protection-risks-and-challenges-faced-by-older-persons-on-the-move-in-the-americas"
       - text: "Independence & Autonomy"
         href: "index.html#older-persons-want-independence-and-autonomy"
       - text: "COVID-19 impact"
-        href: "index.html#covid-19-has-affected-the-livelihoods-mental-health-and-physical-conditions-of-older-persons-across-latin-america."
+        href: "index.html#covid-19-has-affected-the-livelihoods-mental-health-and-physical-conditions-of-older-persons."
       - text: "Conclusions"
         href: "index.html#conclusions"
     - text: "Download"  
@@ -35,7 +33,7 @@ navbar:
       - text: "Media"
         href: "index.html"
     - text: "Español"
-      href: "esp/index.html"
+      href: "es/index.html"
 output: distill::distill_article
 
 

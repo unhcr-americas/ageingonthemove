@@ -127,11 +127,16 @@ This figure worsens among persons with disabilities, which increases their vulne
 >  -- Woman (67) in Peru, 2020  
 
 ### Many have limited access to health care 
+
  42% of respondents are not receiving treatment for different health conditions either due to missed medical appointments, lack of documentation, lack of money to pay for medicine or fear of approaching health centres due to the risk of contagion. Difficulties in getting around or distance from health centres are only rarely given as reasons.
 
 <aside>On average, around 30% of older people consulted did not use health services even when they were needing them before the pandemic.</aside>
 
 More than a fifth of those who used health services have had to pay, which, given the severe financial condition that most older persons on the move are subject to, severely limits their ability to access the services they need.
+
+```{r, layout="l-body"}
+include_graphics("images/info/condition.png", dpi = NA)
+```
 
 Most of the older persons consulted reported limited access to health care during the pandemic. Forty-two per cent were not receiving treatment for prior health conditions and 6% of those infected with COVID-19 reported not receiving adequate medical care. 
 
@@ -140,6 +145,11 @@ Almost 27% of the people interviewed reported not having access to any health se
 ### Facing job losses and lack of income 
 
 Older refugees have been deprived of their financial autonomy as many have lost their jobs and source of income and been left dependent on the often inexistant humanitarian aid. 
+
+
+```{r, layout="l-body"}
+include_graphics("images/info/eco.png", dpi = NA)
+```
 
 Some 64% of older persons consulted had no monthly income before the pandemic, and of those who did have an income, 62% felt it had not been enough to meet their basic needs.
 
@@ -173,6 +183,11 @@ On average, 61% of the older persons consulted live in rented accommodation and 
 <aside>During the pandemic, one fifth of those interviewed were unable to afford rent and five per cent had been evicted.</aside>
 
 In Honduras and El Salvador, 44% of people live in a flat or house of their own, a marked contrast to the countries in the Andean region, where only 9% of people live in a flat or house of their own. In Honduras and El Salvador, the average number of people living in rented accommodation (32%) is much lower than in the Andean countries (79%).  
+
+
+```{r, layout="l-body"}
+include_graphics("images/info/care.png", dpi = NA)
+```
 
 A third of the surveyed population lives in a single room and half of the population shares a room with one or two other people. Overcrowding is a matter of concern for the internally displaced population in Honduras, which reaches a third of the population, and for refugees and asylum-seekers in Colombia, which exceeds half of the population. These figures are similar to those relating to refugees or asylum-seekers in Peru.
 
@@ -253,13 +268,19 @@ Access to mobile phones does not necessarily imply Internet connectivity, since 
 
   
 
-<div class="parallax parallax3"><div class="parallax-content">
+
+
 ## COVID-19 has affected the livelihoods, mental health and physical conditions of older persons.
-</div></div>
+
+
 
 The pandemic has exacerbated pre-existing threats to the physical and mental health, nutrition, financial autonomy and legal status of older refugees and others on the move. 
 
 <p class="tweetable">The COVID-19 pandemic has gravely worsened the wellbeing of older persons on the move across Latin America, by further limiting their access to rights and services.</p>
+
+```{r, layout="l-body"}
+include_graphics("images/info/covid.png", dpi = NA)
+```
 
 There was evidence of an increase in the limitations of access to health services to treat symptoms or illness different to those associated with the virus during the pandemic.
  

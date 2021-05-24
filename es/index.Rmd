@@ -134,6 +134,10 @@ Las personas mayores en la región Andina son las más afectadas por la falta de
 
 Más de un quinto de aquellos que usaban servicios de salud han tenido que pagar, lo que, dado la severa condición financiera de la mayoría de las personas mayores en condición de movilidad humana, gravemente limita su habilidad para acceder a los servicios que necesitan. 
 
+```{r, layout="l-body"}
+include_graphics("images/info/condition.png", dpi = NA)
+```
+
 La mayoría de las personas mayores consultadas reportaron tener acceso limitado a servicios de salud durante la pandemia. Cuarenta y dos por ciento no estaban recibiendo tratamiento para condiciones de salud previas y 6% de aquellos infectados con COVID-19 reportaron no recibir tratamiento médico adecuado. 
 
 Casi 27% de las personas entrevistadas reportaron no tener acceso a ningún servicio de salud y 98% reportó tener al menos una condición de salud o discapacidad.
@@ -141,6 +145,11 @@ Casi 27% de las personas entrevistadas reportaron no tener acceso a ningún serv
 ### Pérdidas de trabajo y falta de ingresos
 
 Refugiados mayores han sido privados de su autonomía financiera y muchos han perdido sus trabajos y fuentes de ingreso y se han vuelto dependientes en ayuda humanitaria mayormente inexistente. 
+
+
+```{r, layout="l-body"}
+include_graphics("images/info/eco.png", dpi = NA)
+```
 
 Un 64% de las personas mayores en situación de movilidad humana no tenían ingresos mensuales antes de la pandemia. De quienes tenían ingresos, el 62% sentía que no era suficiente para cubrir sus necesidades.
 
@@ -170,11 +179,17 @@ El acceso a comida para personas mayores proviene principalmente del apoyo famil
 > – Agapito 
 
 ### Condiciones de vivienda inadecuadas afectan sus vidas 
+
 En promedio, 61% de las personas mayores consultadas viven en espacios alquilados y solo 20% tiene su propio apartamento o casa. Parecería que las mujeres tienen menos seguridad habitacional que los hombres. Un 66% de las mujeres viven en espacios alquilados, casi 10 puntos más arriba que los hombres y solo 17% viven en su propio hogar, comparado con el 24% de los hombres. 
 
 <aside>Durante la pandemia, las condiciones de vivienda de un quito de las personas entrevistadas empeoró ya que no eran capaces de pagar el alquiler. Cinco por ciento han sido desalojadas.</aside>
 
 En Honduras y El Salvador, 44% de las personas viven en su propio apartamento o casa, un claro contraste con los países de la región Andina donde solo 9% viven en su propio apartamento o casa. En Honduras y El Salvador, el número promedio de personas viviendo en espacios alquilados (32%) es mucho menor que en la región Andina (79%).  
+
+
+```{r, layout="l-body"}
+include_graphics("images/info/care.png", dpi = NA)
+```
 
 Un tercio de la población entrevistada habita en un cuarto individual y la mitad de la población comparte con una o dos personas. El hacinamiento es un tema de preocupación en la población desplazada interna en Honduras, que alcanza un tercio de la población y las personas refugiadas o solicitantes de la condición de refugiado en Colombia, que supera la mitad de la población. Estas cifras son similares a aquellas para refugiadas o solicitantes de la condición de refugiado en Perú 
 
@@ -259,6 +274,10 @@ La Casa del Abuelo acoge a personas adultas mayores colombianas que quedaron sol
 La pandemia ha exacerbado las amenazas ya existentes a la salud física y mental, la nutrición, autonomía financiera y estatus legal de personas refugiadas mayores y otras en situación de movilidad humana.  
 
 <p class="tweetable"> La pandemia de COVID-19 está impactado gravemente el bienestar de las personas mayores desplazadas en toda América Latina, limitando aún más su acceso a derechos y servicios.</p> 
+
+```{r, layout="l-body"}
+include_graphics("images/info/covid.png", dpi = NA)
+```
 
 La evidencia indica que las personas con discapacidad se enfrentan a dificultares y limitaciones accediendo a servicios de salud por síntomas y enfermedades diferentes a la pandemia. 
  

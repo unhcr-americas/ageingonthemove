@@ -105,6 +105,10 @@ d-appendix {
 
 
 
+.distill-site-header .logo {
+    float: left;
+}
+
 .distill-site-header .logo img {
 /* 
     display: inline-block;
@@ -116,7 +120,7 @@ d-appendix {
     height: auto; 
    width: 100%; !important
    height: auto; !important */  
-   width: 384px;
+    width: 384px;
     height: 100px;
     max-height: 100px;
 }
@@ -200,7 +204,7 @@ d-title p {
 
 d-article aside {
    background: rgb(204, 227, 242);
-   border-radius: 15px;
+   border-radius: 5px;
    padding: 0.9em;
 }
 
@@ -240,7 +244,11 @@ a.tweet-link {
 }
 
 
-.story{background-color: #f4f4f4!important;}
+.story{
+  background-color: #f4f4f4!important;
+  padding: 2em 2em;
+  
+}
 
 /*-- putting some parallax effect --*/
 
