@@ -12,7 +12,7 @@ Using a reproducible analysis approach, the following workflow can be used:
 
  1. After data collection in [kobotoolbox](https://kobo.unhcr.org) and one data has been deposited and documented on [RIDL](https://ridl.unhcr.org/), an __initial data crunching report__ can be generated. This can be done with [koboloadeR](https://unhcr.github.io/koboloadeR/docs/). Ideally both the data crunching notebook source (i.e Rmd file) and output (i.e. html, docx or pptx) should also be recorded in RIDL. 
  
- 2. The Data analysis expert should then select from within the initial crunching report, the specific figures/charts that are more likely to generate interesting joint data interpretation and compile a new refined & smaller notebook to output some __joint data interpretation presentation material__. The content of the notebook should take in consideration the data literacy levels of the particpants to the data intepretation sessions.
+ 2. The Data analysis expert should then select from within the initial crunching report, the specific figures/charts that are more likely to generate interesting joint data interpretation and compile a new refined & smaller notebook to output some __joint data interpretation presentation material__. The content of the notebook should take in consideration the data literacy levels of the participants to the data interpretation sessions.
  
  3. Joint data interpretation sessions are key to establish common understanding, compensate lack of evidence with expert judgment, resolve inconsistencies in the data, agree on priorities and develop likely scenarios/programmatic recommendations. All steps are well explained in this [video from IFRC](https://www.youtube.com/watch?v=0jE-Y7g88K4&feature=youtu.be&t=2305). The output of the session are __data interpretation notes__ that can be included back in the notebook used to create the initial presentation and archived in [UNHCR Internal Analysis repo](http://analysis.unhcr.org). A last round of comments, regional peer review and validation than can be organized directly through the [UNHCR Internal Analysis repo](http://analysis.unhcr.org)
  
@@ -30,6 +30,8 @@ The aim is to reproduce the look-and-feel from other UNHCR microsite like:
  * [Her Turn](https://www.unhcr.org/herturn/)
  * [Stepping Up](https://www.unhcr.org/steppingup/)
  * [Home Visit Report](https://unhcr-jordan.github.io/home-visit-report)
+ 
+The report generated through this repository is available here: [A dignity claim: Ageing on the move](https://unhcr-americas.github.io/ageingonthemove)
 
 ### Markdown syntax
 
@@ -69,7 +71,7 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
  
  * Aim to be __minimalistic__: The [ideal length of an article](https://torquemag.io/2018/04/optimal-content-length/) should be between 1500 and 2500 characters, taking an average 7 minutes to read. 
 
- * Have a 2 or 3 main __top level chapters__ max - avoid presenting content in too many chapter to minimimze the cognitive cost for reader to absorb the content.  
+ * Have a 2 or 3 main __top level chapters__ max - avoid presenting content in too many chapter to minimize the cognitive cost for reader to absorb the content.  
 
  * Avoid putting [too many numbers](https://www.unhcr.org/innovation/wp-content/uploads/2018/02/InnovationYearInReview2017_web.pdf#page=21) to avoid psychic numbing
  
@@ -131,7 +133,7 @@ In the template, this can be done with the following tags:
 
 #### 6. Insert Human Stories 
 
-It is crucial to always pair quantitative analysis with human stories to incease the persuasiveness of the content. 
+It is crucial to always pair quantitative analysis with human stories to increase the persuasiveness of the content. 
 
 In the template, this can be done with the following tags:
 
@@ -175,7 +177,7 @@ According to this [tutorial](https://www.smashingmagazine.com/2015/06/efficient-
 
 ### background image
 
-For responsive design, the image needs to be crop-able in both portrait (for smartphone) and landscape (for desktop). Chnaing between those 2 formats is handled in the css file  `theme.css`
+For responsive design, the image needs to be crop-able in both portrait (for smartphone) and landscape (for desktop). Changing between those 2 formats is handled in the css file  `theme.css`
 
 #### Above the fold
 
