@@ -114,7 +114,7 @@ Se hace un llamado a la comunidad internacional para incluir a las personas mayo
 
 
 
-<div class="parallax parallax1"><div class="parallax-content">
+<div class="parallax parallax2"><div class="parallax-content">
 ## ¿Cuáles son los riesgos de protección y desafíos que enfrentan las personas mayores en situación de movilidad humana en las Américas? 
 </div></div>
  

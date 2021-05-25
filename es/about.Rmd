@@ -1,12 +1,12 @@
 ---
-title: "About this site"
+title: "A dignity claim: Ageing on the move"
 description: |
-  Some additional details about the website
+  Additional details and contact
 output: 
   distill::distill_article:
     theme: theme.css
-    toc: true
-    toc_float: true
+    toc: false
+    toc_float: false
 ---
 
 
@@ -14,4 +14,16 @@ output:
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
-The Needs Assessment for Older People in Disasters and Humanitarian Crises is a methodology developed by HelpAge to provide the best possible description of the situation and priority needs of older people in emergencies, considering that access to data and time for data collection and analysis for this population group is limited. For the purposes of this evaluation, other areas of protection and rights were addressed, and the tools were adapted to larger virtual data collection and analysis processes. 
+## About this study
+
+The Needs Assessment for Older People in Disasters and Humanitarian Crises is a methodology developed by HelpAge to provide the best possible description of the situation and priority needs of older people in emergencies, considering that access to data and time for data collection and analysis for this population group is limited. 
+
+For the purposes of this evaluation, other areas of protection and rights were addressed, and the tools were adapted to larger virtual data collection and analysis processes.
+
+## Contact
+
+If you have any comments or questions about this report, please contact:
+
+ * HelpAge: [info@helpagela.com](mailto:info@helpagela.com) 
+
+ * UNHCR: [penabric@unhcr.org](mailto:penabric@unhcr.org)
