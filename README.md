@@ -16,7 +16,7 @@ Using a reproducible analysis approach, the following workflow can be used:
  
  3. Joint data interpretation sessions are key to establish common understanding, compensate lack of evidence with expert judgment, resolve inconsistencies in the data, agree on priorities and develop likely scenarios/programmatic recommendations. All steps are well explained in this [video from IFRC](https://www.youtube.com/watch?v=0jE-Y7g88K4&feature=youtu.be&t=2305). The output of the session are __data interpretation notes__ that can be included back in the notebook used to create the initial presentation and archived in [UNHCR Internal Analysis repo](http://analysis.unhcr.org). A last round of comments, regional peer review and validation than can be organized directly through the [UNHCR Internal Analysis repo](http://analysis.unhcr.org)
  
- 4. The last step is to produce depending on the context, only a short __microsite__ or an a shot microsite plus a more in-depth report. For indepth report, UNHCR Analyst can use the paginated template from [unhcRstyle package](https://unhcr-web.github.io/unhcRstyle/docs/)
+ 4. The last step is to produce depending on the context, only a short __microsite__ or a short microsite plus a more in-depth report. For in-depth report, UNHCR Analyst can use the paginated template from [unhcRstyle package](https://unhcr-web.github.io/unhcRstyle/docs/)
 
 
 ## A re-usable microsite template 
