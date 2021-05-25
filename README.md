@@ -19,11 +19,9 @@ Using a reproducible analysis approach, the following workflow can be used:
  4. The last step is to produce depending on the context, only a short __microsite__ or a short microsite plus a more in-depth report. For in-depth report, UNHCR Analyst can use the paginated template from [unhcRstyle package](https://unhcr-web.github.io/unhcRstyle/docs/)
 
 
-## A re-usable microsite template 
+## Why a re-usable microsite template? 
 
-This repository can be used as a template to __generate microsite__. It uses a customized version of the [distill package](https://rstudio.github.io/distill/website.html). The advantage of this approach is to develop quickly a microsite without coding any html/css/javascript as the content will be only a [mark-down document](https://www.markdownguide.org/cheat-sheet/).  In addition, because it based on R, it becomes very easy to include charts, graphs and other data visualizations.
-
-The aim is to reproduce the look-and-feel from other UNHCR microsite like: 
+This repository can be used as a template to __generate microsite__. The aim is to reproduce the look-and-feel from other UNHCR microsite like: 
 
  * [Desperate journeys](https://www.unhcr.org/desperatejourneys/)
  * [Families on the run](https://familiesontherun.org/)
@@ -31,7 +29,15 @@ The aim is to reproduce the look-and-feel from other UNHCR microsite like:
  * [Stepping Up](https://www.unhcr.org/steppingup/)
  * [Home Visit Report](https://unhcr-jordan.github.io/home-visit-report)
  
-The report generated through this repository is available here: [A dignity claim: Ageing on the move](https://unhcr-americas.github.io/ageingonthemove)
+The report generated through this repository is available here: [A dignity claim: Ageing on the move](https://unhcr-americas.github.io/ageingonthemove).
+
+Using a template has the following __advantages__: 
+
+ * The template is based customized version of the [distill package](https://rstudio.github.io/distill/website.html), a template wich is by default responsive 9i.e. works well both on desktop and smartphone...) and will therefore benefit from all improvement developed for the initial template. 
+ 
+ * It becomes possible to develop quickly a microsite without coding any html/css/javascript as the content will be only a [mark-down document](https://www.markdownguide.org/cheat-sheet/)  
+ 
+ * Because the template is based on R-based notebook, it becomes very easy to include charts, graphs and other data visualizations.
 
 ### Markdown syntax
 
@@ -221,9 +227,9 @@ In youtube, click on share and use the embedded html snippet
 
 When adding a video, you may append `&autoplay=1` to the video URL
 
+
+
 ## User experience
-
-
 
 ### organise site headers and footers
 
@@ -233,12 +239,24 @@ See also customization advice from https://rstudio4edu.github.io/rstudio4edu-boo
 
 ### URL and Search Engine Optimisation (SEO)
 
-SEO-related factors to consider are:   
- * meta tags (aka a list of key words - see  here: https://rstudio.github.io/distill/metadata.html and https://themockup.blog/posts/2021-03-21-including-and-meta-tagging-extra-content-in-a-distill-blog/), 
+beside the elements already discussed above, (i.e. mobile friendliness & responsiveness which already built-in through the template together with optimized images as explained before),  SEO-related factors to consider are:   
+ * meta tags, aka a list of key words that needs to be defined in the initial chunk (see  here: https://rstudio.github.io/distill/metadata.html and https://themockup.blog/posts/2021-03-21-including-and-meta-tagging-extra-content-in-a-distill-blog/), 
  * inbound and outbound links (links  to other content), 
- * domain name & URL structure (URL has to be carefully selected), 
- * mobile friendliness & responsiveness (the site needs to be read-able on smartphone and large screen), 
- * design elements such as images and videos which can affect load speed (for instance image size needs to be reduced).
+ * domain name & URL structure be carefully selected
 
 
+
+## Add multiple language 
+
+You can create a fully translated copy of you site:
+
+ * Keep the original site in English  
+ 
+ * create a new site (including a new `_site.yml` with translated links..) under a subfolder (good to use ISO 2 letters) - for instance `es`.  
+ 
+ * once your build the website, copy the content generated in `/es/doc` within a new folder in doc: `/doc/es`  
+ 
+ * Adjust the navbar content of your respective `_site.yml` to include the language switch...
+ 
+ 
 

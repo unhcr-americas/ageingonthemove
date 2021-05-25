@@ -86,13 +86,14 @@ The assessment focuses in __five countries in the region: El Salvador, Honduras,
 
 El Salvador and Honduras are mainly characterised by internal displacement flows resulting from gang or mara violence, returns and the socio-economic difficulties caused by the pandemic. While Colombia, Ecuador and Peru are mainly characterized by mixed movements (refugees and migrants) as a result of the ongoing political, human rights and socio-economic crisis in Venezuela, which has led to the exodus of millions of people. 
 
-<aside>A total of 725 older persons were consulted via telephone, as well as caretakers, service providers and key actors with in-depth and semi-structured interviews and online surveys. </aside>
+<aside>A total of 865 older persons were consulted via telephone, as well as caretakers, service providers and key actors with in-depth and semi-structured interviews and online surveys. </aside>
 
 Although both context present different challenges, older persons on the move face similar limitations in accessing their rights and services. 
 
 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/r4hAttRywys?controls=0&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="415" height="415" src="https://www.youtube.com/embed/r4hAttRywys?controls=0&autoplay=1&playlist=r4hAttRywys&loop=1&modestbranding=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 
 
 With this report, [HelpAge](https://www.helpage.org/)  and [UNHCR](https://www.unhcr.org/americas.html) aim to cast light on the challenges and risks faced by older persons on the move so that actions are taken to ensure they are not left behind.
@@ -214,9 +215,8 @@ In all countries, aid mainly involves food and toiletries, with 48% in Honduras 
 While in the Andean region, half of respondents reported receiving humanitarian aid, in Honduras and El Salvador, this was the case of only a third of respondents. 
 
 <div class="parallax parallax5"><div class="parallax-content">
-## Older persons want independence and autonomy
+## Older persons want independence and autonomy  
 </div></div>
-
 
 ### Discriminated by their age   
 
@@ -286,8 +286,10 @@ Access to mobile phones does not necessarily imply Internet connectivity, since 
 
 .
 <div class="parallax parallax4"><div class="parallax-content">
-## COVID-19 has affected the livelihoods, mental health and physical conditions of older persons
-</div></div>
+
+## COVID-19 has affected the livelihoods, mental health and physical conditions of older persons  
+</div></div><br >
+
 
 
 The pandemic has exacerbated pre-existing threats to the physical and mental health, nutrition, financial autonomy and legal status of older refugees and others on the move. 
@@ -318,9 +320,7 @@ __Isolation__ is one of the most important effects of COVID-19, as people cannot
 
 <div class="parallax parallax3"><div class="parallax-content">
 ## Conclusions 
-</div></div>
-
-<br >
+</div></div><br >
 
 The study unveils a series of specific vulnerabilities for older persons on the move that need to be accounted for in the design of the humanitarian response:
 
