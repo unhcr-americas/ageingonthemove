@@ -90,16 +90,19 @@ El Salvador y Honduras están caracterizados principalmente por desplazamientos 
 
 A pesar de que ambos contextos presentan dificultades diferentes, las personas mayores en situación de movilidad humana se enfrentan a limitaciones similares para acceder a derechos y servicios.
 
+<iframe width="415" height="415" src="https://www.youtube.com/embed/3hfAtBv4fMI?controls=0&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
 Con este reporte, [HelpAge](http://www.helpagela.org/) y [ACNUR](https://www.acnur.org/) buscan dar luz a las dificultades y riesgos enfrentados por las personas mayores en situación de movilidad humana para que se tomen acciones que aseguren no sean las grandes olvidadas. 
 
 
-<div class="story">
-<iframe width="415" height="415" src="https://www.youtube.com/embed/3hfAtBv4fMI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div> 
+
+
+
 
 ## Llamado a la acción 
 
-Se hace un llamado a la comunidad internacional para incluir a las personas mayores en situación de movilidad humana como un grupo prioritario en todas sus agendas, adaptando y financiando la estructura institucional que responda a sus necesidades. Esto se debe traducir en respuestas y programas humanitarios que incluyan a las personas mayores en situación de movilidad humana como beneficiarias directas s, que garanticen su dignidad, autonomía, independencia y participación, evitando intervenciones que las expongan a situaciones de dependencia, abuso y discriminación. 
+Se hace un llamado a la comunidad internacional para incluir a las personas mayores en situación de movilidad humana como un grupo prioritario en todas sus agendas, adaptando y financiando la estructura institucional que responda a sus necesidades. Esto se debe traducir en respuestas y programas humanitarios que incluyan a las personas mayores en situación de movilidad humana como beneficiarias directas, que garanticen su dignidad, autonomía, independencia y participación, evitando intervenciones que las expongan a situaciones de dependencia, abuso y discriminación. 
 
  1.  Las personas mayores desplazadas forzosamente se han encontrado durante mucho tiempo con una protección insuficiente y con negligencia. Su __inclusión completa en las respuestas nacionales__ a la pandemia es clave para salvaguardar su dignidad y derechos.
 
@@ -133,7 +136,7 @@ Las personas mayores en la región Andina son las más afectadas por la falta de
 ### Muchas tienen acceso limitado a servicios de salud
 
 
- 42% de las personas encuestadas no están recibiendo tratamiento para diferentes condiciones meédicas, ya sea por citas perdidas, falta de documentación, falta de dinero para pagar las medicinas o miedo a acercarse a los centros de salud por riesgo de contagio. Dificultades de movilidad o largas distancias a los centros de salud son razones muy poco utilizadas.
+42% de las personas encuestadas no están recibiendo tratamiento para diferentes condiciones médicas, ya sea por citas perdidas, falta de documentación, falta de dinero para pagar las medicinas o miedo a acercarse a los centros de salud por riesgo de contagio. Dificultades de movilidad o largas distancias a los centros de salud son las causas principales de la falta de acceso al servicio de salud.
 
 <aside>En promedio, alrededor de 30% de las personas mayores consultadas no usaban servicios de salud cuando los necesitaban, incluso antes de la pandemia.</aside>
 
@@ -149,14 +152,14 @@ Casi 27% de las personas entrevistadas reportaron no tener acceso a ningún serv
 
 ### Pérdidas de trabajo y falta de ingresos
 
-Refugiados mayores han sido privados de su autonomía financiera y muchos han perdido sus trabajos y fuentes de ingreso y se han vuelto dependientes en ayuda humanitaria mayormente inexistente. 
+Refugiados mayores han sido privados de su autonomía financiera y muchos han perdido sus trabajos y fuentes de ingreso a lo que se suma una ayuda humanitaria casi inexistente. 
 
 
 ```{r, layout="l-body"}
 include_graphics("images/info/eco.png", dpi = NA)
 ```
 
-Un 64% de las personas mayores en situación de movilidad humana no tenían ingresos mensuales antes de la pandemia. De quienes tenían ingresos, el 62% sentía que no era suficiente para cubrir sus necesidades.
+Un 64% de las personas mayores en situación de movilidad humana no tenía ingresos mensuales antes de la pandemia. De quienes tenían ingresos, el 62% sentía que no era suficiente para cubrir sus necesidades.
 
 A pesar de su incrementada vulnerabilidad, las personas mayores en situación de movilidad humana se han convertido en cabezas de hogar a medida que continuaban teniendo familiares en su cuidado, incluyendo niños, niñas y adolescentes (60%), adultos (38%), personas mayores de 60 años (20%) y personas con discapacidad (5%).
 
@@ -235,7 +238,7 @@ include_graphics("images/macro/SPA_MACRO-2.jpg")
 
 El empoderamiento de las personas mayores está relacionado a factores como la participación, accesibilidad física, la habilidad de moverse de un lugar a otro, así como a tener canales de comunicación a su disposición que puedan generar autonomía e independencia. 
 
-<p class="tweetable">Más de dos tercios de las personas mayores en situación de movilidad humana no tenían actividades para compartir o socializar con otros. </p>
+<p class="tweetable">Más de dos tercios de las personas mayores en situación de movilidad humana no tenían actividades para compartir o socializar con otros.</p>
 
  
 Las mujeres presentaron un porcentaje de no participación mayor al de los hombres. Esta participación es aún más baja cuando se incluyen personas mayores con discapacidad. Adicionalmente, alrededor del 84% de las personas mayores no ha participado de charlas o entrenamientos en actividades que concienticen sobre sus derechos. 
@@ -293,7 +296,7 @@ Esta limitación es aún más grande en personas con discapacidad. Adicionalment
 
 El acceso a alimentos para las personas mayores en situación de movilidad humana ha empeorado en todos los países evaluados.  Antes de la pandemia, una de cada cuatro se saltaban comidas. Con el adviento de COVID-19, 41% disminuyó su consumo de comida. 
 
-Un 64% de las personas consultadas no tenían ingresos mensuales antes de la pandemia. De aquellos que si tenían ingresos, 62% sentían que no era suficiente para cubrir sus necesidades básicas. Pero COVID-19 agravó aún más su situación económica, dejando a muchos sin empleo. En Honduras y El Salvador, un tercio de las personas entrevistadas reportaron haber perdido sus trabajos. En los países de la región Andina, casi la mitad perdió sus trabajos. 
+Un 64% de las personas consultadas no tenía ingresos mensuales antes de la pandemia. De aquellos que si tenían ingresos, 62% sentían que no era suficiente para cubrir sus necesidades básicas. Pero COVID-19 agravó aún más su situación económica, dejando a muchos sin empleo. En Honduras y El Salvador, un tercio de las personas entrevistadas reportaron haber perdido sus trabajos. En los países de la región Andina, casi la mitad perdió sus trabajos. 
 
 Entretanto, las condiciones de vivienda también empeoraron para un quinto de las personas entrevistadas, ya que estos no eran capaces de pagar la renta. Cinco por ciento de las encuestadas han sido desalojadas durante la pandemia
 

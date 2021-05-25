@@ -206,7 +206,7 @@ d-article aside {
   background: rgb(204, 227, 242);
   border-radius: 5px;
   padding: 0.9em;
-  font-size: 1.1em;
+  font-size: 3.7em;
 }
 
 d-article blockquote {
@@ -309,14 +309,13 @@ a.tweet-link {
 .parallax6{background:url(images/parallax6.jpg)}--*/
 
 .parallax{
-  padding:400px 15px;
-  color:#fff;
   background-size:cover;
   background-repeat:no-repeat;
   background-position:center;
   background-attachment:fixed;
   position:relative;
   grid-column: screen;
+  padding:400px 15px 15px 15px;
   
 }
 
@@ -337,6 +336,7 @@ Improve the readability of the text contents by adding an extra colored backgrou
 .parallax h2{
 	position: left;
   font-size: 2.8rem;
+  display: inline-block;
   color: #ffffff !important;
   box-shadow: none !important;
   border-bottom: 0px solid rgba(0, 0, 0, 0.1);

@@ -91,12 +91,13 @@ El Salvador and Honduras are mainly characterised by internal displacement flows
 Although both context present different challenges, older persons on the move face similar limitations in accessing their rights and services. 
 
 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/r4hAttRywys?controls=0&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
 With this report, [HelpAge](https://www.helpage.org/)  and [UNHCR](https://www.unhcr.org/americas.html) aim to cast light on the challenges and risks faced by older persons on the move so that actions are taken to ensure they are not left behind.
 
 
-<div class="story">
-<iframe width="415" height="415" src="https://www.youtube.com/embed/r4hAttRywys" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div> 
 
 
 ## Call to Action
@@ -133,7 +134,7 @@ This figure worsens among persons with disabilities, which increases their vulne
 
 ### Many have limited access to health care 
 
- 42% of respondents are not receiving treatment for different health conditions either due to missed medical appointments, lack of documentation, lack of money to pay for medicine or fear of approaching health centres due to the risk of contagion. Difficulties in getting around or distance from health centres are only rarely given as reasons.
+ 42% of respondents are not receiving treatment for different health conditions either due to missed medical appointments, lack of documentation, lack of money to pay for medicine or fear of approaching health centres due to the risk of contagion. Difficulties in getting around or distance from health centres are the main reasons for lack of access to health services.
 
 <aside>On average, around 30% of older people consulted did not use health services even when they were needing them before the pandemic.</aside>
 
@@ -149,7 +150,7 @@ Almost 27% of the people interviewed reported not having access to any health se
 
 ### Facing job losses and lack of income 
 
-Older refugees have been deprived of their financial autonomy as many have lost their jobs and source of income and been left dependent on the often inexistant humanitarian aid. 
+Older refugees have been deprived of their financial autonomy as many have lost their jobs and source of income and been left dependent on the often inexistent humanitarian aid. 
 
 
 ```{r, layout="l-body"}
@@ -318,6 +319,8 @@ __Isolation__ is one of the most important effects of COVID-19, as people cannot
 <div class="parallax parallax3"><div class="parallax-content">
 ## Conclusions 
 </div></div>
+
+<br >
 
 The study unveils a series of specific vulnerabilities for older persons on the move that need to be accounted for in the design of the humanitarian response:
 

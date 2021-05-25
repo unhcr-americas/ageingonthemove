@@ -215,7 +215,11 @@ layout can take the following value:
 
 Individual files in a github repository are strictly limited to a 100 MB maximum size limit.
 
-When inserting a video, best is to upload it first in youtube or other video streaming platform (like vimeo) and use the built-in embedded video viewer
+When inserting a video, best is to upload it first in youtube or other video streaming platform (like vimeo) and use the built-in embedded video viewer.
+
+In youtube, click on share and use the embedded html snippet
+
+When adding a video, you may append `&autoplay=1` to the video URL
 
 ## User experience
 
