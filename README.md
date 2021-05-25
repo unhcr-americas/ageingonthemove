@@ -16,7 +16,7 @@ Using a reproducible analysis approach, the following workflow can be used:
  
  3. Joint data interpretation sessions are key to establish common understanding, compensate lack of evidence with expert judgment, resolve inconsistencies in the data, agree on priorities and develop likely scenarios/programmatic recommendations. All steps are well explained in this [video from IFRC](https://www.youtube.com/watch?v=0jE-Y7g88K4&feature=youtu.be&t=2305). The output of the session are __data interpretation notes__ that can be included back in the notebook used to create the initial presentation and archived in [UNHCR Internal Analysis repo](http://analysis.unhcr.org). A last round of comments, regional peer review and validation than can be organized directly through the [UNHCR Internal Analysis repo](http://analysis.unhcr.org)
  
- 4. The last step is to produce depending on the context, only a short __microsite__ or a short microsite plus a more in-depth report. For in-depth report, UNHCR Analyst can use the paginated template from [unhcRstyle package](https://unhcr-web.github.io/unhcRstyle/docs/)
+ 4. The last step is to produce depending on the context, only a short __microsite__ or a short microsite plus a more in-depth report. For in-depth report, UNHCR Analyst can use the paginated template from [unhcRstyle package](https://unhcr-web.github.io/unhcRstyle/docs/).
 
 
 ## Why a re-usable microsite template? 
@@ -37,7 +37,7 @@ Using a template has the following __advantages__:
  
  * It becomes possible to develop quickly a microsite without coding any html/css/javascript as the content will be only a [mark-down document](https://www.markdownguide.org/cheat-sheet/)  
  
- * Because the template is based on R-based notebook, it becomes very easy to include charts, graphs and other data visualizations.
+ * Because the template is based on R-based notebook, it becomes very easy to include charts, graphs and other data visualizations, use directly the correct UNHCr rand with the [unhcRstyle package](https://unhcr-web.github.io/unhcRstyle/docs/).
 
 ### Markdown syntax
 
@@ -71,6 +71,8 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 
 ### Reduce cognitive load
 
+The term cognitive load refers to the amount of working memory resources used to process a piece of information. The better designed is a message the more chances, people will retain it. In order to do that: 
+
  * Highlight the main __call to action__ in the  microsite subtitle 
  
  * Start with the main __recommendations__ to ensure the readers does not need to wait 10 minutes of reading to find out what the report message is... if not, drop out risk are high.... 
@@ -98,7 +100,7 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 
 ### Highlight Content to ease "_active reading_"
 
-"__Active reading__" techniques are used by many professionals and consist in , __before reading the article content__, looking at ad scanning any titles, subheadings, charts, graphs, and captions to get the key messages. 
+"_Active reading_" techniques are used by many professionals and consist in , __before reading the article content__, looking at ad scanning any titles, subheadings, charts, graphs, and captions to get the key messages. 
 
 Those techniques allow to get the main messages of any document without reading it line by line... it is used in most medias nowadays
 
@@ -156,7 +158,8 @@ When selecting pictures for a report, as pointed in the report: [Aid recipients 
 
 Practically speaking this implies;
 
- * Avoid putting pictures of persons that can be easily recognized
+ * Avoid putting pictures of persons that can be easily recognized.  
+  
  * If the pictures you have includes persons that can be recognized, do not include those that present the person in a state of despair.  An emotional state of despair can easily be conveyed by pictures that do not include recognizable faces.
 
 
@@ -176,14 +179,12 @@ To ensure that your full width images look good across any device big or small t
 
 According to this [tutorial](https://www.smashingmagazine.com/2015/06/efficient-image-resizing-with-imagemagick), the following command line will effectively resize all the image from the folder within it is being run into optimal 1080 pixel width images
 
-
-
 `mogrify -filter Triangle -define filter:support=2 -unsharp 0.25x0.25+8+0.065 -dither None -posterize 136 -quality 82 -define jpeg:fancy-upsampling=off -define png:compression-filter=5 -define png:compression-level=9 -define png:compression-strategy=1 -define png:exclude-chunk=all -interlace none -colorspace sRGB -strip -units PixelsPerInch -density 92  -resize 1080  *.png`
 
 
 ### background image
 
-For responsive design, the image needs to be crop-able in both portrait (for smartphone) and landscape (for desktop). Changing between those 2 formats is handled in the css file  `theme.css`
+For responsive design, the image needs to be crop-able in both portrait (for smartphone) and landscape (for desktop). Changing between those 2 formats is handled in the css file  `theme.css` 
 
 #### Above the fold
 
@@ -223,9 +224,14 @@ Individual files in a github repository are strictly limited to a 100 MB maximum
 
 When inserting a video, best is to upload it first in youtube or other video streaming platform (like vimeo) and use the built-in embedded video viewer.
 
-In youtube, click on share and use the embedded html snippet
+In Youtube, click on share and use the embedded html snippet
 
-When adding a video, you may append `&autoplay=1` to the video URL
+`<iframe width="415" height="415" src="https://www.youtube.com/embed/***Video_ID***?controls=0&autoplay=1&playlist=***Video_ID***&loop=1&modestbranding=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>`
+
+When adding a video, you may append different element to the video URL
+
+ * `&autoplay=1` start automatically the video
+ * `&playlist=***Video_ID***&loop=1` loop the video around..
 
 
 
