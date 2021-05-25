@@ -27,6 +27,8 @@ The aim is to reproduce the look-and-feel from other UNHCR microsite like:
 
  * [Desperate journeys](https://www.unhcr.org/desperatejourneys/)
  * [Families on the run](https://familiesontherun.org/)
+ * [Her Turn](https://www.unhcr.org/herturn/)
+ * [Stepping Up](https://www.unhcr.org/steppingup/)
  * [Home Visit Report](https://unhcr-jordan.github.io/home-visit-report)
 
 ### Markdown syntax
