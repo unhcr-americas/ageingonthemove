@@ -174,7 +174,18 @@ Access to food is provided mainly through the support of family members and thei
 
 
 <div class="story">
+### STORY: For older refugee in Ecuador, survival means skipping meals 
+
+When he was younger, Agapito Escobar relied on all sorts of creative solutions to make ends meet. A farmer and fruit vendor back in his native Colombia, he also made and sold his own bread and even panned for gold after he was forced to seek asylum in neighbouring Ecuador nearly two decades ago.
+
+But Agapito is now 65, and he can no longer manage the hard physical labour he used to rely on to eke out a living. This, combined with the difficulties refugees often face trying to access the job market, as well as the added financial strain brought on by the ongoing COVID-19 pandemic, means that Agapito and his 79-year-old partner, Wilma, are slipping into destitution.
+
+“There are days when we only eat breakfast… and in the afternoon, we just drink a glass of water,” he said, adding that they have been forced to rely on candlelight since their electricity was cut off due to lack of payment. 
+
 <iframe width="560" height="415" src="https://www.youtube.com/embed/NpXYvoD8yWg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+With much of Latin America still in the throes of a devastating second wave of the virus, coronavirus stay-at-home restrictions have wiped out the one source of income the couple still had – Wilma’s sporadic work as a midwife, assisting local women with complicated deliveries. 
+
 </div> 
 
 > “Sometimes we don’t eat breakfast, we only have one meal a day”
@@ -246,7 +257,7 @@ Access to mobile phones does not necessarily imply Internet connectivity, since 
 
 <div class="story">
 
-### Human STORY: Older Colombians and Venezuelans take care of each other under the same roof.
+### STORY: Older Colombians and Venezuelans take care of each other under the same roof.
  
  
   Born on 3 October 1989, in Riohacha, La Guajira, northern Colombia, this was the life project of a social worker and her family, with the idea of supporting and helping older persons in this area of the country. They have been at the service of those in need of their assistance for 33 years -people who have been abandoned by family members and who are sheltered there. This is a community-based effort.  

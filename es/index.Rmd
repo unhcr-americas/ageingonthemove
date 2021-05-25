@@ -253,7 +253,7 @@ El acceso a los teléfonos móviles no implica conectividad al Internet, ya que 
 
 <div class="story">
 
-Personas mayores venezolanas y colombianas se cuidan entre sí bajo el mismo techo
+### STORY: Personas mayores venezolanas y colombianas se cuidan entre sí bajo el mismo techo
 
 Nace el 3 de octubre de 1989, en Riohacha, La Guajira, al norte de Colombia, como un proyecto de vida de una trabajadora social y su núcleo familiar, con la idea de apoyar y ayudar a las personas mayores en esta zona del país. Son 33 años al servicio de quienes lo necesitan: personas que han sido abandonas por familiares y que allí son acogidas. Esta es una labor de carácter comunitario. 
 
@@ -301,12 +301,9 @@ Los efectos psicológicos de la pandemia son unos de los problemas más grandes 
 
 <aside>Las enfermedades y problemas emocionales se han intensificado durante la pandemia.</aside>
 
-El __asilamiento__ es uno de los efectos más importantes de la COVID-19, ya que las personas no pueden encontrarse con sus amistades y familia como normalmente lo harían y su tiempo de recreación también es reducido. La pandemia ha llevado a la disminución del contacto diario de las personas mayores en situación de movilidad humana con sus familias, de un 39% a 26%, lo que ha tenido un impacto en los sentimientos de asilamiento y soledad. El aislamiento agrava las condiciones físicas y mentales. 
+El __aislamiento__ es uno de los efectos más importantes de la COVID-19, ya que las personas no pueden encontrarse con sus amistades y familia como normalmente lo harían y su tiempo de recreación también es reducido. La pandemia ha llevado a la disminución del contacto diario de las personas mayores en situación de movilidad humana con sus familias, de un 39% a 26%, lo que ha tenido un impacto en los sentimientos de aislamiento y soledad. El aislamiento agrava las condiciones físicas y mentales. 
 
 
-```{r, layout="l-page"}
-include_graphics("images/macro/SPA_MACRO-1.jpg")
-```
 
 
 <div class="parallax parallax3"><div class="parallax-content">

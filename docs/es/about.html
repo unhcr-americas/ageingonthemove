@@ -2291,8 +2291,8 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
   
   
   d-title h1 {
-    padding-bottom: 2rem;
-    padding-top: 30rem;
+    padding-top: 25rem;
+    padding-bottom: 1rem;
     /*-- font-weight: 700; --*/
     font-size: 6.6rem;
     color: #ffffff !important;
@@ -2360,7 +2360,15 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
   .story{
     background-color: #f4f4f4!important;
     padding: 2em 2em;
+  }
+  
+  .story h3 {
+    /*-- font-weight: 700; --*/
     
+    font-size: 1.6rem;
+    color: #faeb00 !important;
+    line-height: 1.1em;
+    text-shadow: 1px 1px 2px  #808080;
   }
   
   /*-- putting some parallax effect --*/
@@ -2439,9 +2447,11 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
   
   /*-- If needed, add css property to the content div for its position and z-index. --*/
   .parallax h2{
-  	position: absolute;
+  	position: left;
     font-size: 2.8rem;
     color: #ffffff !important;
+    box-shadow: none !important;
+    border-bottom: 0px solid rgba(0, 0, 0, 0.1);
     text-shadow: 2px 2px 4px #000000;
   	width: 100%;
   	z-index: 1;
