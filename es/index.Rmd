@@ -176,7 +176,7 @@ El acceso a comida para personas mayores proviene principalmente del apoyo famil
 
 <div class="story">
 
-### STORY: 
+### STORY: Para los refugiados mayores en Ecuador, sobrevivir significa saltarse las comidas
 
 Cuando era más joven, Agapito Escobar se las ingeniaba para ganarse la vida. En Colombia, su país de origen, era granjero y vendía frutas; además, horneaba y vendía pan, e incluso llegó a cribar oro después de que se vio obligado a solicitar asilo en Ecuador hace casi dos décadas.
 
@@ -184,9 +184,12 @@ Hoy, Agapito tiene casi 65 años y ya no puede realizar el trabajo físico con e
 
 “Estos días solo hemos desayunado; en la tarde, no hacemos más que tomar un vaso de agua”, dijo Agapito, quien agregó que dependen de la luz de una vela desde que cortaron el suministro eléctrico por falta de pago. 
 
+<iframe width="560" height="415" src="https://www.youtube.com/embed/YrG9sSdxw9E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 En vista de que gran parte de América Latina sigue sufriendo los estragos de la segunda ola del virus, que fue devastadora, el confinamiento y otras restricciones derivadas de la pandemia privaron a la pareja de la única fuente de ingresos con la que contaban: Wilma solía trabajar esporádicamente como partera, de manera que ayudaba a mujeres ecuatorianas en partos complicados.
 
-<iframe width="560" height="415" src="https://www.youtube.com/embed/NpXYvoD8yWg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+[...Lee la historia completa aquí!](https://www.acnur.org/noticias/historia/2021/5/60ad6eac4/la-covid-19-empeora-la-dificil-situacion-en-la-que-ya-se-encontraba-la.html)
 
 </div>  
 

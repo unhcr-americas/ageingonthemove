@@ -1,7 +1,7 @@
 name: "ageingonthemove"
-title: "A dignity claim: Ageing on the move"
+title: "A claim to dignity: Ageing on the move"
 description: |
-  A dignity claim: Ageing on the move
+  A claim to dignity: Ageing on the move
 output_dir: "docs"
 navbar:
   logo:
@@ -23,11 +23,11 @@ navbar:
     - text: "Download"  
       menu:
       - text: "Executive Summary"
-        href: "index.html"
+        href: "https://www.acnur.org/60ad9f544.pdf#page=14"
       - text: "Report"
-        href: "index.html"
+        href: "https://www.acnur.org/60ad9f544"
       - text: "Annexes"
-        href: "index.html"
+        href: "https://www.acnur.org/60ad9f544.pdf#page=180"
       - text: "Data"
         href: "http://microdata.unhcr.org"
       - text: "Media"
