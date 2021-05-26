@@ -176,7 +176,7 @@ El acceso a comida para personas mayores proviene principalmente del apoyo famil
 
 <div class="story">
 
-### STORY: Para los refugiados mayores en Ecuador, sobrevivir significa saltarse las comidas
+### HISTORIA: Para los refugiados mayores en Ecuador, sobrevivir significa saltarse las comidas
 
 Cuando era más joven, Agapito Escobar se las ingeniaba para ganarse la vida. En Colombia, su país de origen, era granjero y vendía frutas; además, horneaba y vendía pan, e incluso llegó a cribar oro después de que se vio obligado a solicitar asilo en Ecuador hace casi dos décadas.
 
@@ -267,7 +267,7 @@ El acceso a los teléfonos móviles no implica conectividad al Internet, ya que 
 
 <div class="story">
 
-### STORY: Personas mayores venezolanas y colombianas se cuidan entre sí bajo el mismo techo
+### HISTORIA: Personas mayores venezolanas y colombianas se cuidan entre sí bajo el mismo techo
 
 Nace el 3 de octubre de 1989, en Riohacha, La Guajira, al norte de Colombia, como un proyecto de vida de una trabajadora social y su núcleo familiar, con la idea de apoyar y ayudar a las personas mayores en esta zona del país. Son 33 años al servicio de quienes lo necesitan: personas que han sido abandonas por familiares y que allí son acogidas. Esta es una labor de carácter comunitario. 
 
@@ -338,4 +338,10 @@ El estudio revela una serie de vulnerabilidades específicas para personas mayor
 
  * El __maltrato psicológico__ está vinculado con la inseguridad y la violencia ya que las personas mayores son más vulnerables que el resto de la población. Las mujeres sufren porcentajes más altos de abuso psicológico en muchos casos y es necesario considerar las diferencias de género cuando se habla de las formas de maltrato. Las personas en tránsito pueden verse afectadas a riesgos muy altos por la extrema vulnerabilidad que implica en ocasiones atravesar por pasos irregulares.
 
-
+```{js, echo=FALSE}  
+(function() {  
+  for (const link of document.getElementsByTagName('a')) {  
+    if (/^(https?:)?\/\//.test(link.getAttribute('href'))) link.target = '_blank';  
+  }  
+})();  
+```  

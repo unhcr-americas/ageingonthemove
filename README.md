@@ -38,6 +38,8 @@ Using a template has the following __advantages__:
  * It becomes possible to develop quickly a microsite without coding any html/css/javascript as the content will be only a [mark-down document](https://www.markdownguide.org/cheat-sheet/)  
  
  * Because the template is based on R-based notebook, it becomes very easy to include charts, graphs and other data visualizations, use directly the correct UNHCr rand with the [unhcRstyle package](https://unhcr-web.github.io/unhcRstyle/docs/).
+ 
+ A good overview of website creation with distill is here: https://rstudio4edu.github.io/rstudio4edu-book/make-distill.html - If you are not yet familiar with git, check this intro: https://happygitwithr.com/
 
 ### Markdown syntax
 

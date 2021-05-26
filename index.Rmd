@@ -64,11 +64,11 @@ library(metathis)
 
 meta() %>%
   meta_social(
-    title = "A dignity claim: Ageing on the move",
+    title = "A claim to dignity: Ageing on the move",
     description = "Making ageing persons visible to enhance comprehensive actions in humanitarian responses",
     url = "https://ageingonthemove.org",
     image = "https://raw.githubusercontent.com/unhcr-americas/ageingonthemove/main/images/macro/ENG-MACRO-1.jpg",
-    image_alt = "A dignity claim: Ageing on the move",
+    image_alt = "A claim to dignity: Ageing on the move",
     og_type = "website",
     og_author = "UNHCR",
     twitter_card_type = "summary",
@@ -155,7 +155,7 @@ Older refugees have been deprived of their financial autonomy as many have lost 
 
 
 ```{r, layout="l-body"}
-include_graphics("images/info/eco.png", dpi = NA)
+include_graphics("images/info/eco1.png", dpi = NA)
 ```
 
 Some 64% of older persons consulted had no monthly income before the pandemic, and of those who did have an income, 62% felt it had not been enough to meet their basic needs.
@@ -340,4 +340,10 @@ The study unveils a series of specific vulnerabilities for older persons on the 
  * __Psychological abuse__ is linked to insecurity and violence: Older persons on the move are more vulnerable than the rest of the population. Women suffer higher percentages of psychological abuse in several cases, and it is necessary to consider gender differences in terms of the forms of mistreatment. People in transit are at higher risk of abuse due to the added vulnerability that crossing irregular border crossings sometimes entails. 
 
 
-
+```{js, echo=FALSE}  
+(function() {  
+  for (const link of document.getElementsByTagName('a')) {  
+    if (/^(https?:)?\/\//.test(link.getAttribute('href'))) link.target = '_blank';  
+  }  
+})();  
+```  

@@ -1,7 +1,7 @@
 name: "ageingonthemove"
-title: "Vejez en la movilidad humana"
+title: "Un reclamo de dignidad: Vejez en la movilidad humana"
 description: |
-  Un reclamo de dignidad: Vejez en la movilidad humana 
+  La necesidad de visibilizar a las personas mayores y asegurar acciones integrales en las respuestas humanitarias 
 output_dir: "docs"
 navbar:
   logo:
@@ -30,8 +30,8 @@ navbar:
         href: "https://www.acnur.org/60ad73844.pdf#page=190"
       - text: "Data"
         href: "http://microdata.unhcr.org"
-      - text: "Medios de Comunicación"
-        href: "https://media.unhcr.org/Package/2CZ9LOL31BHY"
+      - text: "Infografia "
+        href: "https://www.acnur.org/60ad71654"
     - text: "English" 
       href: "../index.html"
 output: distill::distill_article

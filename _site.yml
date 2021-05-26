@@ -30,8 +30,8 @@ navbar:
         href: "https://www.acnur.org/60ad9f544.pdf#page=180"
       - text: "Data"
         href: "http://microdata.unhcr.org"
-      - text: "Media"
-        href: "https://media.unhcr.org/Package/2CZ9LOL31BHY"
+      - text: "Infographics"
+        href: "https://www.acnur.org/60ad71f24"
     - text: "Español"
       href: "es/index.html"
 output: distill::distill_article
