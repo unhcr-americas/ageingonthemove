@@ -58,7 +58,7 @@ At this stage, the template still have issues that remain to be fixed:
  *  Parallax images not working well on certain smartphone models (Iphone) - see [ticket](https://github.com/rstudio/distill/issues/385).
  *  Hamburger menu icon on mobile is very small, toggles out incorrectly and the logos disappear - see [ticket on site navigation](https://github.com/rstudio/distill/issues/210).  
  *  GTM and Google Analytics code snippets do not integrate well in the template. Need to test this [integration](https://rstudio.github.io/distill/website.html#google-analytics)
- *  The social sharing script are not perfectly integrated    Consider removing the Twitter Widgets JS, as I don’t think this is needed.
+ *  The social sharing script are not perfectly integrated  [See instruction to test here](https://www.shamindras.com/posts/2019-07-31-shrotriya2019distillpt2/#step-4-add-blog-post-sharing-options).
  *  Images lazyloading is not integrated  see potential with [lazyrmd](https://github.com/hafen/lazyrmd) - see [ticket](https://github.com/rstudio/distill/issues/386)
  *  Some unnecessary font (FontAwesome) and library (AutoComplete) are loaded by default.
 
