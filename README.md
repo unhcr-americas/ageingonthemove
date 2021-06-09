@@ -55,11 +55,11 @@ The template presented in this repository is based customized version of the [di
 
 At this stage, the template still have issues that remain to be fixed:
 
- *  Parallax images not working well on certain smartphone models (Iphone).
- *  Hamburger menu icon on mobile is very small, toggles out incorrectly and the logos disappear.  
- *  GTM and Google Analytics code snippets do not integrate well in the template.
+ *  Parallax images not working well on certain smartphone models (Iphone) - see [ticket](https://github.com/rstudio/distill/issues/385).
+ *  Hamburger menu icon on mobile is very small, toggles out incorrectly and the logos disappear - see [ticket on site navigation](https://github.com/rstudio/distill/issues/210).  
+ *  GTM and Google Analytics code snippets do not integrate well in the template. Need to test this [integration](https://rstudio.github.io/distill/website.html#google-analytics)
  *  The social sharing script are not perfectly integrated    Consider removing the Twitter Widgets JS, as I don’t think this is needed.
- *  Images lazyloading is not integrated  see potential with [lazyrmd](https://github.com/hafen/lazyrmd)
+ *  Images lazyloading is not integrated  see potential with [lazyrmd](https://github.com/hafen/lazyrmd) - see [ticket](https://github.com/rstudio/distill/issues/386)
  *  Some unnecessary font (FontAwesome) and library (AutoComplete) are loaded by default.
 
 
@@ -266,6 +266,8 @@ When adding a video, you may append different element to the video URL
 `_site.yml` is the file where site navigation bar is being configured, while `_footer.html` is used for the footer.
 
 See also customization advice from https://rstudio4edu.github.io/rstudio4edu-book/rmd-dress.html 
+
+You can organise [site navigation](https://rstudio.github.io/distill/website.html#site-navigation) also in `_site.yml`
 
 ### URL and Search Engine Optimisation (SEO)
 
