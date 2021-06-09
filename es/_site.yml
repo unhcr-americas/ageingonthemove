@@ -1,5 +1,5 @@
 name: "ageingonthemove"
-title: "Un reclamo de dignidad: Vejez en la movilidad humana"
+title: "Vejez en la movilidad humana"
 description: |
   La necesidad de visibilizar a las personas mayores y asegurar acciones integrales en las respuestas humanitarias 
 output_dir: "docs"
@@ -10,7 +10,7 @@ navbar:
   right:
     - text: "Content"  
       menu:
-      - text: "Llamado a la acción "
+      - text: "Llamado a la acción"
         href: "index.html#llamado-a-la-acción"
       - text: "Desafíos y Riesgos de Protección"
         href: "index.html#cuáles-son-los-riesgos-de-protección-y-desafíos-que-enfrentan-las-personas-mayores-en-situación-de-movilidad-humana-en-las-américas"

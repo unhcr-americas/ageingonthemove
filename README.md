@@ -4,11 +4,9 @@ Microsite for the Report:  __A dignity claim: Ageing on the move__
 
 ## What's a microsite and when to use it?
 
-A microsite is a single web-page or a small cluster of web pages that exist separate from the organization main website and is used for specific campaigns. A microsite will have its own domain or unique URL and the branding of it may differ from the brand’s usual one. 
+A microsite is a single web-page or a small cluster of web pages that exist separate from the organization main website and is used for specific campaign. To this rgard a microsite can have its own domain or unique URL and a different and distinctive branding. Microsite can typically be built to highlight content from joint study and research process, following a data collection exercise.
 
-It can typically be built to highlight content from joint study and research process.
-
-Using a reproducible analysis approach, the following workflow can be used:
+Using a __reproducible analysis__ approach, the following workflow can be used:
 
  1. After data collection in [kobotoolbox](https://kobo.unhcr.org) and one data has been deposited and documented on [RIDL](https://ridl.unhcr.org/), an __initial data crunching report__ can be generated. This can be done with [koboloadeR](https://unhcr.github.io/koboloadeR/docs/). Ideally both the data crunching notebook source (i.e Rmd file) and output (i.e. html, docx or pptx) should also be recorded in RIDL. 
  
@@ -21,7 +19,7 @@ Using a reproducible analysis approach, the following workflow can be used:
 
 ## Why a re-usable microsite template? 
 
-This repository can be used as a template to __generate microsite__. The aim is to reproduce the look-and-feel from other UNHCR microsite like: 
+This repository can be used as a template to __generate microsite__. The aim is to reproduce the look-and-feel from other UNHCR microsites like: 
 
  * [Desperate journeys](https://www.unhcr.org/desperatejourneys/)
  * [Families on the run](https://familiesontherun.org/)
@@ -31,15 +29,39 @@ This repository can be used as a template to __generate microsite__. The aim is 
  
 The report generated through this repository is available here: [A dignity claim: Ageing on the move](https://unhcr-americas.github.io/ageingonthemove).
 
-Using a template has the following __advantages__: 
+## Functional requirement for a microsite template
 
- * The template is based customized version of the [distill package](https://rstudio.github.io/distill/website.html), a template wich is by default responsive 9i.e. works well both on desktop and smartphone...) and will therefore benefit from all improvement developed for the initial template. 
+In order to ease the development of microsite, making a re-usable template is the initial requirement. Such template is expected to address the following functional requirements; 
+
+ 1. The template should use a basic and easy to learn __[markdown](https://www.markdownguide.org/cheat-sheet/)  syntax__ allowing users to avoid coding any additional  html/css/javascript. 
  
- * It becomes possible to develop quickly a microsite without coding any html/css/javascript as the content will be only a [mark-down document](https://www.markdownguide.org/cheat-sheet/)  
+ 2. The template should allow to integrate with [Rmd](https://rmarkdown.rstudio.com/) template would facilitate the full integration of reproducible analysis and the generation of charts following UNHCR brand and as implemented in the [unhcRstyle package](https://unhcr-web.github.io/unhcRstyle/docs/).
  
- * Because the template is based on R-based notebook, it becomes very easy to include charts, graphs and other data visualizations, use directly the correct UNHCr rand with the [unhcRstyle package](https://unhcr-web.github.io/unhcRstyle/docs/).
+ 3. The resulting microsite should be fully responsive (aka works on smartphone, tablet, laptop and desktop with various screen size).
  
- A good overview of website creation with distill is here: https://rstudio4edu.github.io/rstudio4edu-book/make-distill.html - If you are not yet familiar with git, check this intro: https://happygitwithr.com/
+ 4. The template should include different ways to highlight contents (boxes, side note), include sufficient social sharing capacity (posting on facebook or twitter) and include [parallax scrolling effects](https://www.wix.com/blog/2019/08/what-is-parallax-scrolling-explained-with-examples/) with picture to better separate the content
+ 
+ 5. The template should be independent from any Content Management System (CMS) and work with a Website Building script transforming the initial markdown file into static html site. The website building script should be open source in order to allow for the microsite to be developed collaboratively through a [github repository](https://happygitwithr.com/).
+ 
+ 6. The template should integrate with standard UNHCR SEO/UX/tracking features
+
+
+ 
+ 
+## Current template prototype  
+
+The template presented in this repository is based customized version of the [distill package](https://rstudio.github.io/distill/website.html) with allows to generate Statis html stie through built-in building capacity in [Rstudio](. A good overview of website creation with distill is here: https://rstudio4edu.github.io/rstudio4edu-book/make-distill.html - If you are not yet familiar with git, check this intro: https://happygitwithr.com/
+
+
+At this stage, the template still have issues that remain to be fixed:
+
+ *  Parallax images not working well on certain smartphone models (Iphone).
+ *  Hamburger menu icon on mobile is very small, toggles out incorrectly and the logos disappear.  
+ *  GTM and Google Analytics code snippets do not integrate well in the template.
+ *  The social sharing script are not perfectly integrated    Consider removing the Twitter Widgets JS, as I don’t think this is needed.
+ *  Images lazyloading is not integrated  see potential with [lazyrmd](https://github.com/hafen/lazyrmd)
+ *  Some unnecessary font (FontAwesome) and library (AutoComplete) are loaded by default.
+
 
 ### Markdown syntax
 
