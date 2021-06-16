@@ -3,6 +3,7 @@ title: "A claim to dignity: Ageing on the move"
 description: |
   A claim to dignity: Ageing on the move
 output_dir: "docs"
+google_analytics: "GTM-W55KLNP"
 navbar:
   logo:
     image: images/logo.png
@@ -32,6 +33,8 @@ navbar:
         href: "http://microdata.unhcr.org"
       - text: "Infographics"
         href: "https://www.acnur.org/60ad71f24"
+      - text: "Media"
+        href: "https://media.unhcr.org/Package/2CZ9LOL31BHY"
     - text: "Español"
       href: "es/index.html"
 output: distill::distill_article

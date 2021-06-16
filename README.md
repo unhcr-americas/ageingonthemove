@@ -50,7 +50,7 @@ In order to ease the development of microsite, making a re-usable template is th
  
 ## Current template prototype  
 
-The template presented in this repository is based customized version of the [distill package](https://rstudio.github.io/distill/website.html) with allows to generate Statis html stie through built-in building capacity in [Rstudio](. A good overview of website creation with distill is here: https://rstudio4edu.github.io/rstudio4edu-book/make-distill.html - If you are not yet familiar with git, check this intro: https://happygitwithr.com/
+The template presented in this repository is based customized version of the [distill package](https://rstudio.github.io/distill/website.html) with allows to generate Statis html stie through built-in building capacity in [Rstudio](. A good overview of website creation with distill is here: https://rstudio4edu.github.io/rstudio4edu-book/make-distill.html and here https://themockup.blog/posts/2020-08-01-building-a-blog-with-distill/ - If you are not yet familiar with git, check this intro: https://happygitwithr.com/
 
 
 At this stage, the template still have issues that remain to be fixed:
@@ -180,12 +180,13 @@ UNHCR has its own media library that can be used to search and select pictures: 
 
 When selecting pictures for a report, as pointed in the report: [Aid recipients call for more dignity and diversity in INGO campaigns](https://www.radiaid.com/aid-recipients-call-for-more-dignity-and-diversity): "_Aid communication still needs to move away from presenting the single story: Why not try to create a sense of hope or provide inspiration to the viewer, instead of primarily provoking feelings of despair?_"
 
-Practically speaking this implies;
+As advised by the [Global protection cluster](https://www.globalprotectioncluster.org/wp-content/uploads/Protection-Analysis-Update-Template_FINAL.docx), it is key to check appropriateness of images 
+ * Avoid individual or close up pictures of people who can be identified.
+ * Avoid pictures of protection actors having a conversation with a group.
+ * Do select pictures of a whole areas (e.g. a whole camp or settlement, or pictures where people cannot be identified, 
+ * Do select pictures of protection actors in action to show the work done – include a caption that explains the work being done, to achieve better protection or reduce risks. 
 
- * Avoid putting pictures of persons that can be easily recognized.  
-  
- * If the pictures you have includes persons that can be recognized, do not include those that present the person in a state of despair.  An emotional state of despair can easily be conveyed by pictures that do not include recognizable faces.
-
+In addition, If the pictures you have includes persons that can be recognized, do not include those that present the person in a state of despair.  An emotional state of despair can easily be conveyed by pictures that do not include recognizable faces.
 
 #### First resize them
 
@@ -267,7 +268,9 @@ When adding a video, you may append different element to the video URL
 
 See also customization advice from https://rstudio4edu.github.io/rstudio4edu-book/rmd-dress.html 
 
-You can organise [site navigation](https://rstudio.github.io/distill/website.html#site-navigation) also in `_site.yml`
+You can organize [site navigation](https://rstudio.github.io/distill/website.html#site-navigation) also in `_site.yml`
+
+Some interesting hints there: https://www.jhelvy.com/posts/2021-03-25-customizing-distill-with-htmltools-and-css/ 
 
 ### URL and Search Engine Optimisation (SEO)
 

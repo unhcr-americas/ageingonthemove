@@ -3,6 +3,7 @@ title: "Vejez en la movilidad humana"
 description: |
   La necesidad de visibilizar a las personas mayores y asegurar acciones integrales en las respuestas humanitarias 
 output_dir: "docs"
+google_analytics: "GTM-W55KLNP"
 navbar:
   logo:
     image: images/logo.png
@@ -32,6 +33,8 @@ navbar:
         href: "http://microdata.unhcr.org"
       - text: "Infografia "
         href: "https://www.acnur.org/60ad71654"
+      - text: "Media"
+        href: "https://media.unhcr.org/Package/2CZ9LOL31BHY"
     - text: "English" 
       href: "../index.html"
 output: distill::distill_article
